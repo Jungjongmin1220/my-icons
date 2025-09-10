@@ -10,7 +10,7 @@
     "tags": ["animal", "pet", "canine"]
   },
   {
-    "name": "tiger"
+    "name": "tiger",
     "url": "https://picsum.photos/seed/lion/128/128",
     "tags": ["animal", "wild"]
   }
