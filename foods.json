@@ -1,5 +1,17 @@
 [
-  "https://cdn.mysite.com/icons/apple.png",
-  "https://cdn.mysite.com/icons/burger.png",
-  "https://cdn.mysite.com/icons/pizza.png",
+  {
+    "name": "apple",
+    "url": "https://picsum.photos/seed/apple/128/128",
+    "tags": ["fruit", "food", "healthy"]
+  },
+  {
+    "name": "pizza",
+    "url": "https://picsum.photos/seed/pizza/128/128",
+    "tags": ["fastfood", "food", "cheese"]
+  },
+  {
+    "name": "sushi",
+    "url": "https://picsum.photos/seed/sushi/128/128",
+    "tags": ["japanese", "food", "rice"]
+  }
 ]
