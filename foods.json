@@ -1,17 +1,6 @@
 [
-  {
-    "name": "apple",
-    "url": "https://picsum.photos/seed/apple/128/128",
-    "tags": ["fruit", "food", "healthy"]
-  },
-  {
-    "name": "pizza",
-    "url": "https://picsum.photos/seed/pizza/128/128",
-    "tags": ["fastfood", "food", "cheese"]
-  },
-  {
-    "name": "sushi",
-    "url": "https://picsum.photos/seed/sushi/128/128",
-    "tags": ["japanese", "food", "rice"]
-  }
+  { "name": "apple",  "url": "https://picsum.photos/seed/food1/128/128", "tags": ["food","fruit"] },
+  { "name": "bread",  "url": "https://picsum.photos/seed/food2/128/128", "tags": ["food","baked"] },
+  { "name": "coffee", "url": "https://picsum.photos/seed/food3/128/128", "tags": ["drink","cafe"] },
+  { "name": "salad",  "url": "https://picsum.photos/seed/food4/128/128", "tags": ["food","vegan"] }
 ]
