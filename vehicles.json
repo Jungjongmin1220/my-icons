@@ -1,17 +1,6 @@
 [
-  {
-    "name": "car",
-    "url": "https://picsum.photos/seed/car/128/128",
-    "tags": ["vehicle", "land", "transport"]
-  },
-  {
-    "name": "bicycle",
-    "url": "https://picsum.photos/seed/bike/128/128",
-    "tags": ["vehicle", "eco", "sport"]
-  },
-  {
-    "name": "airplane",
-    "url": "https://picsum.photos/seed/airplane/128/128",
-    "tags": ["vehicle", "air", "travel"]
-  }
+  { "name": "bus",    "url": "https://picsum.photos/seed/veh1/128/128", "tags": ["vehicle"] },
+  { "name": "car",    "url": "https://picsum.photos/seed/veh2/128/128", "tags": ["vehicle"] },
+  { "name": "bike",   "url": "https://picsum.photos/seed/veh3/128/128", "tags": ["vehicle","outdoor"] },
+  { "name": "bridge", "url": "https://picsum.photos/seed/veh4/128/128", "tags": ["landmark","vehicle"] }
 ]
