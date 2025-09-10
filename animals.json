@@ -1,8 +1,5 @@
 [
-  {"name": "cat", "url": "https://picsum.photos/seed/cat/128/128", "tags": ["animal", "pet"]
-  },
-  {"name": "dog", "url": "https://picsum.photos/seed/dog/128/128", "tags": ["animal", "pet", "canine"]
-  },
-  {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]
-  }
+  {"name": "cat", "url": "https://picsum.photos/seed/cat/128/128", "tags": ["animal", "pet"]},
+  {"name": "dog", "url": "https://picsum.photos/seed/dog/128/128", "tags": ["animal", "pet", "canine"]},
+  {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]}
 ]
