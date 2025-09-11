@@ -1,6 +1,6 @@
 [
   {"name": "cat", "url": "https://i.guim.co.uk/img/media/327aa3f0c3b8e40ab03b4ae80319064e401c6fbc/377_133_3542_2834/master/3542.jpg?width=620&dpr=2&s=none&crop=none", "tags": ["animal", "pet"]},
   {"name": "dog", "url": "https://picsum.photos/seed/dog/128/128", "tags": ["animal", "pet", "canine"]},
-  {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]}
+  {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]},
   {"name": "bird", "url": "https://picsum.photos/seed/bird/128/128", "tags": ["animal", "bird"]}
 ]
