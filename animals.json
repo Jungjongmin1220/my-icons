@@ -1,6 +1,6 @@
 [
-  {"name": "hub", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hub.png", "tags": ["plant", "hub"]},
-  {"name": "dog", "url": "https://picsum.photos/seed/dog/128/128", "tags": ["animal", "pet", "canine"]},
-  {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]},
-  {"name": "bird", "url": "https://picsum.photos/seed/bird/128/128", "tags": ["animal", "bird"]}
+  {"name": "hub", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hub.png", "tags": ["animal", "plant", "hub"]},
+  {"name": "dog", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dog.png", "tags": ["animal", "pet", "dog"]},
+  {"name": "poodle", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/poodle.png", "tags": ["animal", "poodle"]},
+  {"name": "cat", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cat.png", "tags": ["animal", "cat"]}
 ]
