@@ -1,5 +1,5 @@
 [
-  { "name": "apple",  "url": "https://github.com/Jungjongmin1220/my-icons/blob/main/dimsum.png", "tags": ["food","dimsum"] },
+  { "name": "apple",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png", "tags": ["food","dimsum"] },
   { "name": "bread",  "url": "https://picsum.photos/seed/food2/128/128", "tags": ["food","baked"] },
   { "name": "coffee", "url": "https://picsum.photos/seed/food3/128/128", "tags": ["drink","cafe"] },
   { "name": "salad",  "url": "https://picsum.photos/seed/food4/128/128", "tags": ["food","vegan"] }
