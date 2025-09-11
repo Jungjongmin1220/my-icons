@@ -1,6 +1,6 @@
 [
-  { "name": "apple",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png", "tags": ["food","dimsum"] },
-  { "name": "bread",  "url": "https://picsum.photos/seed/food2/128/128", "tags": ["food","baked"] },
-  { "name": "coffee", "url": "https://picsum.photos/seed/food3/128/128", "tags": ["drink","cafe"] },
-  { "name": "salad",  "url": "https://picsum.photos/seed/food4/128/128", "tags": ["food","vegan"] }
+  { "name": "dimsum",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png", "tags": ["food","dimsum"] },
+  { "name": "rice",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rice.png", "tags": ["food","rice"] },
+  { "name": "egg", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/egg.png", "tags": ["drink","egg"] },
+  { "name": "butter",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/butter.png", "tags": ["food","butter"] }
 ]
