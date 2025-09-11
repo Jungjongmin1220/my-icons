@@ -1,5 +1,5 @@
 [
-  {"name": "cat", "url": "https://picsum.photos/seed/cat/128/128", "tags": ["animal", "pet"]},
+  {"name": "cat", "url": "https://ko.wikipedia.org/wiki/야생화된_고양이#/media/파일:Stray_cat_at_Castillo_San_Felipe_del_Morro,_Puerto_Rico_(cropped).jpg", "tags": ["animal", "pet"]},
   {"name": "dog", "url": "https://picsum.photos/seed/dog/128/128", "tags": ["animal", "pet", "canine"]},
   {"name": "tiger", "url": "https://picsum.photos/seed/lion/128/128", "tags": ["animal", "wild"]}
 ]
