@@ -1,6 +1,6 @@
 [
   { "name": "bus",    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/sports%20car.png", "tags": ["vehicle","sports car"] },
   { "name": "car",    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rasing%20car.png", "tags": ["vehicle","rasing car"] },
-  { "name": "bike",   "url": "https://picsum.photos/seed/veh3/128/128", "tags": ["vehicle","outdoor"] },
-  { "name": "bridge", "url": "https://picsum.photos/seed/veh4/128/128", "tags": ["landmark","vehicle"] }
+  { "name": "bicycle",   "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/bicycle.png", "tags": ["vehicle"] },
+  { "name": "truck", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/truck.png", "tags": ["landmark"]}
 ]
