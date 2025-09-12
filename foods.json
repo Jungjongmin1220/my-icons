@@ -1,5 +1,7 @@
 [
   { "name": "dimsum",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png", "tags": ["food","dimsum"] },
+  { "name": "pizza",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pizza.png", "tags": ["food","pizza"] },
+  { "name": "leafy green",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/leafy%20green.png", "tags": ["food","leafy green"] },
   { "name": "strawberry cake",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/strawberrycake.png", "tags": ["food","cake"] },
   { "name": "cupcake",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cupcake.png", "tags": ["food","cake"] },
   { "name": "rice",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rice.png", "tags": ["food","rice"] },
