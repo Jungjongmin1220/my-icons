@@ -1,12 +1,147 @@
 [
-  { "name": "dimsum",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png", "tags": ["food","dimsum","3d"] },
-  { "name": "dango",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dango.png", "tags": ["food","dango","3d"] },
-  { "name": "pie",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pie.png", "tags": ["food","pie","2d"] },
-  { "name": "pizza",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pizza.png", "tags": ["food","pizza"] },
-  { "name": "leafy green",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/leafy%20green.png", "tags": ["food","leafy green"] },
-  { "name": "strawberry cake",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/strawberrycake.png", "tags": ["food","cake"] },
-  { "name": "cupcake",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cupcake.png", "tags": ["food","cake"] },
-  { "name": "rice",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rice.png", "tags": ["food","rice"] },
-  { "name": "egg", "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/egg.png", "tags": ["drink","egg"] },
-  { "name": "butter",  "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/butter.png", "tags": ["food","butter"] }
+  {
+    "name": "dimsum",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dimsum.png",
+    "tags": ["food", "chinese", "dumpling", "snack", "steamed"]
+  },
+  {
+    "name": "dango",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dango.png",
+    "tags": ["food", "japanese", "dessert", "skewer", "sweet"]
+  },
+  {
+    "name": "pie",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pie.png",
+    "tags": ["food", "dessert", "baked", "pastry", "sweet"]
+  },
+  {
+    "name": "pizza",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pizza.png",
+    "tags": ["food", "italian", "fast food", "cheese", "bread"]
+  },
+  {
+    "name": "leafy green",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/leafy%20green.png",
+    "tags": ["food", "vegetable", "green", "fresh", "healthy"]
+  },
+  {
+    "name": "strawberry cake",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/strawberrycake.png",
+    "tags": ["food", "cake", "dessert", "strawberry", "sweet"]
+  },
+  {
+    "name": "cupcake",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cupcake.png",
+    "tags": ["food", "cake", "dessert", "sweet", "baked"]
+  },
+  {
+    "name": "rice",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rice.png",
+    "tags": ["food", "grain", "staple", "asian", "cooked"]
+  },
+  {
+    "name": "egg",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/egg.png",
+    "tags": ["food", "protein", "ingredient", "breakfast", "simple"]
+  },
+  {
+    "name": "butter",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/butter.png",
+    "tags": ["food", "dairy", "ingredient", "spread", "cooking"]
+  },
+  {
+    "name": "amphora",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/amphora.png",
+    "tags": ["drink", "ancient", "storage", "clay", "container"]
+  },
+  {
+    "name": "beverage box",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/beverage%20box.png",
+    "tags": ["drink", "juice", "box", "carton", "kids"]
+  },
+  {
+    "name": "bottle with popping cork",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/bottle%20with%20popping%20cork.png",
+    "tags": ["drink", "celebration", "champagne", "party", "alcohol"]
+  },
+  {
+    "name": "bubble tea",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/bubble%20tea.png",
+    "tags": ["drink", "taiwan", "milk tea", "boba", "sweet"]
+  },
+  {
+    "name": "chopsticks",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/chopsticks.png",
+    "tags": ["tool", "asian", "utensil", "eating", "pair"]
+  },
+  {
+    "name": "clinking beer mugs",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clinking%20beer%20mugs.png",
+    "tags": ["drink", "beer", "cheers", "alcohol", "celebration"]
+  },
+  {
+    "name": "clinking glasses",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clinking%20glasses.png",
+    "tags": ["drink", "cheers", "celebration", "wine", "toast"]
+  },
+  {
+    "name": "cocktail glass",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cocktail%20glass.png",
+    "tags": ["drink", "cocktail", "alcohol", "bar", "martini"]
+  },
+  {
+    "name": "cup with straw",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cup%20with%20straw.png",
+    "tags": ["drink", "soft drink", "soda", "fast food", "takeout"]
+  },
+  {
+    "name": "fork and knife with plate",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fork%20and%20knife%20with%20plate.png",
+    "tags": ["tool", "meal", "plate", "utensil", "dining"]
+  },
+  {
+    "name": "fork and knife",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fork%20and%20knife.png",
+    "tags": ["tool", "cutlery", "utensil", "dining", "meal"]
+  },
+  {
+    "name": "green tea",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/green%20tea.png",
+    "tags": ["drink", "tea", "hot", "asian", "healthy"]
+  },
+  {
+    "name": "jar",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/jar.png",
+    "tags": ["container", "storage", "food", "glass", "kitchen"]
+  },
+  {
+    "name": "kitchen knife",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/kitchen%20knife.png",
+    "tags": ["tool", "kitchen", "knife", "cooking", "cutting"]
+  },
+  {
+    "name": "mate",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/mate.png",
+    "tags": ["drink", "south america", "herbal", "tea", "traditional"]
+  },
+  {
+    "name": "sake",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/sake.png",
+    "tags": ["drink", "japanese", "alcohol", "rice wine", "traditional"]
+  },
+  {
+    "name": "teapot",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/teapot.png",
+    "tags": ["drink", "tea", "pot", "brew", "kitchen"]
+  },
+  {
+    "name": "tropical drink",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/tropical%20drink.png",
+    "tags": ["drink", "cocktail", "summer", "beach", "fruit"]
+  },
+  {
+    "name": "wine glass",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/wine%20glass.png",
+    "tags": ["drink", "wine", "alcohol", "glass", "celebration"]
+  }
 ]
