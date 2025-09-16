@@ -1,0 +1,56 @@
+[
+  {
+    "name": "circus tent",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/circus%20tent.png",
+    "tags": [
+      "circus",
+      "place",
+      "tent"
+    ]
+  },
+  {
+    "name": "ferris wheel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/ferris%20wheel.png",
+    "tags": [
+      "ferris",
+      "place",
+      "wheel"
+    ]
+  },
+  {
+    "name": "roller coaster",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/roller%20coaster.png",
+    "tags": [
+      "coaster",
+      "place",
+      "roller"
+    ]
+  },
+  {
+    "name": "snow capped mountain",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/snow%20capped%20mountain.png",
+    "tags": [
+      "capped",
+      "mountain",
+      "place",
+      "snow"
+    ]
+  },
+  {
+    "name": "stadium",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/stadium.png",
+    "tags": [
+      "place",
+      "stadium"
+    ]
+  },
+  {
+    "name": "tokyo tower",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/tokyo%20tower.png",
+    "tags": [
+      "place",
+      "tokyo",
+      "tower"
+    ]
+  }
+]

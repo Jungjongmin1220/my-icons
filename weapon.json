@@ -1,0 +1,67 @@
+[
+  {
+    "name": "bomb",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/bomb.png",
+    "tags": [
+      "bomb",
+      "weapon"
+    ]
+  },
+  {
+    "name": "dagger",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dagger.png",
+    "tags": [
+      "dagger",
+      "weapon"
+    ]
+  },
+  {
+    "name": "fat man",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fat%20man.png",
+    "tags": [
+      "fat",
+      "man",
+      "weapon"
+    ]
+  },
+  {
+    "name": "flame sword",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/flame%20sword.png",
+    "tags": [
+      "flame",
+      "sword",
+      "weapon"
+    ]
+  },
+  {
+    "name": "fork and knife",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fork%20and%20knife.png",
+    "tags": [
+      "and",
+      "fork",
+      "knife",
+      "weapon"
+    ]
+  },
+  {
+    "name": "fork and knife with plate",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fork%20and%20knife%20with%20plate.png",
+    "tags": [
+      "and",
+      "fork",
+      "knife",
+      "plate",
+      "weapon",
+      "with"
+    ]
+  },
+  {
+    "name": "kitchen knife",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/kitchen%20knife.png",
+    "tags": [
+      "kitchen",
+      "knife",
+      "weapon"
+    ]
+  }
+]

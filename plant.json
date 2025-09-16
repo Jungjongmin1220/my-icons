@@ -1,0 +1,102 @@
+[
+  {
+    "name": "bouquet",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/bouquet.png",
+    "tags": [
+      "bouquet",
+      "plant"
+    ]
+  },
+  {
+    "name": "cactus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/cactus.png",
+    "tags": [
+      "cactus",
+      "plant"
+    ]
+  },
+  {
+    "name": "coral",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/coral.png",
+    "tags": [
+      "coral",
+      "plant"
+    ]
+  },
+  {
+    "name": "evergreen tree",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/evergreen%20tree.png",
+    "tags": [
+      "evergreen",
+      "plant",
+      "tree"
+    ]
+  },
+  {
+    "name": "four leaf clover",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/four%20leaf%20clover.png",
+    "tags": [
+      "clover",
+      "four",
+      "leaf",
+      "plant"
+    ]
+  },
+  {
+    "name": "hibiscus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hibiscus.png",
+    "tags": [
+      "hibiscus",
+      "plant"
+    ]
+  },
+  {
+    "name": "hyacinth",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hyacinth.png",
+    "tags": [
+      "hyacinth",
+      "plant"
+    ]
+  },
+  {
+    "name": "palm tree",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/palm%20tree.png",
+    "tags": [
+      "palm",
+      "plant",
+      "tree"
+    ]
+  },
+  {
+    "name": "rose",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rose.png",
+    "tags": [
+      "plant",
+      "rose"
+    ]
+  },
+  {
+    "name": "seedling",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/seedling.png",
+    "tags": [
+      "plant",
+      "seedling"
+    ]
+  },
+  {
+    "name": "sunflower",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/sunflower.png",
+    "tags": [
+      "plant",
+      "sunflower"
+    ]
+  },
+  {
+    "name": "tulip",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/tulip.png",
+    "tags": [
+      "plant",
+      "tulip"
+    ]
+  }
+]
