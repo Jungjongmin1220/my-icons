@@ -5,8 +5,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/X%20ray_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -15,8 +14,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/abacus_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -35,8 +33,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ak47_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -45,10 +42,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/alarm%20clock_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility",
-      "home",
-      "furniture"
+      "time",
+      "measurement"
     ]
   },
   {
@@ -57,8 +52,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/axe_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "tool",
+      "weapon"
     ]
   },
   {
@@ -67,8 +62,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/balance%20scale_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -77,10 +71,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ballot%20box_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility",
-      "outdoor",
-      "leisure"
+      "misc"
     ]
   },
   {
@@ -89,8 +80,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/banzo_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -99,8 +89,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/baording%20pass_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -109,8 +98,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bar%20chart_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -119,8 +107,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/basket_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -129,8 +116,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bathtub_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -140,9 +126,7 @@
     "tags": [
       "object",
       "outdoor",
-      "leisure",
-      "home",
-      "furniture"
+      "weather"
     ]
   },
   {
@@ -152,7 +136,7 @@
     "tags": [
       "object",
       "outdoor",
-      "leisure"
+      "weather"
     ]
   },
   {
@@ -161,8 +145,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bear%20spray_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -171,8 +154,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bed_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -181,8 +164,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bellhop%20bell_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "misc"
     ]
   },
   {
@@ -191,8 +173,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/binyeo_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -201,8 +182,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bomb_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "misc"
     ]
   },
   {
@@ -212,7 +192,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "reading"
     ]
   },
   {
@@ -221,8 +201,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/books_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -231,8 +211,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/boomerang_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "misc"
     ]
   },
   {
@@ -241,8 +220,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bow%20and%20arrow_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "misc"
     ]
   },
   {
@@ -251,10 +229,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bowl%20with%20spoon_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool",
-      "kitchen",
-      "home"
+      "misc"
     ]
   },
   {
@@ -263,8 +238,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/briefcase_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -273,8 +247,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broken%20chain_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -283,8 +256,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broom_thumb.webp",
     "tags": [
       "object",
-      "cleaning",
-      "home"
+      "misc"
     ]
   },
   {
@@ -293,8 +265,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bubbles_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -303,8 +274,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bucket_thumb.webp",
     "tags": [
       "object",
-      "cleaning",
-      "home"
+      "misc"
     ]
   },
   {
@@ -313,8 +283,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bus%20stop_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -323,8 +293,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cable%20tie%20bundle_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -333,8 +302,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/campfire_thumb.webp",
     "tags": [
       "object",
-      "outdoor",
-      "leisure"
+      "misc"
     ]
   },
   {
@@ -344,7 +312,7 @@
     "tags": [
       "object",
       "lighting",
-      "utility"
+      "illumination"
     ]
   },
   {
@@ -353,8 +321,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carabiner%20bundle_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -363,10 +331,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/card%20file%20box_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
-      "container",
-      "utility"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -375,8 +341,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carousel%20horse_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -385,10 +351,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carpentry%20saw_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -397,8 +361,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chain_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -407,8 +370,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chair_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -417,8 +380,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/charcoal%20package_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -427,8 +389,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20decreasing_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -437,8 +398,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20increasing_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -447,8 +407,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chemical%20light_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "lighting",
+      "illumination"
     ]
   },
   {
@@ -457,8 +417,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chopsticks_thumb.webp",
     "tags": [
       "object",
-      "kitchen",
-      "home"
+      "misc"
     ]
   },
   {
@@ -467,8 +426,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cigarette_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -478,7 +436,7 @@
     "tags": [
       "object",
       "outdoor",
-      "leisure"
+      "camping"
     ]
   },
   {
@@ -488,9 +446,7 @@
     "tags": [
       "object",
       "lighting",
-      "utility",
-      "home",
-      "furniture"
+      "illumination"
     ]
   },
   {
@@ -499,8 +455,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clapper%20board_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "media",
+      "recording"
     ]
   },
   {
@@ -509,8 +465,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clipboard_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "media",
+      "recording"
     ]
   },
   {
@@ -519,8 +475,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/coffin_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -529,11 +484,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/compass_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
-      "stationery",
-      "office",
-      "outdoor"
+      "misc"
     ]
   },
   {
@@ -542,8 +493,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cookware%20set_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -552,10 +502,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/couch%20and%20lamp_thumb.webp",
     "tags": [
       "object",
-      "lighting",
-      "utility",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -565,7 +513,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -574,8 +522,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/credit%20card_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -584,8 +532,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crown_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -594,8 +541,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crutch_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -605,7 +551,7 @@
     "tags": [
       "object",
       "kitchen",
-      "home"
+      "drinkware"
     ]
   },
   {
@@ -614,8 +560,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dagger_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "tool",
+      "weapon"
     ]
   },
   {
@@ -624,10 +570,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/digital%20timer%20clock_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility",
-      "home",
-      "furniture"
+      "time",
+      "measurement"
     ]
   },
   {
@@ -636,8 +580,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dolhareubang_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -646,8 +589,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/door_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "misc"
     ]
   },
   {
@@ -656,8 +598,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/duct%20tape_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -666,8 +607,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dvd_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -676,8 +616,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electric%20plug_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -686,8 +625,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electronic%20organ%20keyboard_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "media",
+      "recording"
     ]
   },
   {
@@ -696,8 +635,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/espresso%20machine_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -706,8 +644,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fax%20machine_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -716,8 +653,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ferris%20wheel_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -726,10 +662,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20cabinet_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
-      "home",
-      "furniture"
+      "misc"
     ]
   },
   {
@@ -738,8 +671,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20folder_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware"
+      "misc"
     ]
   },
   {
@@ -748,8 +680,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/film%20projector_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "media",
+      "recording"
     ]
   },
   {
@@ -758,8 +690,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fire%20extinguisher_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -768,8 +699,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/firework%20launcher_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -788,8 +718,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flame%20sword_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "tool",
+      "weapon"
     ]
   },
   {
@@ -799,7 +729,7 @@
     "tags": [
       "object",
       "lighting",
-      "utility"
+      "illumination"
     ]
   },
   {
@@ -808,8 +738,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/floppy%20disk_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -818,8 +747,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20document_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -828,8 +757,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20map_thumb.webp",
     "tags": [
       "object",
-      "outdoor",
-      "leisure"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -838,8 +767,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20chair_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -848,8 +777,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20table_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -858,10 +787,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife%20with%20plate_thumb.webp",
     "tags": [
       "object",
-      "weapon",
       "tool",
-      "kitchen",
-      "home"
+      "weapon"
     ]
   },
   {
@@ -870,10 +797,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife_thumb.webp",
     "tags": [
       "object",
-      "weapon",
       "tool",
-      "kitchen",
-      "home"
+      "weapon"
     ]
   },
   {
@@ -883,7 +808,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -892,8 +817,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/funeral%20%20urn_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -902,8 +826,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gear_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "tool",
+      "work"
     ]
   },
   {
@@ -912,8 +836,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gem%20stone_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "jewelry",
+      "valuable"
     ]
   },
   {
@@ -922,8 +846,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/glacier%20ice%20chunk_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -932,8 +855,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/greek%20temple%20column_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -942,8 +864,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hair%20pick_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -953,7 +874,7 @@
     "tags": [
       "object",
       "tool",
-      "hardware"
+      "work"
     ]
   },
   {
@@ -963,7 +884,7 @@
     "tags": [
       "object",
       "tool",
-      "hardware"
+      "work"
     ]
   },
   {
@@ -973,7 +894,7 @@
     "tags": [
       "object",
       "tool",
-      "hardware"
+      "work"
     ]
   },
   {
@@ -982,8 +903,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammock_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "outdoor",
+      "camping"
     ]
   },
   {
@@ -992,8 +913,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hand%20sanitizer_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "medical",
+      "health"
     ]
   },
   {
@@ -1002,8 +923,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/headstone_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1012,8 +932,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hook_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1022,8 +941,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/inflatable%20sleeping%20mat_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -1032,8 +951,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/jar_thumb.webp",
     "tags": [
       "object",
-      "kitchen",
-      "home"
+      "misc"
     ]
   },
   {
@@ -1042,8 +960,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/katana_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "tool",
+      "weapon"
     ]
   },
   {
@@ -1052,10 +970,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/kitchen%20knife_thumb.webp",
     "tags": [
       "object",
-      "weapon",
       "tool",
-      "kitchen",
-      "home"
+      "weapon"
     ]
   },
   {
@@ -1064,8 +980,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/knot_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1074,8 +989,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/korean%20passport_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -1084,8 +999,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ladder_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware"
+      "misc"
     ]
   },
   {
@@ -1094,8 +1008,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/landslide_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1104,8 +1017,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ledger_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1114,8 +1026,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/level%20slider_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware"
+      "misc"
     ]
   },
   {
@@ -1125,7 +1036,7 @@
     "tags": [
       "object",
       "lighting",
-      "utility"
+      "illumination"
     ]
   },
   {
@@ -1134,8 +1045,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/link_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -1144,8 +1054,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lipstick_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "personal",
+      "hygiene"
     ]
   },
   {
@@ -1154,8 +1064,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lock_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -1164,8 +1073,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/long%20drum_thumb.webp",
     "tags": [
       "object",
-      "art",
-      "music"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -1175,7 +1084,7 @@
     "tags": [
       "object",
       "kitchen",
-      "home"
+      "drinkware"
     ]
   },
   {
@@ -1184,8 +1093,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/luggage_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -1194,8 +1103,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/magnet_thumb.webp",
     "tags": [
       "object",
-      "accessory",
-      "electronics"
+      "misc"
     ]
   },
   {
@@ -1204,10 +1112,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mantelpiece%20clock_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility",
-      "home",
-      "furniture"
+      "time",
+      "measurement"
     ]
   },
   {
@@ -1216,8 +1122,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/maracas_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -1226,10 +1132,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/matchbox_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility",
-      "home",
-      "furniture"
+      "outdoor",
+      "weather"
     ]
   },
   {
@@ -1238,8 +1142,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mayan%20calendar%20disc_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1248,8 +1151,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/memory%20card_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -1258,8 +1161,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mirror_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "misc"
     ]
   },
   {
@@ -1268,8 +1170,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20bag_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "finance",
+      "currency"
     ]
   },
   {
@@ -1278,8 +1180,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20with%20wings_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "finance",
+      "currency"
     ]
   },
   {
@@ -1288,8 +1190,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mouse%20trap_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1299,7 +1200,7 @@
     "tags": [
       "object",
       "kitchen",
-      "home"
+      "drinkware"
     ]
   },
   {
@@ -1308,8 +1209,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nazar%20amulet_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1318,8 +1218,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/newspaper_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -1328,8 +1228,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/norigae_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1339,7 +1238,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "reading"
     ]
   },
   {
@@ -1348,8 +1247,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nut%20and%20bolt_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1358,8 +1256,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/oil%20drum_thumb.webp",
     "tags": [
       "object",
-      "art",
-      "music"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -1368,8 +1266,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/old%20key_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -1378,8 +1275,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/omok%20board_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "media",
+      "recording"
     ]
   },
   {
@@ -1389,7 +1286,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "reading"
     ]
   },
   {
@@ -1398,10 +1295,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open%20file%20folder_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -1410,8 +1305,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pager_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1420,8 +1314,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paint%20brush_thumb.webp",
     "tags": [
       "object",
-      "cleaning",
-      "home"
+      "stationery",
+      "writing"
     ]
   },
   {
@@ -1430,8 +1324,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pakage_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1440,8 +1333,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paperclip_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -1450,8 +1342,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/peg%20set_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1461,7 +1352,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -1471,7 +1362,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -1480,8 +1371,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/petri%20dish_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1490,8 +1380,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pick_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1500,8 +1389,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pinball%20machine_thumb.webp",
     "tags": [
       "object",
-      "outdoor",
-      "leisure"
+      "misc"
     ]
   },
   {
@@ -1510,8 +1398,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pizza%20oven_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "kitchen",
+      "cooking"
     ]
   },
   {
@@ -1520,8 +1408,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/placard_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -1531,7 +1419,7 @@
     "tags": [
       "object",
       "kitchen",
-      "home"
+      "drinkware"
     ]
   },
   {
@@ -1540,8 +1428,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plunger_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1550,8 +1437,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/polaroid%20camera_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "media",
+      "recording"
     ]
   },
   {
@@ -1560,8 +1447,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/police%20car%20light_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "travel",
+      "transport"
     ]
   },
   {
@@ -1570,8 +1457,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20camping%20stove_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -1580,8 +1467,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20coffee%20maker_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -1590,8 +1477,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20cooler_thumb.webp",
     "tags": [
       "object",
-      "home",
-      "furniture"
+      "furniture",
+      "indoor"
     ]
   },
   {
@@ -1600,8 +1487,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/postbox_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -1610,8 +1496,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/protractor_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -1620,8 +1505,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pushpin_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1630,8 +1514,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/razor_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "personal",
+      "hygiene"
     ]
   },
   {
@@ -1640,8 +1524,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/receipt_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "finance",
+      "currency"
     ]
   },
   {
@@ -1650,10 +1534,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/reminder%20ribbon_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office",
-      "symbol",
-      "signage"
+      "misc"
     ]
   },
   {
@@ -1662,10 +1543,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ribbon_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office",
-      "symbol",
-      "signage"
+      "misc"
     ]
   },
   {
@@ -1674,8 +1552,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ring%20buoy_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "jewelry",
+      "valuable"
     ]
   },
   {
@@ -1684,8 +1562,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/rolled%20up%20newspaper_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -1694,8 +1572,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/round%20pushpin_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1704,8 +1581,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/safety%20pin_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -1714,8 +1590,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/saxophone_thumb.webp",
     "tags": [
       "object",
-      "art",
-      "music"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -1724,8 +1600,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scissors_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "tool",
+      "work"
     ]
   },
   {
@@ -1735,7 +1611,7 @@
     "tags": [
       "object",
       "tool",
-      "hardware"
+      "work"
     ]
   },
   {
@@ -1744,8 +1620,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scroll_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1754,8 +1629,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/set%20square_thumb.webp",
     "tags": [
       "object",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -1764,8 +1638,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sextant_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1774,8 +1647,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shield_thumb.webp",
     "tags": [
       "object",
-      "weapon",
-      "tool"
+      "misc"
     ]
   },
   {
@@ -1784,8 +1656,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping%20bags_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -1794,8 +1665,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sitar_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -1804,8 +1675,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/soap_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "personal",
+      "hygiene"
     ]
   },
   {
@@ -1814,8 +1685,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sponge_thumb.webp",
     "tags": [
       "object",
-      "cleaning",
-      "home"
+      "personal",
+      "hygiene"
     ]
   },
   {
@@ -1824,8 +1695,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/spotlight_thumb.webp",
     "tags": [
       "object",
-      "kitchen",
-      "home"
+      "lighting",
+      "illumination"
     ]
   },
   {
@@ -1834,8 +1705,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/stopwatch_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "time",
+      "measurement"
     ]
   },
   {
@@ -1844,8 +1715,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/straight%20ruler_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware"
+      "misc"
     ]
   },
   {
@@ -1854,8 +1724,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/surfboard_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "media",
+      "recording"
     ]
   },
   {
@@ -1874,8 +1744,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/taddy%20bear_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1885,7 +1754,7 @@
     "tags": [
       "object",
       "stationery",
-      "office"
+      "writing"
     ]
   },
   {
@@ -1894,10 +1763,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape%20measure_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware",
-      "stationery",
-      "office"
+      "misc"
     ]
   },
   {
@@ -1907,7 +1773,7 @@
     "tags": [
       "object",
       "kitchen",
-      "home"
+      "drinkware"
     ]
   },
   {
@@ -1916,8 +1782,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tesseract_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1926,8 +1791,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/thermometer_thumb.webp",
     "tags": [
       "object",
-      "medical",
-      "health"
+      "misc"
     ]
   },
   {
@@ -1936,8 +1800,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toilet_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1946,8 +1809,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toolbox_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "tool",
+      "work"
     ]
   },
   {
@@ -1956,8 +1819,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toothbrush_thumb.webp",
     "tags": [
       "object",
-      "cleaning",
-      "home"
+      "stationery",
+      "writing"
     ]
   },
   {
@@ -1967,7 +1830,7 @@
     "tags": [
       "object",
       "lighting",
-      "utility"
+      "illumination"
     ]
   },
   {
@@ -1976,8 +1839,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/towel_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -1986,8 +1848,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/travel%20guidebook_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "stationery",
+      "reading"
     ]
   },
   {
@@ -1996,8 +1858,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/treasure%20chest_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2006,8 +1867,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/trumpet_thumb.webp",
     "tags": [
       "object",
-      "art",
-      "music"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -2016,8 +1877,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tumbler_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "kitchen",
+      "drinkware"
     ]
   },
   {
@@ -2027,7 +1888,7 @@
     "tags": [
       "object",
       "outdoor",
-      "leisure"
+      "weather"
     ]
   },
   {
@@ -2036,8 +1897,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/vernier%20calipers_thumb.webp",
     "tags": [
       "object",
-      "tool",
-      "hardware"
+      "misc"
     ]
   },
   {
@@ -2046,8 +1906,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/violin_thumb.webp",
     "tags": [
       "object",
-      "art",
-      "music"
+      "music",
+      "instrument"
     ]
   },
   {
@@ -2056,8 +1916,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wastebasket_thumb.webp",
     "tags": [
       "object",
-      "container",
-      "utility"
+      "misc"
     ]
   },
   {
@@ -2066,8 +1925,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/watch_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "time",
+      "measurement"
     ]
   },
   {
@@ -2076,8 +1935,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/water%20pistal_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2086,8 +1944,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/waterproof%20phone%20case_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2096,8 +1953,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wheel_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2106,8 +1962,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/whistle_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2116,8 +1971,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wifi%20tower_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2126,8 +1980,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/winged%20victory%20of%20samothrace_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2137,7 +1990,7 @@
     "tags": [
       "object",
       "tool",
-      "hardware"
+      "work"
     ]
   },
   {
@@ -2146,8 +1999,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yarn_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   },
   {
@@ -2156,8 +2008,8 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yen%20coin_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "finance",
+      "currency"
     ]
   },
   {
@@ -2166,8 +2018,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yoyo_thumb.webp",
     "tags": [
       "object",
-      "utility",
-      "general"
+      "misc"
     ]
   }
 ]
