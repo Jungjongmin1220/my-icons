@@ -1,19 +1,17 @@
 [
   {
     "name": "Azir helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/Azir%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/Azir%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/Azir%20helmet.webp",
     "tags": [
       "clothes",
       "headwear",
-      "protective",
-      "fantasy",
-      "cosplay"
+      "protective"
     ]
   },
   {
     "name": "airpod max",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/airpod%20max.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/airpod%20max.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/airpod%20max.webp",
     "tags": [
       "clothes",
@@ -23,7 +21,7 @@
   },
   {
     "name": "ballet shoes",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/ballet%20shoes.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/ballet%20shoes.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/ballet%20shoes.webp",
     "tags": [
       "clothes",
@@ -33,27 +31,27 @@
   },
   {
     "name": "billed cap",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/billed%20cap.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/billed%20cap.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/billed%20cap.webp",
     "tags": [
       "clothes",
       "headwear",
-      "fashion"
+      "protective"
     ]
   },
   {
     "name": "blitzcrank’s head",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/blitzcrank%E2%80%99s%20head.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/blitzcrank%E2%80%99s%20head.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/blitzcrank%E2%80%99s%20head.webp",
     "tags": [
       "clothes",
-      "fantasy",
-      "cosplay"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "brief",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/brief.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/brief.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/brief.webp",
     "tags": [
       "clothes",
@@ -63,7 +61,7 @@
   },
   {
     "name": "dress",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/dress.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/dress.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/dress.webp",
     "tags": [
       "clothes",
@@ -73,29 +71,27 @@
   },
   {
     "name": "eva spacesuit",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/eva%20spacesuit.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/eva%20spacesuit.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/eva%20spacesuit.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion",
       "space",
       "protective"
     ]
   },
   {
     "name": "ezreal's gauntlets",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/ezreal%27s%20gauntlets.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/ezreal%27s%20gauntlets.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/ezreal%27s%20gauntlets.webp",
     "tags": [
       "clothes",
-      "fantasy",
-      "cosplay"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "flat shoe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/flat%20shoe.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/flat%20shoe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/flat%20shoe.webp",
     "tags": [
       "clothes",
@@ -105,70 +101,67 @@
   },
   {
     "name": "folding hand fan",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/folding%20hand%20fan.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/folding%20hand%20fan.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/folding%20hand%20fan.webp",
     "tags": [
       "clothes",
-      "accessory",
-      "handheld"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "full face diving mask",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/full%20face%20diving%20mask.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/full%20face%20diving%20mask.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/full%20face%20diving%20mask.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear"
+      "mask",
+      "protective"
     ]
   },
   {
     "name": "gaksi mask",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/gaksi%20mask.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gaksi%20mask.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/gaksi%20mask.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear",
       "mask",
-      "traditional",
-      "fantasy"
+      "protective"
     ]
   },
   {
     "name": "gas mask",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/gas%20mask.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gas%20mask.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/gas%20mask.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear"
+      "mask",
+      "protective"
     ]
   },
   {
     "name": "gat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/gat.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/gat.webp",
     "tags": [
       "clothes",
-      "fantasy",
-      "cosplay"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "glasses",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/glasses.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/glasses.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/glasses.webp",
     "tags": [
       "clothes",
-      "eyewear",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "gloves",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/gloves.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gloves.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/gloves.webp",
     "tags": [
       "clothes",
@@ -178,17 +171,17 @@
   },
   {
     "name": "goggles",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/goggles.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/goggles.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/goggles.webp",
     "tags": [
       "clothes",
-      "eyewear",
-      "fashion"
+      "mask",
+      "protective"
     ]
   },
   {
     "name": "handbag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/handbag.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/handbag.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/handbag.webp",
     "tags": [
       "clothes",
@@ -198,17 +191,17 @@
   },
   {
     "name": "headlamp",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/headlamp.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/headlamp.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/headlamp.webp",
     "tags": [
       "clothes",
-      "headwear",
-      "electronics"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "high heeled shoe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/high%20heeled%20shoe.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/high%20heeled%20shoe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/high%20heeled%20shoe.webp",
     "tags": [
       "clothes",
@@ -218,7 +211,7 @@
   },
   {
     "name": "hiking backpack",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hiking%20backpack.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/hiking%20backpack.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/hiking%20backpack.webp",
     "tags": [
       "clothes",
@@ -228,7 +221,7 @@
   },
   {
     "name": "hiking boot",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/hiking%20boot.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/hiking%20boot.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/hiking%20boot.webp",
     "tags": [
       "clothes",
@@ -238,17 +231,17 @@
   },
   {
     "name": "jeans",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/jeans.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/jeans.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/jeans.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "josen dynasty general's helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/josen%20dynasty%20general%27s%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/josen%20dynasty%20general%27s%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/josen%20dynasty%20general%27s%20helmet.webp",
     "tags": [
       "clothes",
@@ -258,7 +251,7 @@
   },
   {
     "name": "kimono",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/kimono.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/kimono.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/kimono.webp",
     "tags": [
       "clothes",
@@ -268,17 +261,17 @@
   },
   {
     "name": "labcoat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/labcoat.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/labcoat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/labcoat.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "level 3 helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/level%203%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/level%203%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/level%203%20helmet.webp",
     "tags": [
       "clothes",
@@ -288,7 +281,7 @@
   },
   {
     "name": "man’s shoe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/man%E2%80%99s%20shoe.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/man%E2%80%99s%20shoe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/man%E2%80%99s%20shoe.webp",
     "tags": [
       "clothes",
@@ -298,7 +291,7 @@
   },
   {
     "name": "military helmet ",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/military%20helmet%20.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/military%20helmet%20.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/military%20helmet%20.webp",
     "tags": [
       "clothes",
@@ -308,7 +301,7 @@
   },
   {
     "name": "miner's helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/miner%27s%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/miner%27s%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/miner%27s%20helmet.webp",
     "tags": [
       "clothes",
@@ -318,59 +311,57 @@
   },
   {
     "name": "necktie",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/necktie.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/necktie.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/necktie.webp",
     "tags": [
       "clothes",
-      "accessory",
-      "formal"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "night vision device",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/night%20vision%20device.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/night%20vision%20device.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/night%20vision%20device.webp",
     "tags": [
       "clothes",
-      "headwear",
-      "electronics"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "one piece swimsuit",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/one%20piece%20swimsuit.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/one%20piece%20swimsuit.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/one%20piece%20swimsuit.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion",
       "swim",
       "sport"
     ]
   },
   {
     "name": "padded jacket",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/padded%20jacket.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/padded%20jacket.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/padded%20jacket.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "paracord bracelet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/paracord%20bracelet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/paracord%20bracelet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/paracord%20bracelet.webp",
     "tags": [
       "clothes",
-      "accessory",
-      "jewelry"
+      "jewelry",
+      "accessory"
     ]
   },
   {
     "name": "pilot helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/pilot%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/pilot%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/pilot%20helmet.webp",
     "tags": [
       "clothes",
@@ -380,7 +371,7 @@
   },
   {
     "name": "police riot helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/police%20riot%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/police%20riot%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/police%20riot%20helmet.webp",
     "tags": [
       "clothes",
@@ -390,17 +381,17 @@
   },
   {
     "name": "prayer beads",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/prayer%20beads.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/prayer%20beads.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/prayer%20beads.webp",
     "tags": [
       "clothes",
-      "accessory",
-      "jewelry"
+      "jewelry",
+      "accessory"
     ]
   },
   {
     "name": "purse",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/purse.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/purse.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/purse.webp",
     "tags": [
       "clothes",
@@ -410,7 +401,7 @@
   },
   {
     "name": "rescue worker’s helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/rescue%20worker%E2%80%99s%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/rescue%20worker%E2%80%99s%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/rescue%20worker%E2%80%99s%20helmet.webp",
     "tags": [
       "clothes",
@@ -420,27 +411,27 @@
   },
   {
     "name": "respirator",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/respirator.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/respirator.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/respirator.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "ring",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/ring.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/ring.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/ring.webp",
     "tags": [
       "clothes",
-      "accessory",
-      "jewelry"
+      "jewelry",
+      "accessory"
     ]
   },
   {
     "name": "running shoe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/running%20shoe.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/running%20shoe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/running%20shoe.webp",
     "tags": [
       "clothes",
@@ -450,17 +441,17 @@
   },
   {
     "name": "safety goggles",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/safety%20goggles.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/safety%20goggles.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/safety%20goggles.webp",
     "tags": [
       "clothes",
-      "eyewear",
+      "mask",
       "protective"
     ]
   },
   {
     "name": "safety vest",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/safety%20vest.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/safety%20vest.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/safety%20vest.webp",
     "tags": [
       "clothes",
@@ -470,7 +461,7 @@
   },
   {
     "name": "samurai helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/samurai%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/samurai%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/samurai%20helmet.webp",
     "tags": [
       "clothes",
@@ -480,7 +471,7 @@
   },
   {
     "name": "sari",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/sari.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sari.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/sari.webp",
     "tags": [
       "clothes",
@@ -490,7 +481,7 @@
   },
   {
     "name": "school bag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/school%20bag.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/school%20bag.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/school%20bag.webp",
     "tags": [
       "clothes",
@@ -500,17 +491,17 @@
   },
   {
     "name": "shorts",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/shorts.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/shorts.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/shorts.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "socks",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/socks.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/socks.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/socks.webp",
     "tags": [
       "clothes",
@@ -520,7 +511,7 @@
   },
   {
     "name": "soman’s boot ",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/soman%E2%80%99s%20boot%20.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/soman%E2%80%99s%20boot%20.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/soman%E2%80%99s%20boot%20.webp",
     "tags": [
       "clothes",
@@ -530,7 +521,7 @@
   },
   {
     "name": "space gloves",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/space%20gloves.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/space%20gloves.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/space%20gloves.webp",
     "tags": [
       "clothes",
@@ -540,7 +531,7 @@
   },
   {
     "name": "space helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/space%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/space%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/space%20helmet.webp",
     "tags": [
       "clothes",
@@ -551,29 +542,27 @@
   },
   {
     "name": "stillsuit",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/stillsuit.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/stillsuit.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/stillsuit.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion",
       "space",
       "protective"
     ]
   },
   {
     "name": "sunglasses",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/sunglasses.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sunglasses.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/sunglasses.webp",
     "tags": [
       "clothes",
-      "eyewear",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "swim fins",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/swim%20fins.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/swim%20fins.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/swim%20fins.webp",
     "tags": [
       "clothes",
@@ -583,7 +572,7 @@
   },
   {
     "name": "thong sandal",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thong%20sandal.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/thong%20sandal.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/thong%20sandal.webp",
     "tags": [
       "clothes",
@@ -593,27 +582,27 @@
   },
   {
     "name": "top hat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/top%20hat.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/top%20hat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/top%20hat.webp",
     "tags": [
       "clothes",
       "headwear",
-      "fashion"
+      "protective"
     ]
   },
   {
     "name": "tshirts",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/tshirts.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tshirts.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/tshirts.webp",
     "tags": [
       "clothes",
-      "outfit",
-      "fashion"
+      "fashion",
+      "wear"
     ]
   },
   {
     "name": "un peacekeeper helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/un%20peacekeeper%20helmet.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/un%20peacekeeper%20helmet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/un%20peacekeeper%20helmet.webp",
     "tags": [
       "clothes",
@@ -623,27 +612,27 @@
   },
   {
     "name": "welding mask",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/welding%20mask.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/welding%20mask.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/welding%20mask.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear"
+      "mask",
+      "protective"
     ]
   },
   {
     "name": "woman's hat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/woman%27s%20hat.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/woman%27s%20hat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/woman%27s%20hat.webp",
     "tags": [
       "clothes",
       "headwear",
-      "fashion"
+      "protective"
     ]
   },
   {
     "name": "woman's sandal",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/woman%27s%20sandal.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/woman%27s%20sandal.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/woman%27s%20sandal.webp",
     "tags": [
       "clothes",
@@ -653,15 +642,12 @@
   },
   {
     "name": "yangban mask",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/yangban%20mask.png",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/yangban%20mask.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/thumbs/yangban%20mask.webp",
     "tags": [
       "clothes",
-      "protective",
-      "headwear",
       "mask",
-      "traditional",
-      "fantasy"
+      "protective"
     ]
   }
 ]
