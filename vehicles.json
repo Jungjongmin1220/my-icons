@@ -1,5 +1,17 @@
 [
   {
+    "name": "auto richshaw",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20richshaw.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20richshaw_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "transport",
+      "powered",
+      "manual"
+    ]
+  },
+  {
     "name": "autonomous atmospheric drone",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/autonomous%20atmospheric%20drone.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/autonomous%20atmospheric%20drone_thumb.webp",
@@ -42,8 +54,8 @@
     "tags": [
       "vehicles",
       "land",
-      "transport",
       "manual",
+      "transport",
       "powered"
     ]
   },
@@ -65,10 +77,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/diver%20propulsion%20vehicle_thumb.webp",
     "tags": [
       "vehicles",
-      "sea",
       "land",
       "transport",
-      "powered"
+      "powered",
+      "manual"
     ]
   },
   {
@@ -77,10 +89,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/dji%20inspire_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
       "land",
       "transport",
-      "powered"
+      "powered",
+      "manual"
     ]
   },
   {
@@ -114,9 +126,21 @@
     "tags": [
       "vehicles",
       "sea",
-      "transport",
       "maritime",
+      "transport",
       "powered"
+    ]
+  },
+  {
+    "name": "flying sauser",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/flying%20sauser.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/flying%20sauser_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -126,9 +150,9 @@
     "tags": [
       "vehicles",
       "air",
-      "aerospace",
-      "land",
-      "transport"
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -138,8 +162,20 @@
     "tags": [
       "vehicles",
       "land",
+      "manual",
       "transport",
-      "personal",
+      "powered"
+    ]
+  },
+  {
+    "name": "imperial ceremonial chariot",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/imperial%20ceremonial%20chariot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/imperial%20ceremonial%20chariot_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "transport",
+      "powered",
       "manual"
     ]
   },
@@ -150,9 +186,9 @@
     "tags": [
       "vehicles",
       "air",
-      "personal",
       "powered",
-      "transport"
+      "transport",
+      "manual"
     ]
   },
   {
@@ -162,8 +198,8 @@
     "tags": [
       "vehicles",
       "land",
-      "transport",
       "manual",
+      "transport",
       "powered"
     ]
   },
@@ -175,6 +211,18 @@
       "vehicles",
       "sea",
       "maritime",
+      "transport",
+      "powered"
+    ]
+  },
+  {
+    "name": "lockheed martin f-35 lightning II",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/lockheed%20martin%20f-35%20lightning%20II.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/lockheed%20martin%20f-35%20lightning%20II_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "military",
       "transport",
       "powered"
     ]
@@ -222,8 +270,8 @@
     "tags": [
       "vehicles",
       "land",
-      "transport",
       "manual",
+      "transport",
       "powered"
     ]
   },
@@ -276,15 +324,27 @@
     ]
   },
   {
+    "name": "northrop b-2 spirit",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/northrop%20b-2%20spirit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/northrop%20b-2%20spirit_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "military",
+      "transport",
+      "powered"
+    ]
+  },
+  {
     "name": "off road rc buggy",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/off%20road%20rc%20buggy.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/off%20road%20rc%20buggy_thumb.webp",
     "tags": [
       "vehicles",
       "land",
-      "personal",
       "transport",
-      "powered"
+      "powered",
+      "manual"
     ]
   },
   {
@@ -318,8 +378,8 @@
     "tags": [
       "vehicles",
       "sea",
-      "transport",
       "maritime",
+      "transport",
       "powered"
     ]
   },
@@ -342,9 +402,9 @@
     "tags": [
       "vehicles",
       "rail",
-      "personal",
       "transport",
-      "powered"
+      "powered",
+      "manual"
     ]
   },
   {
@@ -355,8 +415,8 @@
       "vehicles",
       "air",
       "military",
-      "aerospace",
-      "transport"
+      "transport",
+      "powered"
     ]
   },
   {
@@ -403,8 +463,8 @@
       "vehicles",
       "land",
       "transport",
-      "personal",
-      "powered"
+      "powered",
+      "manual"
     ]
   },
   {
@@ -420,30 +480,6 @@
     ]
   },
   {
-    "name": "shopping cart",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/shopping%20cart.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/shopping%20cart_thumb.webp",
-    "tags": [
-      "vehicles",
-      "land",
-      "transport",
-      "powered",
-      "manual"
-    ]
-  },
-  {
-    "name": "skateboard",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/skateboard.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/skateboard_thumb.webp",
-    "tags": [
-      "vehicles",
-      "land",
-      "transport",
-      "manual",
-      "powered"
-    ]
-  },
-  {
     "name": "spacex starship launch system",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/spacex%20starship%20launch%20system.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/spacex%20starship%20launch%20system_thumb.webp",
@@ -451,8 +487,8 @@
       "vehicles",
       "space",
       "aerospace",
-      "maritime",
-      "transport"
+      "transport",
+      "powered"
     ]
   },
   {
@@ -499,8 +535,8 @@
       "vehicles",
       "air",
       "military",
-      "aerospace",
-      "transport"
+      "transport",
+      "powered"
     ]
   },
   {
