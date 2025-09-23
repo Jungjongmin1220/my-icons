@@ -5,7 +5,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/autonomous%20atmospheric%20drone_thumb.webp",
     "tags": [
       "vehicles",
-      "air"
+      "air",
+      "powered",
+      "transport",
+      "manual"
     ]
   },
   {
@@ -14,7 +17,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/autonomous%20terrain%20mapping%20drone_thumb.webp",
     "tags": [
       "vehicles",
-      "air"
+      "air",
+      "powered",
+      "transport",
+      "manual"
     ]
   },
   {
@@ -23,7 +29,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auv_thumb.webp",
     "tags": [
       "vehicles",
-      "sea"
+      "sea",
+      "maritime",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -34,7 +43,8 @@
       "vehicles",
       "land",
       "transport",
-      "manual"
+      "manual",
+      "powered"
     ]
   },
   {
@@ -43,7 +53,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/deep%20sea%20submersible_thumb.webp",
     "tags": [
       "vehicles",
-      "sea"
+      "sea",
+      "maritime",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -52,7 +65,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/diver%20propulsion%20vehicle_thumb.webp",
     "tags": [
       "vehicles",
-      "sea"
+      "sea",
+      "land",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -61,7 +77,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/dji%20inspire_thumb.webp",
     "tags": [
       "vehicles",
-      "air"
+      "air",
+      "land",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -71,7 +90,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -81,7 +102,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -92,7 +115,8 @@
       "vehicles",
       "sea",
       "transport",
-      "maritime"
+      "maritime",
+      "powered"
     ]
   },
   {
@@ -102,7 +126,9 @@
     "tags": [
       "vehicles",
       "air",
-      "aerospace"
+      "aerospace",
+      "land",
+      "transport"
     ]
   },
   {
@@ -113,7 +139,8 @@
       "vehicles",
       "land",
       "transport",
-      "personal"
+      "personal",
+      "manual"
     ]
   },
   {
@@ -124,7 +151,8 @@
       "vehicles",
       "air",
       "personal",
-      "powered"
+      "powered",
+      "transport"
     ]
   },
   {
@@ -135,7 +163,8 @@
       "vehicles",
       "land",
       "transport",
-      "manual"
+      "manual",
+      "powered"
     ]
   },
   {
@@ -145,7 +174,9 @@
     "tags": [
       "vehicles",
       "sea",
-      "maritime"
+      "maritime",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -155,7 +186,9 @@
     "tags": [
       "vehicles",
       "rail",
-      "powered"
+      "powered",
+      "transport",
+      "manual"
     ]
   },
   {
@@ -165,7 +198,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -175,7 +210,9 @@
     "tags": [
       "vehicles",
       "land",
-      "military"
+      "military",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -186,7 +223,8 @@
       "vehicles",
       "land",
       "transport",
-      "manual"
+      "manual",
+      "powered"
     ]
   },
   {
@@ -196,7 +234,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -205,7 +245,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/minecart_thumb.webp",
     "tags": [
       "vehicles",
-      "rail"
+      "rail",
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -216,7 +259,8 @@
       "vehicles",
       "sea",
       "maritime",
-      "powered"
+      "powered",
+      "transport"
     ]
   },
   {
@@ -226,7 +270,9 @@
     "tags": [
       "vehicles",
       "land",
-      "powered"
+      "powered",
+      "transport",
+      "manual"
     ]
   },
   {
@@ -236,7 +282,9 @@
     "tags": [
       "vehicles",
       "land",
-      "personal"
+      "personal",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -246,7 +294,9 @@
     "tags": [
       "vehicles",
       "air",
-      "experimental"
+      "experimental",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -256,7 +306,9 @@
     "tags": [
       "vehicles",
       "air",
-      "aerosport"
+      "aerosport",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -267,7 +319,8 @@
       "vehicles",
       "sea",
       "transport",
-      "maritime"
+      "maritime",
+      "powered"
     ]
   },
   {
@@ -277,7 +330,9 @@
     "tags": [
       "vehicles",
       "rail",
-      "transport"
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -287,7 +342,9 @@
     "tags": [
       "vehicles",
       "rail",
-      "personal"
+      "personal",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -298,7 +355,8 @@
       "vehicles",
       "air",
       "military",
-      "aerospace"
+      "aerospace",
+      "transport"
     ]
   },
   {
@@ -308,7 +366,9 @@
     "tags": [
       "vehicles",
       "sea",
-      "maritime"
+      "maritime",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -318,7 +378,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -328,7 +390,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -339,7 +403,8 @@
       "vehicles",
       "land",
       "transport",
-      "personal"
+      "personal",
+      "powered"
     ]
   },
   {
@@ -349,7 +414,9 @@
     "tags": [
       "vehicles",
       "rail",
-      "transport"
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -359,7 +426,9 @@
     "tags": [
       "vehicles",
       "land",
-      "transport"
+      "transport",
+      "powered",
+      "manual"
     ]
   },
   {
@@ -370,7 +439,8 @@
       "vehicles",
       "land",
       "transport",
-      "manual"
+      "manual",
+      "powered"
     ]
   },
   {
@@ -381,7 +451,8 @@
       "vehicles",
       "space",
       "aerospace",
-      "maritime"
+      "maritime",
+      "transport"
     ]
   },
   {
@@ -391,7 +462,9 @@
     "tags": [
       "vehicles",
       "sea",
-      "maritime"
+      "maritime",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -401,7 +474,9 @@
     "tags": [
       "vehicles",
       "land",
-      "powered"
+      "powered",
+      "transport",
+      "manual"
     ]
   },
   {
@@ -411,7 +486,9 @@
     "tags": [
       "vehicles",
       "space",
-      "aerospace"
+      "aerospace",
+      "transport",
+      "powered"
     ]
   },
   {
@@ -422,7 +499,8 @@
       "vehicles",
       "air",
       "military",
-      "aerospace"
+      "aerospace",
+      "transport"
     ]
   },
   {
@@ -432,7 +510,9 @@
     "tags": [
       "vehicles",
       "air",
-      "military"
+      "military",
+      "transport",
+      "powered"
     ]
   }
 ]
