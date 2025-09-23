@@ -1,14 +1,62 @@
 [
   {
-    "name": "auto richshaw",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20richshaw.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20richshaw_thumb.webp",
+    "name": "paramotor glider",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/paramotor%20glider.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/paramotor%20glider_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "powered",
+      "aerosport",
+      "transport"
+    ]
+  },
+  {
+    "name": "alps mountain cog railway",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/alps%20mountain%20cog%20railway.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/alps%20mountain%20cog%20railway_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "amphibious boat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/amphibious%20boat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/amphibious%20boat_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "andes mountain train",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/andes%20mountain%20train.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/andes%20mountain%20train_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "public",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "auto rickshaw",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20rickshaw.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/auto%20rickshaw_thumb.webp",
     "tags": [
       "vehicles",
       "land",
+      "public",
       "transport",
-      "powered",
-      "manual"
+      "travel"
     ]
   },
   {
@@ -19,8 +67,8 @@
       "vehicles",
       "air",
       "powered",
-      "transport",
-      "manual"
+      "experimental",
+      "transport"
     ]
   },
   {
@@ -31,8 +79,8 @@
       "vehicles",
       "air",
       "powered",
-      "transport",
-      "manual"
+      "experimental",
+      "transport"
     ]
   },
   {
@@ -44,7 +92,31 @@
       "sea",
       "maritime",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "bamboo raft",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bamboo%20raft.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bamboo%20raft_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "manual",
+      "transport"
+    ]
+  },
+  {
+    "name": "bicycle taxi",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bicycle%20taxi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bicycle%20taxi_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
+      "personal",
+      "manual"
     ]
   },
   {
@@ -54,9 +126,105 @@
     "tags": [
       "vehicles",
       "land",
+      "personal",
       "manual",
-      "transport",
+      "transport"
+    ]
+  },
+  {
+    "name": "bush plane",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bush%20plane.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/bush%20plane_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "public",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "central park horse",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/central%20park%20horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/central%20park%20horse_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "tourism",
+      "personal",
+      "animal"
+    ]
+  },
+  {
+    "name": "chicken bus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/chicken%20bus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/chicken%20bus_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "christchurch tram",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/christchurch%20tram.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/christchurch%20tram_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "public",
+      "tourism",
       "powered"
+    ]
+  },
+  {
+    "name": "citroen 2cv",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/citroen%202cv.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/citroen%202cv_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "classic",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "coastal helicopter tour",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/coastal%20helicopter%20tour.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/coastal%20helicopter%20tour_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "tourism",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "coastal seaplane",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/coastal%20seaplane.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/coastal%20seaplane_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "tourism",
+      "powered"
+    ]
+  },
+  {
+    "name": "cuban classic old car",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/cuban%20classic%20old%20car.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/cuban%20classic%20old%20car_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "powered",
+      "classic",
+      "transport"
     ]
   },
   {
@@ -68,7 +236,19 @@
       "sea",
       "maritime",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "desert quad bike",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/desert%20quad%20bike.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/desert%20quad%20bike_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "offroad",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -79,8 +259,8 @@
       "vehicles",
       "land",
       "transport",
-      "powered",
-      "manual"
+      "travel",
+      "mobility"
     ]
   },
   {
@@ -91,8 +271,44 @@
       "vehicles",
       "land",
       "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "double decker bus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/double%20decker%20bus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/double%20decker%20bus_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
       "powered",
-      "manual"
+      "transport"
+    ]
+  },
+  {
+    "name": "dubai abra water taxi",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/dubai%20abra%20water%20taxi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/dubai%20abra%20water%20taxi_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "public",
+      "transport"
+    ]
+  },
+  {
+    "name": "elephant ride",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/elephant%20ride.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/elephant%20ride_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "animal",
+      "manual",
+      "transport"
     ]
   },
   {
@@ -104,7 +320,7 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -116,7 +332,19 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "falconry suv",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/falconry%20suv.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/falconry%20suv_thumb.webp",
+    "tags": [
+      "vehicles",
+      "space",
+      "aerospace",
+      "powered",
+      "transport"
     ]
   },
   {
@@ -127,8 +355,8 @@
       "vehicles",
       "sea",
       "maritime",
-      "transport",
-      "powered"
+      "public",
+      "transport"
     ]
   },
   {
@@ -139,8 +367,44 @@
       "vehicles",
       "land",
       "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "ganges river boat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/ganges%20river%20boat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/ganges%20river%20boat_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
       "powered",
-      "manual"
+      "transport"
+    ]
+  },
+  {
+    "name": "glass bottom boat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/glass%20bottom%20boat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/glass%20bottom%20boat_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "greenland Dog sled",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/greenland%20Dog%20sled.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/greenland%20Dog%20sled_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "personal",
+      "animal",
+      "transport"
     ]
   },
   {
@@ -150,9 +414,33 @@
     "tags": [
       "vehicles",
       "air",
-      "transport",
       "powered",
-      "manual"
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "hangang ferry",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/hangang%20ferry.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/hangang%20ferry_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "public",
+      "transport"
+    ]
+  },
+  {
+    "name": "hot air balloon",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/hot%20air%20balloon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/hot%20air%20balloon_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "aerosport",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -162,9 +450,9 @@
     "tags": [
       "vehicles",
       "land",
-      "manual",
+      "personal",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -175,8 +463,20 @@
       "vehicles",
       "land",
       "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "jeepney",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/jeepney.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/jeepney_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
       "powered",
-      "manual"
+      "transport"
     ]
   },
   {
@@ -187,8 +487,8 @@
       "vehicles",
       "air",
       "powered",
-      "transport",
-      "manual"
+      "aerosport",
+      "transport"
     ]
   },
   {
@@ -198,9 +498,9 @@
     "tags": [
       "vehicles",
       "land",
-      "manual",
+      "personal",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -211,8 +511,20 @@
       "vehicles",
       "sea",
       "maritime",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "lisbon tram 28",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/lisbon%20tram%2028.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/lisbon%20tram%2028_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "public",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -221,10 +533,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/lockheed%20martin%20f-35%20lightning%20II_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
+      "land",
       "military",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -236,7 +548,7 @@
       "rail",
       "powered",
       "transport",
-      "manual"
+      "travel"
     ]
   },
   {
@@ -248,7 +560,7 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -260,7 +572,19 @@
       "land",
       "military",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "madagascar",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/madagascar.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/madagascar_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "powered",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -270,9 +594,9 @@
     "tags": [
       "vehicles",
       "land",
+      "personal",
       "manual",
-      "transport",
-      "powered"
+      "transport"
     ]
   },
   {
@@ -284,7 +608,7 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -293,10 +617,46 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/minecart_thumb.webp",
     "tags": [
       "vehicles",
-      "rail",
-      "transport",
-      "powered",
+      "land",
+      "personal",
+      "manual",
+      "powered"
+    ]
+  },
+  {
+    "name": "mongolia horse",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/mongolia%20horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/mongolia%20horse_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "personal",
+      "animal",
       "manual"
+    ]
+  },
+  {
+    "name": "monoi canoe",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/monoi%20canoe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/monoi%20canoe_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "manual",
+      "transport"
+    ]
+  },
+  {
+    "name": "moroccan taxi",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/moroccan%20taxi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/moroccan%20taxi_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -312,6 +672,18 @@
     ]
   },
   {
+    "name": "motor glider",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/motor%20glider.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/motor%20glider_thumb.webp",
+    "tags": [
+      "vehicles",
+      "air",
+      "powered",
+      "aerosport",
+      "transport"
+    ]
+  },
+  {
     "name": "motorcycle",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/motorcycle.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/motorcycle_thumb.webp",
@@ -320,7 +692,7 @@
       "land",
       "powered",
       "transport",
-      "manual"
+      "travel"
     ]
   },
   {
@@ -329,10 +701,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/northrop%20b-2%20spirit_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
+      "land",
       "military",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "nyc subway train",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/nyc%20subway%20train.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/nyc%20subway%20train_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "public",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -342,9 +726,9 @@
     "tags": [
       "vehicles",
       "land",
-      "transport",
       "powered",
-      "manual"
+      "offroad",
+      "transport"
     ]
   },
   {
@@ -354,9 +738,21 @@
     "tags": [
       "vehicles",
       "air",
+      "aerosport",
       "experimental",
+      "transport"
+    ]
+  },
+  {
+    "name": "outback campervan",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/outback%20campervan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/outback%20campervan_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "offroad",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -366,9 +762,9 @@
     "tags": [
       "vehicles",
       "air",
+      "manual",
       "aerosport",
-      "transport",
-      "powered"
+      "transport"
     ]
   },
   {
@@ -379,8 +775,20 @@
       "vehicles",
       "sea",
       "maritime",
-      "transport",
+      "public",
       "powered"
+    ]
+  },
+  {
+    "name": "patagonia glacier cruise",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/patagonia%20glacier%20cruise.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/patagonia%20glacier%20cruise_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "tourism",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -390,8 +798,32 @@
     "tags": [
       "vehicles",
       "rail",
-      "transport",
       "powered",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "reindeer sled",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/reindeer%20sled.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/reindeer%20sled_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "personal",
+      "animal",
+      "transport"
+    ]
+  },
+  {
+    "name": "riding camel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/riding%20camel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/riding%20camel_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "personal",
+      "animal",
       "manual"
     ]
   },
@@ -403,8 +835,32 @@
       "vehicles",
       "rail",
       "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "rotorua luge",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/rotorua%20luge.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/rotorua%20luge_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "personal",
+      "manual",
+      "transport"
+    ]
+  },
+  {
+    "name": "royal enfield motorcycle",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/royal%20enfield%20motorcycle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/royal%20enfield%20motorcycle_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
       "powered",
-      "manual"
+      "classic",
+      "transport"
     ]
   },
   {
@@ -413,10 +869,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/rq%204%20global%20hawk_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
+      "land",
       "military",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "safari jeep",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/safari%20jeep.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/safari%20jeep_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "powered",
+      "offroad",
+      "transport"
     ]
   },
   {
@@ -427,8 +895,8 @@
       "vehicles",
       "sea",
       "maritime",
-      "transport",
-      "powered"
+      "powered",
+      "transport"
     ]
   },
   {
@@ -440,7 +908,7 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -452,7 +920,7 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
     ]
   },
   {
@@ -462,9 +930,9 @@
     "tags": [
       "vehicles",
       "land",
+      "personal",
       "transport",
-      "powered",
-      "manual"
+      "travel"
     ]
   },
   {
@@ -475,8 +943,32 @@
       "vehicles",
       "rail",
       "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "snowcat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/snowcat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/snowcat_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
       "powered",
-      "manual"
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "snowmobile",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/snowmobile.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/snowmobile_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "powered",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -487,8 +979,8 @@
       "vehicles",
       "space",
       "aerospace",
-      "transport",
-      "powered"
+      "powered",
+      "transport"
     ]
   },
   {
@@ -499,8 +991,56 @@
       "vehicles",
       "sea",
       "maritime",
-      "transport",
+      "powered",
+      "transport"
+    ]
+  },
+  {
+    "name": "submarine tour",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/submarine%20tour.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/submarine%20tour_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "tourism",
       "powered"
+    ]
+  },
+  {
+    "name": "super jeep",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/super%20jeep.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/super%20jeep_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "powered",
+      "offroad",
+      "transport"
+    ]
+  },
+  {
+    "name": "swiss mountain cable car",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/swiss%20mountain%20cable%20car.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/swiss%20mountain%20cable%20car_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "powered",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "thai long-tail boat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/thai%20long-tail%20boat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/thai%20long-tail%20boat_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "powered",
+      "transport"
     ]
   },
   {
@@ -512,7 +1052,43 @@
       "land",
       "powered",
       "transport",
-      "manual"
+      "travel"
+    ]
+  },
+  {
+    "name": "turkish dolmus",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/turkish%20dolmus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/turkish%20dolmus_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
+      "transport",
+      "travel"
+    ]
+  },
+  {
+    "name": "uaz bukhanka",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/uaz%20bukhanka.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/uaz%20bukhanka_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "transport",
+      "travel",
+      "mobility"
+    ]
+  },
+  {
+    "name": "uber taxi",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/uber%20taxi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/uber%20taxi_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "public",
+      "transport",
+      "travel"
     ]
   },
   {
@@ -524,7 +1100,31 @@
       "space",
       "aerospace",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "vaporetto",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/vaporetto.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/vaporetto_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "public",
+      "transport"
+    ]
+  },
+  {
+    "name": "venetian gondola",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/venetian%20gondola.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/venetian%20gondola_thumb.webp",
+    "tags": [
+      "vehicles",
+      "sea",
+      "maritime",
+      "public",
+      "manual"
     ]
   },
   {
@@ -533,10 +1133,34 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/xq%2058a%20valkyrie_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
+      "land",
       "military",
+      "experimental",
+      "transport"
+    ]
+  },
+  {
+    "name": "yamanote line subway train",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/yamanote%20line%20subway%20train.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/yamanote%20line%20subway%20train_thumb.webp",
+    "tags": [
+      "vehicles",
+      "rail",
+      "public",
       "transport",
-      "powered"
+      "travel"
+    ]
+  },
+  {
+    "name": "yellow cap",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/yellow%20cap.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/yellow%20cap_thumb.webp",
+    "tags": [
+      "vehicles",
+      "land",
+      "transport",
+      "travel",
+      "mobility"
     ]
   },
   {
@@ -545,10 +1169,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/vehicles/zero%20fighter_thumb.webp",
     "tags": [
       "vehicles",
-      "air",
+      "land",
       "military",
       "transport",
-      "powered"
+      "travel"
     ]
   }
 ]
