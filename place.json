@@ -1,16 +1,53 @@
 [
   {
-    "name": "a frame tent",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/a frame tent.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/a frame tent_thumb.webp",
+    "name": "Kinkaku ji",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/Kinkaku%20ji.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/Kinkaku%20ji_thumb.webp",
     "tags": [
       "place",
+      "japan",
+      "kinkaku",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
+      "cultural",
+      "iconic",
+      "world heritage"
+    ]
+  },
+  {
+    "name": "Skytree",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/Skytree.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/Skytree_thumb.webp",
+    "tags": [
+      "place",
+      "japan",
+      "skytree",
+      "architecture",
       "heritage",
+      "landmark",
+      "tourism",
+      "cultural",
+      "iconic",
+      "world heritage"
+    ]
+  },
+  {
+    "name": "a frame tent",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/a%20frame%20tent.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/a%20frame%20tent_thumb.webp",
+    "tags": [
+      "place",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
@@ -19,272 +56,321 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/alhambra_thumb.webp",
     "tags": [
       "place",
+      "spain",
+      "alhambra",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "spain",
-      "granada",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "allianz arena",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/allianz arena.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/allianz arena_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/allianz%20arena.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/allianz%20arena_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "almas church",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/almas church.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/almas church_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/almas%20church.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/almas%20church_thumb.webp",
     "tags": [
       "place",
-      "cathedral",
+      "church",
       "religious",
-      "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "heritage",
+      "architecture",
+      "historic",
+      "ancient",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "arc de triomphe",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/arc de triomphe.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/arc de triomphe_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/arc%20de%20triomphe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/arc%20de%20triomphe_thumb.webp",
     "tags": [
       "place",
+      "brazil",
+      "rio",
+      "france",
+      "arc de triomphe",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "brazil",
-      "rio de janeiro",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "artscience museum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/artscience museum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/artscience museum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/artscience%20museum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/artscience%20museum_thumb.webp",
     "tags": [
       "place",
       "museum",
-      "cultural",
-      "exhibition",
-      "unesco",
-      "attraction",
-      "iconic"
+      "gallery",
+      "collection",
+      "culture",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "asakusa shrine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/asakusa shrine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/asakusa shrine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/asakusa%20shrine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/asakusa%20shrine_thumb.webp",
     "tags": [
       "place",
-      "temple",
+      "shrine",
       "religious",
       "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "usa",
+      "japan",
+      "asakusa",
+      "historic",
+      "ancient"
     ]
   },
   {
     "name": "atomic bomb dome",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/atomic bomb dome.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/atomic bomb dome_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/atomic%20bomb%20dome.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/atomic%20bomb%20dome_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "berlin TV tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin TV tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin TV tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin%20TV%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin%20TV%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "germany",
+      "berlin",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "berlin cathedral",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin cathedral.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin cathedral_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin%20cathedral.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/berlin%20cathedral_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "germany",
+      "berlin",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "big ben",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/big ben.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/big ben_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/big%20ben.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/big%20ben_thumb.webp",
     "tags": [
       "place",
+      "uk",
+      "big ben",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "uk",
-      "london",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "bitexco financial tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/bitexco financial tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/bitexco financial tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/bitexco%20financial%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/bitexco%20financial%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "brandenburg gate",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/brandenburg gate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/brandenburg gate_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/brandenburg%20gate.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/brandenburg%20gate_thumb.webp",
     "tags": [
       "place",
+      "gate",
+      "arch",
+      "ceremonial",
+      "city wall",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "germany",
-      "berlin",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "casa batllo",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/casa batllo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/casa batllo_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/casa%20batllo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/casa%20batllo_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "cathedral of santiago",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/cathedral of santiago.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/cathedral of santiago_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/cathedral%20of%20santiago.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/cathedral%20of%20santiago_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "chile",
+      "santiago",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "central park",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/central park.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/central park_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/central%20park.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/central%20park_thumb.webp",
     "tags": [
       "place",
       "park",
-      "nature",
+      "garden",
+      "green",
+      "recreation",
+      "architecture",
+      "heritage",
+      "landmark",
       "tourism",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "centre pompidou",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/centre pompidou.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/centre pompidou_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/centre%20pompidou.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/centre%20pompidou_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "charging bull",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/charging bull.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/charging bull_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/charging%20bull.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/charging%20bull_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "chiang kai-shek memorial hall",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/chiang kai-shek memorial hall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/chiang kai-shek memorial hall_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/chiang%20kai-shek%20memorial%20hall.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/chiang%20kai-shek%20memorial%20hall_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "christ the redeemer",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/christ the redeemer.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/christ the redeemer_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/christ%20the%20redeemer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/christ%20the%20redeemer_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
@@ -293,100 +379,117 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/colosseum_thumb.webp",
     "tags": [
       "place",
-      "landmark",
-      "tourism",
-      "heritage",
+      "amphitheatre",
+      "ancient",
+      "arena",
+      "roman",
       "italy",
-      "rome",
-      "unesco",
-      "attraction",
-      "iconic"
+      "colosseum",
+      "architecture",
+      "heritage",
+      "landmark"
     ]
   },
   {
     "name": "dome tent",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dome tent.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dome tent_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dome%20tent.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dome%20tent_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "dongdaemun design plaza",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dongdaemun design plaza.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dongdaemun design plaza_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dongdaemun%20design%20plaza.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dongdaemun%20design%20plaza_thumb.webp",
     "tags": [
       "place",
+      "plaza",
+      "square",
+      "urban",
+      "public space",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "dragon bridge",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dragon bridge.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dragon bridge_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dragon%20bridge.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/dragon%20bridge_thumb.webp",
     "tags": [
       "place",
       "bridge",
-      "infrastructure",
       "engineering",
-      "unesco",
-      "attraction",
-      "iconic"
+      "river",
+      "infrastructure",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "eiffel tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/eiffel tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/eiffel tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/eiffel%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/eiffel%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
+      "architecture",
       "france",
-      "paris",
-      "unesco",
-      "attraction",
-      "iconic"
+      "eiffel",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "el castillo",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/el castillo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/el castillo_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/el%20castillo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/el%20castillo_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "empire state building",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/empire state building.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/empire state building_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/empire%20state%20building.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/empire%20state%20building_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
@@ -395,126 +498,151 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/esplanade_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "faisal mosque",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/faisal mosque.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/faisal mosque_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/faisal%20mosque.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/faisal%20mosque_thumb.webp",
     "tags": [
       "place",
       "mosque",
       "religious",
       "islamic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "florence cathedral",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/florence cathedral.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/florence cathedral_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/florence%20cathedral.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/florence%20cathedral_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "italy",
+      "florence",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "footprint on the moon",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/footprint on the moon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/footprint on the moon_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/footprint%20on%20the%20moon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/footprint%20on%20the%20moon_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "forbidden city",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/forbidden city.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/forbidden city_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/forbidden%20city.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/forbidden%20city_thumb.webp",
     "tags": [
       "place",
+      "china",
+      "forbidden city",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "genghis khan statue",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/genghis khan statue.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/genghis khan statue_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/genghis%20khan%20statue.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/genghis%20khan%20statue_thumb.webp",
     "tags": [
       "place",
+      "statue",
       "monument",
-      "memorial",
       "symbol",
-      "unesco",
-      "attraction",
-      "iconic"
+      "memorial",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "giza necropolis",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/giza necropolis.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/giza necropolis_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/giza%20necropolis.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/giza%20necropolis_thumb.webp",
     "tags": [
       "place",
+      "egypt",
+      "giza",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "google headquarters",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/google headquarters.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/google headquarters_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/google%20headquarters.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/google%20headquarters_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "great wall",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/great wall.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/great wall_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/great%20wall.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/great%20wall_thumb.webp",
     "tags": [
       "place",
+      "china",
+      "great wall",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "china",
-      "beijing",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
@@ -523,26 +651,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/gyeongbokgung_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "hagia sophia",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hagia sophia.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hagia sophia_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hagia%20sophia.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hagia%20sophia_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
@@ -551,54 +685,66 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hallgrimskirkja_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "hanuman dhoka",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hanuman dhoka.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hanuman dhoka_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hanuman%20dhoka.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hanuman%20dhoka_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "hassan II mosque",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hassan II mosque.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hassan II mosque_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hassan%20II%20mosque.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/hassan%20II%20mosque_thumb.webp",
     "tags": [
       "place",
       "mosque",
       "religious",
       "islamic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "isalo national park",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/isalo national park.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/isalo national park_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/isalo%20national%20park.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/isalo%20national%20park_thumb.webp",
     "tags": [
       "place",
       "park",
-      "nature",
+      "garden",
+      "green",
+      "recreation",
+      "architecture",
+      "heritage",
+      "landmark",
       "tourism",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
@@ -607,385 +753,440 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kaaba_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "kaminarimon gate",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kaminarimon gate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kaminarimon gate_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kaminarimon%20gate.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kaminarimon%20gate_thumb.webp",
     "tags": [
       "place",
+      "gate",
+      "arch",
+      "ceremonial",
+      "city wall",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "karnak temple",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/karnak temple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/karnak temple_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/karnak%20temple.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/karnak%20temple_thumb.webp",
     "tags": [
       "place",
       "temple",
       "religious",
       "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "egypt",
+      "karnak",
+      "historic",
+      "ancient",
+      "landmark"
     ]
   },
   {
     "name": "kingdom centre",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kingdom centre.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kingdom centre_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kingdom%20centre.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kingdom%20centre_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
-    ]
-  },
-  {
-    "name": "kinkaku ji",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kinkaku ji.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kinkaku ji_thumb.webp",
-    "tags": [
-      "place",
-      "landmark",
-      "tourism",
-      "heritage",
-      "japan",
-      "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "kiyomizu dera",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kiyomizu dera.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kiyomizu dera_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kiyomizu%20dera.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kiyomizu%20dera_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "kremlin and red square",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin and red square.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin and red square_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin%20and%20red%20square.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin%20and%20red%20square_thumb.webp",
     "tags": [
       "place",
-      "landmark",
-      "tourism",
-      "heritage",
+      "square",
+      "plaza",
+      "urban",
+      "public space",
       "russia",
-      "moscow",
-      "unesco",
-      "attraction",
-      "iconic"
+      "kremlin",
+      "architecture",
+      "heritage",
+      "landmark"
     ]
   },
   {
     "name": "kremlin palace",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin palace.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin palace_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin%20palace.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/kremlin%20palace_thumb.webp",
     "tags": [
       "place",
       "palace",
-      "historic",
-      "fortification",
+      "royal",
+      "heritage",
+      "residence",
       "russia",
-      "moscow",
-      "unesco",
-      "attraction",
-      "iconic"
+      "kremlin",
+      "architecture",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "learning tower of pisa",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/learning tower of pisa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/learning tower of pisa_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/learning%20tower%20of%20pisa.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/learning%20tower%20of%20pisa_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "italy",
+      "pisa",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "lego house",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lego house.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lego house_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lego%20house.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lego%20house_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "lotte world tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lotte world tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lotte world tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lotte%20world%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/lotte%20world%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "louvre museum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/louvre museum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/louvre museum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/louvre%20museum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/louvre%20museum_thumb.webp",
     "tags": [
       "place",
       "museum",
-      "cultural",
-      "exhibition",
+      "gallery",
+      "collection",
+      "culture",
       "france",
-      "paris",
-      "unesco",
-      "attraction",
-      "iconic"
+      "louvre",
+      "architecture",
+      "heritage",
+      "landmark"
     ]
   },
   {
     "name": "machu picchu",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/machu picchu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/machu picchu_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/machu%20picchu.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/machu%20picchu_thumb.webp",
     "tags": [
       "place",
+      "peru",
+      "machu picchu",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "marina bay sands",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/marina bay sands.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/marina bay sands_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/marina%20bay%20sands.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/marina%20bay%20sands_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "meiji shrine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/meiji shrine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/meiji shrine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/meiji%20shrine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/meiji%20shrine_thumb.webp",
     "tags": [
       "place",
-      "temple",
+      "shrine",
       "religious",
       "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "historic",
+      "ancient",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "metropolitan museum of art",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/metropolitan museum of art.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/metropolitan museum of art_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/metropolitan%20museum%20of%20art.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/metropolitan%20museum%20of%20art_thumb.webp",
     "tags": [
       "place",
       "museum",
-      "cultural",
-      "exhibition",
-      "unesco",
-      "attraction",
-      "iconic"
+      "gallery",
+      "collection",
+      "culture",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "moai Sculpture",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/moai Sculpture.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/moai Sculpture_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/moai%20Sculpture.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/moai%20Sculpture_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "mongolian ger",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/mongolian ger.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/mongolian ger_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/mongolian%20ger.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/mongolian%20ger_thumb.webp",
     "tags": [
       "place",
+      "mongolia",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage",
+      "unesco"
     ]
   },
   {
     "name": "muang boran",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/muang boran.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/muang boran_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/muang%20boran.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/muang%20boran_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "namsan seoul tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/namsan seoul tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/namsan seoul tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/namsan%20seoul%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/namsan%20seoul%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "south korea",
+      "seoul",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "niagara falls",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/niagara falls.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/niagara falls_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/niagara%20falls.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/niagara%20falls_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "norwegian museum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/norwegian museum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/norwegian museum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/norwegian%20museum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/norwegian%20museum_thumb.webp",
     "tags": [
       "place",
       "museum",
-      "cultural",
-      "exhibition",
-      "unesco",
-      "attraction",
-      "iconic"
+      "gallery",
+      "collection",
+      "culture",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "notre dame cathedral",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/notre dame cathedral.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/notre dame cathedral_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/notre%20dame%20cathedral.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/notre%20dame%20cathedral_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
+      "architecture",
       "france",
-      "paris",
-      "unesco",
-      "attraction",
-      "iconic"
+      "notre dame",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "opera house",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/opera house.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/opera house_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/opera%20house.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/opera%20house_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "oriental pearl tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/oriental pearl tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/oriental pearl tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/oriental%20pearl%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/oriental%20pearl%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "osaka castle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/osaka castle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/osaka castle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/osaka%20castle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/osaka%20castle_thumb.webp",
     "tags": [
       "place",
-      "palace",
-      "historic",
-      "fortification",
-      "unesco",
-      "attraction",
-      "iconic"
+      "castle",
+      "fortress",
+      "medieval",
+      "battlements",
+      "japan",
+      "osaka",
+      "architecture",
+      "heritage",
+      "landmark"
     ]
   },
   {
     "name": "palace of versailles",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/palace of versailles.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/palace of versailles_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/palace%20of%20versailles.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/palace%20of%20versailles_thumb.webp",
     "tags": [
       "place",
       "palace",
+      "royal",
+      "heritage",
+      "residence",
+      "france",
+      "versailles",
+      "architecture",
       "historic",
-      "fortification",
-      "unesco",
-      "attraction",
-      "iconic"
+      "landmark"
     ]
   },
   {
@@ -994,142 +1195,168 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/parthenon_thumb.webp",
     "tags": [
       "place",
+      "greece",
+      "parthenon",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "greece",
-      "athens",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "petra treasury",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petra treasury.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petra treasury_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petra%20treasury.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petra%20treasury_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "petronas twin towers",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petronas twin towers.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petronas twin towers_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petronas%20twin%20towers.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/petronas%20twin%20towers_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "pompeii archaeological park",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/pompeii archaeological park.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/pompeii archaeological park_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/pompeii%20archaeological%20park.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/pompeii%20archaeological%20park_thumb.webp",
     "tags": [
       "place",
+      "arch",
+      "monument",
+      "triumphal",
+      "stone",
       "park",
-      "nature",
-      "tourism",
-      "unesco",
-      "attraction",
-      "iconic"
+      "garden",
+      "green",
+      "recreation",
+      "italy"
     ]
   },
   {
     "name": "porto cathedral",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/porto cathedral.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/porto cathedral_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/porto%20cathedral.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/porto%20cathedral_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "portugal",
+      "porto",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "sacre coeur basilica",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sacre coeur basilica.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sacre coeur basilica_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sacre%20coeur%20basilica.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sacre%20coeur%20basilica_thumb.webp",
     "tags": [
       "place",
-      "cathedral",
+      "basilica",
       "religious",
-      "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "heritage",
+      "architecture",
+      "france",
+      "sacre coeur",
+      "historic",
+      "ancient",
+      "landmark"
     ]
   },
   {
     "name": "sagrada familia",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sagrada familia.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sagrada familia_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sagrada%20familia.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sagrada%20familia_thumb.webp",
     "tags": [
       "place",
+      "india",
+      "agra",
+      "spain",
+      "sagrada",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "spain",
-      "granada",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "seongsan ilchulbong",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/seongsan ilchulbong.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/seongsan ilchulbong_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/seongsan%20ilchulbong.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/seongsan%20ilchulbong_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "sheikh zayed grand mosque",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sheikh zayed grand mosque.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sheikh zayed grand mosque_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sheikh%20zayed%20grand%20mosque.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/sheikh%20zayed%20grand%20mosque_thumb.webp",
     "tags": [
       "place",
       "mosque",
       "religious",
       "islamic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "shuri castle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/shuri castle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/shuri castle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/shuri%20castle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/shuri%20castle_thumb.webp",
     "tags": [
       "place",
-      "palace",
-      "historic",
-      "fortification",
-      "unesco",
-      "attraction",
-      "iconic"
+      "castle",
+      "fortress",
+      "medieval",
+      "battlements",
+      "architecture",
+      "heritage",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
@@ -1139,40 +1366,31 @@
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
-    ]
-  },
-  {
-    "name": "skytree",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/skytree.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/skytree_thumb.webp",
-    "tags": [
-      "place",
+      "architecture",
+      "heritage",
+      "historic",
       "landmark",
       "tourism",
-      "heritage",
-      "japan",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "st. paul’s cathedral",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/st. paul’s cathedral.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/st. paul’s cathedral_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/st.%20paul%E2%80%99s%20cathedral.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/st.%20paul%E2%80%99s%20cathedral_thumb.webp",
     "tags": [
       "place",
       "cathedral",
       "religious",
       "gothic",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "heritage",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
@@ -1181,28 +1399,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/stadium_thumb.webp",
     "tags": [
       "place",
+      "stadium",
+      "arena",
+      "sports",
+      "venue",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   },
   {
     "name": "statue of liberty",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/statue of liberty.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/statue of liberty_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/statue%20of%20liberty.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/statue%20of%20liberty_thumb.webp",
     "tags": [
       "place",
+      "statue",
       "monument",
-      "memorial",
       "symbol",
+      "memorial",
       "usa",
-      "new york",
-      "unesco",
-      "attraction",
-      "iconic"
+      "liberty",
+      "architecture",
+      "heritage",
+      "landmark"
     ]
   },
   {
@@ -1211,82 +1433,100 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/stonehenge_thumb.webp",
     "tags": [
       "place",
+      "uk",
+      "stonehenge",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "svalbard global seed vault",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/svalbard global seed vault.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/svalbard global seed vault_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/svalbard%20global%20seed%20vault.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/svalbard%20global%20seed%20vault_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "swayambhunath stupa",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/swayambhunath stupa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/swayambhunath stupa_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/swayambhunath%20stupa.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/swayambhunath%20stupa_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "tagi mahal",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tagi mahal.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tagi mahal_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tagi%20mahal.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tagi%20mahal_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "taipei 101 tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/taipei 101 tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/taipei 101 tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/taipei%20101%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/taipei%20101%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "taiwan",
+      "taipei",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "tanah lot",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tanah lot.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tanah lot_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tanah%20lot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tanah%20lot_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
@@ -1295,139 +1535,168 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/teepee_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "temple of heaven",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/temple of heaven.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/temple of heaven_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/temple%20of%20heaven.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/temple%20of%20heaven_thumb.webp",
     "tags": [
       "place",
       "temple",
       "religious",
       "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "historic",
+      "ancient",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "terracotta army",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/terracotta army.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/terracotta army_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/terracotta%20army.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/terracotta%20army_thumb.webp",
     "tags": [
       "place",
+      "china",
+      "terracotta",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural",
+      "iconic",
+      "world heritage"
     ]
   },
   {
     "name": "tian tan buddha",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tian tan buddha.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tian tan buddha_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tian%20tan%20buddha.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tian%20tan%20buddha_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "tokyo tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tokyo tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tokyo tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tokyo%20tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tokyo%20tower_thumb.webp",
     "tags": [
       "place",
       "tower",
-      "architecture",
+      "observation",
       "skyline",
+      "architecture",
       "japan",
-      "unesco",
-      "attraction",
-      "iconic"
+      "tokyo",
+      "heritage",
+      "historic",
+      "landmark"
     ]
   },
   {
     "name": "tran quoc pagoda",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tran quoc pagoda.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tran quoc pagoda_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tran%20quoc%20pagoda.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/tran%20quoc%20pagoda_thumb.webp",
     "tags": [
       "place",
+      "pagoda",
       "temple",
       "religious",
       "heritage",
-      "unesco",
-      "attraction",
-      "iconic"
+      "architecture",
+      "historic",
+      "landmark",
+      "tourism",
+      "cultural"
     ]
   },
   {
     "name": "trevi fountain",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/trevi fountain.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/trevi fountain_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/trevi%20fountain.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/trevi%20fountain_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "wat arun",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat arun.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat arun_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat%20arun.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat%20arun_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "wat phra singh",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat phra singh.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat phra singh_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat%20phra%20singh.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/wat%20phra%20singh_thumb.webp",
     "tags": [
       "place",
+      "architecture",
+      "heritage",
       "landmark",
       "tourism",
-      "heritage",
+      "cultural",
+      "iconic",
+      "world heritage",
       "unesco",
-      "attraction",
-      "iconic"
+      "attraction"
     ]
   },
   {
     "name": "yehliu geopark",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/yehliu geopark.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/yehliu geopark_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/yehliu%20geopark.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/place/yehliu%20geopark_thumb.webp",
     "tags": [
       "place",
       "park",
-      "nature",
+      "garden",
+      "green",
+      "recreation",
+      "architecture",
+      "heritage",
+      "landmark",
       "tourism",
-      "unesco",
-      "attraction",
-      "iconic"
+      "cultural"
     ]
   }
 ]
