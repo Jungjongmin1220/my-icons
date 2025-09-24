@@ -1,12 +1,21 @@
 [
   {
-    "name": "x ray",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/x%20ray.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/x%20ray_thumb.webp",
+    "name": "? box",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/? box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/? box_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "box",
+      "objects"
+    ]
+  },
+  {
+    "name": "x ray",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/X ray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/X ray_thumb.webp",
+    "tags": [
+      "x",
+      "objects",
+      "ray"
     ]
   },
   {
@@ -14,19 +23,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/abacus.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/abacus_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "abacus",
+      "objects"
     ]
   },
   {
     "name": "adhesive bandage",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/adhesive%20bandage.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/adhesive%20bandage_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/adhesive bandage.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/adhesive bandage_thumb.webp",
     "tags": [
-      "object",
-      "medical",
-      "health"
+      "objects",
+      "bandage",
+      "adhesive"
     ]
   },
   {
@@ -34,19 +42,17 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ak47.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ak47_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects"
     ]
   },
   {
     "name": "alarm clock",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/alarm%20clock.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/alarm%20clock_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/alarm clock.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/alarm clock_thumb.webp",
     "tags": [
-      "object",
-      "time",
-      "measurement"
+      "clock",
+      "objects",
+      "alarm"
     ]
   },
   {
@@ -54,29 +60,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/axe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/axe_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "objects",
+      "axe"
     ]
   },
   {
     "name": "balance scale",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/balance%20scale.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/balance%20scale_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/balance scale.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/balance scale_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "scale",
+      "balance",
+      "objects"
     ]
   },
   {
     "name": "ballot box",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ballot%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ballot%20box_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ballot box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ballot box_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "box",
+      "objects",
+      "ballot"
     ]
   },
   {
@@ -84,29 +89,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/banzo.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/banzo_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "banzo"
     ]
   },
   {
     "name": "baording pass",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/baording%20pass.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/baording%20pass_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/baording pass.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/baording pass_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "pass",
+      "baording",
+      "objects"
     ]
   },
   {
     "name": "bar chart",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bar%20chart.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bar%20chart_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bar chart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bar chart_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "bar",
+      "chart"
     ]
   },
   {
@@ -114,9 +118,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/basket.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/basket_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "basket"
     ]
   },
   {
@@ -124,39 +127,38 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bathtub.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bathtub_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "bathtub",
+      "objects"
     ]
   },
   {
     "name": "beach mat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach%20mat.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach%20mat_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach mat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach mat_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "weather"
+      "objects",
+      "mat",
+      "beach"
     ]
   },
   {
     "name": "beach parasol",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach%20parasol.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach%20parasol_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach parasol.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/beach parasol_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "weather"
+      "parasol",
+      "objects",
+      "beach"
     ]
   },
   {
     "name": "bear spray",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bear%20spray.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bear%20spray_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bear spray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bear spray_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "bear",
+      "objects",
+      "spray"
     ]
   },
   {
@@ -164,19 +166,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bed.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bed_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "bed",
+      "objects"
     ]
   },
   {
     "name": "bellhop bell",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bellhop%20bell.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bellhop%20bell_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bellhop bell.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bellhop bell_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "bellhop",
+      "bell"
     ]
   },
   {
@@ -184,9 +185,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/binyeo.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/binyeo_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "binyeo"
     ]
   },
   {
@@ -194,9 +194,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bomb.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bomb_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "bomb",
+      "objects"
     ]
   },
   {
@@ -204,9 +203,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bookmark.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bookmark_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "bookmark",
+      "objects"
     ]
   },
   {
@@ -214,9 +212,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/books.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/books_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "books",
+      "objects"
     ]
   },
   {
@@ -224,29 +221,30 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/boomerang.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/boomerang_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "boomerang"
     ]
   },
   {
     "name": "bow and arrow",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bow%20and%20arrow.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bow%20and%20arrow_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bow and arrow.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bow and arrow_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "and",
+      "objects",
+      "bow",
+      "arrow"
     ]
   },
   {
     "name": "bowl with spoon",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bowl%20with%20spoon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bowl%20with%20spoon_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bowl with spoon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bowl with spoon_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "bowl",
+      "spoon",
+      "with"
     ]
   },
   {
@@ -254,19 +252,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/briefcase.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/briefcase_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "briefcase"
     ]
   },
   {
     "name": "broken chain",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broken%20chain.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broken%20chain_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broken chain.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broken chain_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "broken",
+      "objects",
+      "chain"
     ]
   },
   {
@@ -274,9 +271,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broom.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/broom_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "broom",
+      "objects"
     ]
   },
   {
@@ -284,9 +280,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bubbles.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bubbles_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "bubbles"
     ]
   },
   {
@@ -294,29 +289,29 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bucket.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bucket_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "bucket"
     ]
   },
   {
     "name": "bus stop",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bus%20stop.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bus%20stop_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bus stop.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/bus stop_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "bus",
+      "stop",
+      "objects"
     ]
   },
   {
     "name": "cable tie bundle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cable%20tie%20bundle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cable%20tie%20bundle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cable tie bundle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cable tie bundle_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "cable",
+      "bundle",
+      "objects",
+      "tie"
     ]
   },
   {
@@ -324,9 +319,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/campfire.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/campfire_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "campfire",
+      "objects"
     ]
   },
   {
@@ -334,49 +328,49 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/candle.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/candle_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "candle",
+      "objects"
     ]
   },
   {
     "name": "carabiner bundle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carabiner%20bundle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carabiner%20bundle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carabiner bundle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carabiner bundle_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "carabiner",
+      "bundle",
+      "objects"
     ]
   },
   {
     "name": "card file box",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/card%20file%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/card%20file%20box_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/card file box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/card file box_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "file",
+      "box",
+      "objects",
+      "card"
     ]
   },
   {
     "name": "carousel horse",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carousel%20horse.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carousel%20horse_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carousel horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carousel horse_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "horse",
+      "objects",
+      "carousel"
     ]
   },
   {
     "name": "carpentry saw",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carpentry%20saw.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carpentry%20saw_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carpentry saw.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/carpentry saw_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "saw",
+      "objects",
+      "carpentry"
     ]
   },
   {
@@ -384,9 +378,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chain.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chain_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "chain"
     ]
   },
   {
@@ -394,49 +387,48 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chair.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chair_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "objects",
+      "chair"
     ]
   },
   {
     "name": "charcoal package",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/charcoal%20package.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/charcoal%20package_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/charcoal package.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/charcoal package_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "charcoal",
+      "objects",
+      "package"
     ]
   },
   {
     "name": "chart decreasing",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20decreasing.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20decreasing_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart decreasing.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart decreasing_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "decreasing",
+      "chart"
     ]
   },
   {
     "name": "chart increasing",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20increasing.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart%20increasing_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart increasing.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chart increasing_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "increasing",
+      "objects",
+      "chart"
     ]
   },
   {
     "name": "chemical light",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chemical%20light.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chemical%20light_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chemical light.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chemical light_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "objects",
+      "light",
+      "chemical"
     ]
   },
   {
@@ -444,9 +436,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chopsticks.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/chopsticks_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "chopsticks",
+      "objects"
     ]
   },
   {
@@ -454,19 +445,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cigarette.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cigarette_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "cigarette",
+      "objects"
     ]
   },
   {
     "name": "circus tent",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/circus%20tent.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/circus%20tent_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/circus tent.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/circus tent_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "camping"
+      "tent",
+      "objects",
+      "circus"
     ]
   },
   {
@@ -474,19 +464,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clamp.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clamp_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "clamp",
+      "objects"
     ]
   },
   {
     "name": "clapper board",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clapper%20board.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clapper%20board_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clapper board.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clapper board_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "board",
+      "objects",
+      "clapper"
     ]
   },
   {
@@ -494,9 +483,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clipboard.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/clipboard_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "clipboard",
+      "objects"
     ]
   },
   {
@@ -504,9 +492,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/coffin.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/coffin_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "coffin"
     ]
   },
   {
@@ -514,29 +501,29 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/compass.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/compass_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "compass"
     ]
   },
   {
     "name": "cookware set",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cookware%20set.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cookware%20set_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cookware set.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cookware set_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "set",
+      "cookware"
     ]
   },
   {
     "name": "couch and lamp",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/couch%20and%20lamp.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/couch%20and%20lamp_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/couch and lamp.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/couch and lamp_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "and",
+      "couch",
+      "objects",
+      "lamp"
     ]
   },
   {
@@ -544,19 +531,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crayon.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crayon_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "crayon",
+      "objects"
     ]
   },
   {
     "name": "credit card",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/credit%20card.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/credit%20card_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/credit card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/credit card_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "credit",
+      "objects",
+      "card"
     ]
   },
   {
@@ -564,9 +550,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crown.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crown_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "crown"
     ]
   },
   {
@@ -574,19 +559,19 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crutch.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/crutch_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "crutch",
+      "objects"
     ]
   },
   {
     "name": "cup with straw",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cup%20with%20straw.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cup%20with%20straw_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cup with straw.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/cup with straw_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "straw",
+      "objects",
+      "with",
+      "cup"
     ]
   },
   {
@@ -594,19 +579,19 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dagger.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dagger_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "dagger",
+      "objects"
     ]
   },
   {
     "name": "digital timer clock",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/digital%20timer%20clock.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/digital%20timer%20clock_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/digital timer clock.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/digital timer clock_thumb.webp",
     "tags": [
-      "object",
-      "time",
-      "measurement"
+      "clock",
+      "timer",
+      "objects",
+      "digital"
     ]
   },
   {
@@ -614,9 +599,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dolhareubang.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dolhareubang_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "dolhareubang"
     ]
   },
   {
@@ -624,19 +608,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/door.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/door_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "door"
     ]
   },
   {
     "name": "duct tape",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/duct%20tape.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/duct%20tape_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/duct tape.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/duct tape_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "tape",
+      "duct"
     ]
   },
   {
@@ -644,129 +627,140 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dvd.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/dvd_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "dvd",
+      "objects"
     ]
   },
   {
     "name": "electric plug",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electric%20plug.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electric%20plug_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electric plug.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electric plug_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "electric",
+      "plug"
     ]
   },
   {
     "name": "electronic organ keyboard",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electronic%20organ%20keyboard.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electronic%20organ%20keyboard_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electronic organ keyboard.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/electronic organ keyboard_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "keyboard",
+      "electronic",
+      "objects",
+      "organ"
     ]
   },
   {
     "name": "espresso machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/espresso%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/espresso%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/espresso machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/espresso machine_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "espresso",
+      "objects",
+      "machine"
+    ]
+  },
+  {
+    "name": "everything bagel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/everything bagel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/everything bagel_thumb.webp",
+    "tags": [
+      "everything",
+      "objects",
+      "bagel"
     ]
   },
   {
     "name": "fax machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fax%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fax%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fax machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fax machine_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "fax",
+      "machine"
     ]
   },
   {
     "name": "ferris wheel",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ferris%20wheel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ferris%20wheel_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ferris wheel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ferris wheel_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "wheel",
+      "objects",
+      "ferris"
     ]
   },
   {
     "name": "file cabinet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20cabinet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20cabinet_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file cabinet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file cabinet_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "file",
+      "objects",
+      "cabinet"
     ]
   },
   {
     "name": "file folder",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20folder.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file%20folder_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file folder.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/file folder_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "file",
+      "objects",
+      "folder"
     ]
   },
   {
     "name": "film projector",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/film%20projector.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/film%20projector_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/film projector.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/film projector_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "projector",
+      "film",
+      "objects"
     ]
   },
   {
     "name": "fire extinguisher",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fire%20extinguisher.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fire%20extinguisher_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fire extinguisher.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fire extinguisher_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "fire",
+      "objects",
+      "extinguisher"
     ]
   },
   {
     "name": "firework launcher",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/firework%20launcher.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/firework%20launcher_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/firework launcher.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/firework launcher_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "launcher",
+      "objects",
+      "firework"
     ]
   },
   {
     "name": "first aid kit",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/first%20aid%20kit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/first%20aid%20kit_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/first aid kit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/first aid kit_thumb.webp",
     "tags": [
-      "object",
-      "medical",
-      "health"
+      "first",
+      "objects",
+      "kit",
+      "aid"
     ]
   },
   {
     "name": "flame sword",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flame%20sword.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flame%20sword_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flame sword.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flame sword_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "flame",
+      "objects",
+      "sword"
     ]
   },
   {
@@ -774,99 +768,101 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flashlight.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/flashlight_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "objects",
+      "flashlight"
     ]
   },
   {
     "name": "floppy disk",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/floppy%20disk.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/floppy%20disk_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/floppy disk.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/floppy disk_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "disk",
+      "objects",
+      "floppy"
     ]
   },
   {
     "name": "folded document",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20document.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20document_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded document.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded document_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "objects",
+      "document",
+      "folded"
     ]
   },
   {
     "name": "folded map",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20map.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded%20map_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded map.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folded map_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "objects",
+      "map",
+      "folded"
     ]
   },
   {
     "name": "folding chair",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20chair.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20chair_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding chair.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding chair_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "objects",
+      "chair",
+      "folding"
     ]
   },
   {
     "name": "folding table",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20table.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding%20table_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding table.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/folding table_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "table",
+      "objects",
+      "folding"
     ]
   },
   {
     "name": "fork and knife with plate",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife%20with%20plate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife%20with%20plate_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork and knife with plate.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork and knife with plate_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "knife",
+      "and",
+      "fork",
+      "objects",
+      "plate"
     ]
   },
   {
     "name": "fork and knife",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork%20and%20knife_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork and knife.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fork and knife_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "knife",
+      "and",
+      "fork",
+      "objects"
     ]
   },
   {
     "name": "fountain pen",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fountain%20pen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fountain%20pen_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fountain pen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/fountain pen_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "fountain",
+      "objects",
+      "pen"
     ]
   },
   {
     "name": "funeral  urn",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/funeral%20%20urn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/funeral%20%20urn_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/funeral  urn.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/funeral  urn_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "funeral",
+      "objects",
+      "urn"
     ]
   },
   {
@@ -874,69 +870,72 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gear.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gear_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "gear",
+      "objects"
     ]
   },
   {
     "name": "gem stone",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gem%20stone.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gem%20stone_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gem stone.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/gem stone_thumb.webp",
     "tags": [
-      "object",
-      "jewelry",
-      "valuable"
+      "gem",
+      "stone",
+      "objects"
     ]
   },
   {
     "name": "glacier ice chunk",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/glacier%20ice%20chunk.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/glacier%20ice%20chunk_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/glacier ice chunk.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/glacier ice chunk_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "ice",
+      "glacier",
+      "objects",
+      "chunk"
     ]
   },
   {
     "name": "greek temple column",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/greek%20temple%20column.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/greek%20temple%20column_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/greek temple column.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/greek temple column_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "column",
+      "temple",
+      "objects",
+      "greek"
     ]
   },
   {
     "name": "hair pick",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hair%20pick.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hair%20pick_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hair pick.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hair pick_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "pick",
+      "objects",
+      "hair"
     ]
   },
   {
     "name": "hammer and pick",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer%20and%20pick.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer%20and%20pick_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer and pick.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer and pick_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "and",
+      "objects",
+      "pick",
+      "hammer"
     ]
   },
   {
     "name": "hammer and wrench",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer%20and%20wrench.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer%20and%20wrench_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer and wrench.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer and wrench_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "and",
+      "objects",
+      "wrench",
+      "hammer"
     ]
   },
   {
@@ -944,9 +943,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammer_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "objects",
+      "hammer"
     ]
   },
   {
@@ -954,19 +952,27 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammock.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hammock_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "camping"
+      "hammock",
+      "objects"
     ]
   },
   {
     "name": "hand sanitizer",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hand%20sanitizer.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hand%20sanitizer_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hand sanitizer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hand sanitizer_thumb.webp",
     "tags": [
-      "object",
-      "medical",
-      "health"
+      "hand",
+      "objects",
+      "sanitizer"
+    ]
+  },
+  {
+    "name": "handkerchief",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/handkerchief.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/handkerchief_thumb.webp",
+    "tags": [
+      "handkerchief",
+      "objects"
     ]
   },
   {
@@ -974,9 +980,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/headstone.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/headstone_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "headstone",
+      "objects"
     ]
   },
   {
@@ -984,19 +989,19 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hook.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/hook_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "hook",
+      "objects"
     ]
   },
   {
     "name": "inflatable sleeping mat",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/inflatable%20sleeping%20mat.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/inflatable%20sleeping%20mat_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/inflatable sleeping mat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/inflatable sleeping mat_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "inflatable",
+      "sleeping",
+      "objects",
+      "mat"
     ]
   },
   {
@@ -1004,9 +1009,17 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/jar.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/jar_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "jar",
+      "objects"
+    ]
+  },
+  {
+    "name": "jumanji",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/jumanji.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/jumanji_thumb.webp",
+    "tags": [
+      "objects",
+      "jumanji"
     ]
   },
   {
@@ -1014,19 +1027,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/katana.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/katana_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "katana",
+      "objects"
     ]
   },
   {
     "name": "kitchen knife",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/kitchen%20knife.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/kitchen%20knife_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/kitchen knife.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/kitchen knife_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "weapon"
+      "knife",
+      "objects",
+      "kitchen"
     ]
   },
   {
@@ -1034,19 +1046,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/knot.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/knot_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "knot"
     ]
   },
   {
     "name": "korean passport",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/korean%20passport.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/korean%20passport_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/korean passport.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/korean passport_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "passport",
+      "korean",
+      "objects"
     ]
   },
   {
@@ -1054,9 +1065,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ladder.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ladder_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "ladder",
+      "objects"
     ]
   },
   {
@@ -1064,9 +1074,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/landslide.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/landslide_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "landslide"
     ]
   },
   {
@@ -1074,29 +1083,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ledger.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ledger_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "ledger",
+      "objects"
     ]
   },
   {
     "name": "level slider",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/level%20slider.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/level%20slider_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/level slider.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/level slider_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "slider",
+      "level"
     ]
   },
   {
     "name": "light bulb",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/light%20bulb.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/light%20bulb_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/light bulb.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/light bulb_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "bulb",
+      "objects",
+      "light"
     ]
   },
   {
@@ -1104,9 +1112,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/link.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/link_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "link"
     ]
   },
   {
@@ -1114,9 +1121,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lipstick.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lipstick_thumb.webp",
     "tags": [
-      "object",
-      "personal",
-      "hygiene"
+      "lipstick",
+      "objects"
     ]
   },
   {
@@ -1124,29 +1130,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lock.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lock_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "lock",
+      "objects"
     ]
   },
   {
     "name": "long drum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/long%20drum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/long%20drum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/long drum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/long drum_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "long",
+      "objects",
+      "drum"
     ]
   },
   {
     "name": "lotion bottle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lotion%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lotion%20bottle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lotion bottle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/lotion bottle_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "bottle",
+      "lotion",
+      "objects"
     ]
   },
   {
@@ -1154,9 +1159,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/luggage.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/luggage_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "luggage",
+      "objects"
     ]
   },
   {
@@ -1164,19 +1168,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/magnet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/magnet_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "magnet",
+      "objects"
     ]
   },
   {
     "name": "mantelpiece clock",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mantelpiece%20clock.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mantelpiece%20clock_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mantelpiece clock.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mantelpiece clock_thumb.webp",
     "tags": [
-      "object",
-      "time",
-      "measurement"
+      "clock",
+      "mantelpiece",
+      "objects"
     ]
   },
   {
@@ -1184,9 +1187,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/maracas.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/maracas_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "objects",
+      "maracas"
     ]
   },
   {
@@ -1194,29 +1196,29 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/matchbox.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/matchbox_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "weather"
+      "objects",
+      "matchbox"
     ]
   },
   {
     "name": "mayan calendar disc",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mayan%20calendar%20disc.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mayan%20calendar%20disc_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mayan calendar disc.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mayan calendar disc_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "mayan",
+      "objects",
+      "disc",
+      "calendar"
     ]
   },
   {
     "name": "memory card",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/memory%20card.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/memory%20card_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/memory card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/memory card_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "card",
+      "objects",
+      "memory"
     ]
   },
   {
@@ -1224,59 +1226,59 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mirror.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mirror_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "mirror"
     ]
   },
   {
     "name": "money bag",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20bag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20bag_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money bag.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money bag_thumb.webp",
     "tags": [
-      "object",
-      "finance",
-      "currency"
+      "bag",
+      "objects",
+      "money"
     ]
   },
   {
     "name": "money with wings",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20with%20wings.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money%20with%20wings_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money with wings.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/money with wings_thumb.webp",
     "tags": [
-      "object",
-      "finance",
-      "currency"
+      "objects",
+      "with",
+      "wings",
+      "money"
     ]
   },
   {
     "name": "mouse trap",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mouse%20trap.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mouse%20trap_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mouse trap.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mouse trap_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "mouse",
+      "trap"
     ]
   },
   {
     "name": "mug cup",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mug%20cup.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mug%20cup_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mug cup.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/mug cup_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "objects",
+      "cup",
+      "mug"
     ]
   },
   {
     "name": "nazar amulet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nazar%20amulet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nazar%20amulet_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nazar amulet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nazar amulet_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "amulet",
+      "objects",
+      "nazar"
     ]
   },
   {
@@ -1284,9 +1286,19 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/newspaper.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/newspaper_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "objects",
+      "newspaper"
+    ]
+  },
+  {
+    "name": "nintendo switch console",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nintendo switch console.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nintendo switch console_thumb.webp",
+    "tags": [
+      "nintendo",
+      "console",
+      "objects",
+      "switch"
     ]
   },
   {
@@ -1294,79 +1306,82 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/norigae.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/norigae_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "norigae"
     ]
   },
   {
     "name": "notebook with decorative cover",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/notebook%20with%20decorative%20cover.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/notebook%20with%20decorative%20cover_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/notebook with decorative cover.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/notebook with decorative cover_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "objects",
+      "notebook",
+      "with",
+      "cover",
+      "decorative"
     ]
   },
   {
     "name": "nut and bolt",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nut%20and%20bolt.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nut%20and%20bolt_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nut and bolt.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/nut and bolt_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "and",
+      "objects",
+      "bolt",
+      "nut"
     ]
   },
   {
     "name": "oil drum",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/oil%20drum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/oil%20drum_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/oil drum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/oil drum_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "drum",
+      "objects",
+      "oil"
     ]
   },
   {
     "name": "old key",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/old%20key.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/old%20key_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/old key.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/old key_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "old",
+      "key"
     ]
   },
   {
     "name": "omok board",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/omok%20board.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/omok%20board_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/omok board.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/omok board_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "omok",
+      "board",
+      "objects"
     ]
   },
   {
     "name": "open book",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open%20book.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open%20book_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open book.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open book_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "book",
+      "open",
+      "objects"
     ]
   },
   {
     "name": "open file folder",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open%20file%20folder.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open%20file%20folder_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open file folder.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/open file folder_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "open",
+      "objects",
+      "file",
+      "folder"
     ]
   },
   {
@@ -1374,19 +1389,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pager.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pager_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "pager"
     ]
   },
   {
     "name": "paint brush",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paint%20brush.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paint%20brush_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paint brush.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paint brush_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "paint",
+      "objects",
+      "brush"
     ]
   },
   {
@@ -1394,9 +1408,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pakage.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pakage_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "pakage",
+      "objects"
     ]
   },
   {
@@ -1404,19 +1417,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paperclip.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/paperclip_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "paperclip"
     ]
   },
   {
     "name": "peg set",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/peg%20set.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/peg%20set_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/peg set.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/peg set_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "set",
+      "peg"
     ]
   },
   {
@@ -1424,9 +1436,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pen.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pen_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "pen",
+      "objects"
     ]
   },
   {
@@ -1434,19 +1445,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pencil.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pencil_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "pencil",
+      "objects"
     ]
   },
   {
     "name": "petri dish",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/petri%20dish.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/petri%20dish_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/petri dish.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/petri dish_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "petri",
+      "objects",
+      "dish"
     ]
   },
   {
@@ -1454,29 +1464,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pick.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pick_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "pick"
     ]
   },
   {
     "name": "pinball machine",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pinball%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pinball%20machine_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pinball machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pinball machine_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "machine",
+      "pinball"
     ]
   },
   {
     "name": "pizza oven",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pizza%20oven.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pizza%20oven_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pizza oven.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pizza oven_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "cooking"
+      "oven",
+      "objects",
+      "pizza"
     ]
   },
   {
@@ -1484,19 +1493,19 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/placard.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/placard_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "placard",
+      "objects"
     ]
   },
   {
     "name": "plastic water bottle",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plastic%20water%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plastic%20water%20bottle_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plastic water bottle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plastic water bottle_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "plastic",
+      "bottle",
+      "objects",
+      "water"
     ]
   },
   {
@@ -1504,59 +1513,61 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plunger.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/plunger_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "plunger"
     ]
   },
   {
     "name": "polaroid camera",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/polaroid%20camera.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/polaroid%20camera_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/polaroid camera.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/polaroid camera_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "polaroid",
+      "objects",
+      "camera"
     ]
   },
   {
     "name": "police car light",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/police%20car%20light.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/police%20car%20light_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/police car light.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/police car light_thumb.webp",
     "tags": [
-      "object",
-      "travel",
-      "transport"
+      "car",
+      "light",
+      "objects",
+      "police"
     ]
   },
   {
     "name": "portable camping stove",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20camping%20stove.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20camping%20stove_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable camping stove.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable camping stove_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "portable",
+      "objects",
+      "camping",
+      "stove"
     ]
   },
   {
     "name": "portable coffee maker",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20coffee%20maker.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20coffee%20maker_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable coffee maker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable coffee maker_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "portable",
+      "maker",
+      "objects",
+      "coffee"
     ]
   },
   {
     "name": "portable cooler",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20cooler.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable%20cooler_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable cooler.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/portable cooler_thumb.webp",
     "tags": [
-      "object",
-      "furniture",
-      "indoor"
+      "portable",
+      "objects",
+      "cooler"
     ]
   },
   {
@@ -1564,9 +1575,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/postbox.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/postbox_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "postbox",
+      "objects"
     ]
   },
   {
@@ -1574,9 +1584,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/protractor.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/protractor_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "protractor",
+      "objects"
     ]
   },
   {
@@ -1584,9 +1593,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pushpin.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/pushpin_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "pushpin"
     ]
   },
   {
@@ -1594,9 +1602,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/razor.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/razor_thumb.webp",
     "tags": [
-      "object",
-      "personal",
-      "hygiene"
+      "objects",
+      "razor"
     ]
   },
   {
@@ -1604,19 +1611,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/receipt.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/receipt_thumb.webp",
     "tags": [
-      "object",
-      "finance",
-      "currency"
+      "receipt",
+      "objects"
     ]
   },
   {
     "name": "reminder ribbon",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/reminder%20ribbon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/reminder%20ribbon_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/reminder ribbon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/reminder ribbon_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "ribbon",
+      "objects",
+      "reminder"
     ]
   },
   {
@@ -1624,49 +1630,49 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ribbon.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ribbon_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "ribbon"
     ]
   },
   {
     "name": "ring buoy",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ring%20buoy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ring%20buoy_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ring buoy.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/ring buoy_thumb.webp",
     "tags": [
-      "object",
-      "jewelry",
-      "valuable"
+      "ring",
+      "buoy",
+      "objects"
     ]
   },
   {
     "name": "rolled up newspaper",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/rolled%20up%20newspaper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/rolled%20up%20newspaper_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/rolled up newspaper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/rolled up newspaper_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "newspaper",
+      "rolled",
+      "objects",
+      "up"
     ]
   },
   {
     "name": "round pushpin",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/round%20pushpin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/round%20pushpin_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/round pushpin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/round pushpin_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "round",
+      "objects",
+      "pushpin"
     ]
   },
   {
     "name": "safety pin",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/safety%20pin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/safety%20pin_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/safety pin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/safety pin_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "safety",
+      "objects",
+      "pin"
     ]
   },
   {
@@ -1674,9 +1680,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/saxophone.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/saxophone_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "saxophone",
+      "objects"
     ]
   },
   {
@@ -1684,9 +1689,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scissors.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scissors_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "objects",
+      "scissors"
     ]
   },
   {
@@ -1694,9 +1698,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/screwdriver.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/screwdriver_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "objects",
+      "screwdriver"
     ]
   },
   {
@@ -1704,19 +1707,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scroll.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/scroll_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "scroll",
+      "objects"
     ]
   },
   {
     "name": "set square",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/set%20square.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/set%20square_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/set square.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/set square_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "square",
+      "objects",
+      "set"
     ]
   },
   {
@@ -1724,9 +1726,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sextant.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sextant_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "sextant",
+      "objects"
     ]
   },
   {
@@ -1734,19 +1735,47 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shield.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shield_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "shield"
     ]
   },
   {
     "name": "shopping bags",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping%20bags.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping%20bags_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping bags.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping bags_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "bags",
+      "objects",
+      "shopping"
+    ]
+  },
+  {
+    "name": "shopping cart",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping cart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shopping cart_thumb.webp",
+    "tags": [
+      "cart",
+      "objects",
+      "shopping"
+    ]
+  },
+  {
+    "name": "shovel",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shovel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shovel_thumb.webp",
+    "tags": [
+      "objects",
+      "shovel"
+    ]
+  },
+  {
+    "name": "shower head",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shower head.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/shower head_thumb.webp",
+    "tags": [
+      "head",
+      "objects",
+      "shower"
     ]
   },
   {
@@ -1754,9 +1783,26 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sitar.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sitar_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "sitar",
+      "objects"
+    ]
+  },
+  {
+    "name": "skateboard",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/skateboard.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/skateboard_thumb.webp",
+    "tags": [
+      "objects",
+      "skateboard"
+    ]
+  },
+  {
+    "name": "snowman",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/snowman.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/snowman_thumb.webp",
+    "tags": [
+      "snowman",
+      "objects"
     ]
   },
   {
@@ -1764,9 +1810,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/soap.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/soap_thumb.webp",
     "tags": [
-      "object",
-      "personal",
-      "hygiene"
+      "soap",
+      "objects"
     ]
   },
   {
@@ -1774,9 +1819,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sponge.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/sponge_thumb.webp",
     "tags": [
-      "object",
-      "personal",
-      "hygiene"
+      "objects",
+      "sponge"
     ]
   },
   {
@@ -1784,9 +1828,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/spotlight.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/spotlight_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "objects",
+      "spotlight"
     ]
   },
   {
@@ -1794,19 +1837,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/stopwatch.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/stopwatch_thumb.webp",
     "tags": [
-      "object",
-      "time",
-      "measurement"
+      "stopwatch",
+      "objects"
     ]
   },
   {
     "name": "straight ruler",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/straight%20ruler.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/straight%20ruler_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/straight ruler.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/straight ruler_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "ruler",
+      "objects",
+      "straight"
     ]
   },
   {
@@ -1814,9 +1856,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/surfboard.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/surfboard_thumb.webp",
     "tags": [
-      "object",
-      "media",
-      "recording"
+      "surfboard",
+      "objects"
     ]
   },
   {
@@ -1824,39 +1865,38 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/syringe.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/syringe_thumb.webp",
     "tags": [
-      "object",
-      "medical",
-      "health"
+      "objects",
+      "syringe"
     ]
   },
   {
     "name": "taddy bear",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/taddy%20bear.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/taddy%20bear_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/taddy bear.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/taddy bear_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "bear",
+      "objects",
+      "taddy"
     ]
   },
   {
     "name": "tape dispenser",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape%20dispenser.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape%20dispenser_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape dispenser.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape dispenser_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "objects",
+      "tape",
+      "dispenser"
     ]
   },
   {
     "name": "tape measure",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape%20measure.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape%20measure_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape measure.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tape measure_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "measure",
+      "objects",
+      "tape"
     ]
   },
   {
@@ -1864,9 +1904,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/teapot.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/teapot_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "teapot",
+      "objects"
     ]
   },
   {
@@ -1874,9 +1913,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tesseract.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tesseract_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "tesseract",
+      "objects"
     ]
   },
   {
@@ -1884,9 +1922,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/thermometer.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/thermometer_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "thermometer",
+      "objects"
     ]
   },
   {
@@ -1894,9 +1931,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toilet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toilet_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "toilet"
     ]
   },
   {
@@ -1904,9 +1940,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toolbox.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toolbox_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "toolbox",
+      "objects"
     ]
   },
   {
@@ -1914,9 +1949,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toothbrush.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/toothbrush_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "writing"
+      "objects",
+      "toothbrush"
     ]
   },
   {
@@ -1924,9 +1958,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/torch.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/torch_thumb.webp",
     "tags": [
-      "object",
-      "lighting",
-      "illumination"
+      "torch",
+      "objects"
     ]
   },
   {
@@ -1934,29 +1967,28 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/towel.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/towel_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "towel",
+      "objects"
     ]
   },
   {
     "name": "travel guidebook",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/travel%20guidebook.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/travel%20guidebook_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/travel guidebook.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/travel guidebook_thumb.webp",
     "tags": [
-      "object",
-      "stationery",
-      "reading"
+      "objects",
+      "travel",
+      "guidebook"
     ]
   },
   {
     "name": "treasure chest",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/treasure%20chest.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/treasure%20chest_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/treasure chest.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/treasure chest_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "chest",
+      "objects",
+      "treasure"
     ]
   },
   {
@@ -1964,9 +1996,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/trumpet.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/trumpet_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "trumpet",
+      "objects"
     ]
   },
   {
@@ -1974,9 +2005,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tumbler.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/tumbler_thumb.webp",
     "tags": [
-      "object",
-      "kitchen",
-      "drinkware"
+      "objects",
+      "tumbler"
     ]
   },
   {
@@ -1984,19 +2014,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/umbrella.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/umbrella_thumb.webp",
     "tags": [
-      "object",
-      "outdoor",
-      "weather"
+      "umbrella",
+      "objects"
     ]
   },
   {
     "name": "vernier calipers",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/vernier%20calipers.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/vernier%20calipers_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/vernier calipers.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/vernier calipers_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "vernier",
+      "calipers"
     ]
   },
   {
@@ -2004,9 +2033,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/violin.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/violin_thumb.webp",
     "tags": [
-      "object",
-      "music",
-      "instrument"
+      "objects",
+      "violin"
     ]
   },
   {
@@ -2014,9 +2042,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wastebasket.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wastebasket_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "wastebasket",
+      "objects"
     ]
   },
   {
@@ -2024,29 +2051,29 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/watch.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/watch_thumb.webp",
     "tags": [
-      "object",
-      "time",
-      "measurement"
+      "watch",
+      "objects"
     ]
   },
   {
     "name": "water pistal",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/water%20pistal.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/water%20pistal_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/water pistal.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/water pistal_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "pistal",
+      "objects",
+      "water"
     ]
   },
   {
     "name": "waterproof phone case",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/waterproof%20phone%20case.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/waterproof%20phone%20case_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/waterproof phone case.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/waterproof phone case_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "waterproof",
+      "phone",
+      "objects",
+      "case"
     ]
   },
   {
@@ -2054,9 +2081,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wheel.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wheel_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "wheel",
+      "objects"
     ]
   },
   {
@@ -2064,29 +2090,30 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/whistle.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/whistle_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "whistle",
+      "objects"
     ]
   },
   {
     "name": "wifi tower",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wifi%20tower.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wifi%20tower_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wifi tower.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wifi tower_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "tower",
+      "objects",
+      "wifi"
     ]
   },
   {
     "name": "winged victory of samothrace",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/winged%20victory%20of%20samothrace.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/winged%20victory%20of%20samothrace_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/winged victory of samothrace.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/winged victory of samothrace_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "victory",
+      "of",
+      "objects",
+      "samothrace",
+      "winged"
     ]
   },
   {
@@ -2094,9 +2121,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wrench.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/wrench_thumb.webp",
     "tags": [
-      "object",
-      "tool",
-      "work"
+      "wrench",
+      "objects"
     ]
   },
   {
@@ -2104,19 +2130,18 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yarn.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yarn_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "yarn",
+      "objects"
     ]
   },
   {
     "name": "yen coin",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yen%20coin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yen%20coin_thumb.webp",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yen coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yen coin_thumb.webp",
     "tags": [
-      "object",
-      "finance",
-      "currency"
+      "coin",
+      "objects",
+      "yen"
     ]
   },
   {
@@ -2124,9 +2149,8 @@
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yoyo.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/objects/yoyo_thumb.webp",
     "tags": [
-      "object",
-      "misc",
-      "item"
+      "objects",
+      "yoyo"
     ]
   }
 ]
