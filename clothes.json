@@ -1,22 +1,36 @@
 [
   {
-    "name": "Azir helmet",
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/azir%20helmet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/azir%20helmet_thumb.webp",
-    "tags": [
-      "clothes",
-      "headwear",
-      "protective"
-    ]
-  },
-  {
     "name": "airpod max",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/airpod%20max.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/airpod%20max_thumb.webp",
     "tags": [
       "clothes",
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "azir helmet",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/azir%20helmet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/azir%20helmet_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
       "fashion",
-      "wear"
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -26,7 +40,31 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "beret",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/beret.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/beret_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -36,7 +74,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "casual"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -45,8 +90,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/blitzcrank’s%20head_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -55,8 +107,49 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/brief_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "chuck taylor all star high top",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/chuck%20taylor%20all%20star%20high%20top.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/chuck%20taylor%20all%20star%20high%20top_thumb.webp",
+    "tags": [
+      "clothes",
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "chullo",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/chullo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/chullo_thumb.webp",
+    "tags": [
+      "clothes",
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -65,8 +158,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/dress_thumb.webp",
     "tags": [
       "clothes",
-      "fullbody",
-      "fashion"
+      "outfit",
+      "fashion",
+      "traditional",
+      "formal",
+      "cultural",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -75,9 +175,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/eva%20spacesuit_thumb.webp",
     "tags": [
       "clothes",
-      "fullbody",
-      "fashion",
-      "formal"
+      "sci-fi",
+      "protective",
+      "outer space",
+      "gear",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -86,8 +192,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/ezreal's%20gauntlets_thumb.webp",
     "tags": [
       "clothes",
-      "handwear",
-      "protective"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "fez",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/fez.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/fez_thumb.webp",
+    "tags": [
+      "clothes",
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -97,7 +227,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -106,8 +243,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/folding%20hand%20fan_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -116,8 +260,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/full%20face%20diving%20mask_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "mask",
+      "protective",
+      "accessory",
+      "costume",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -126,8 +277,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gaksi%20mask_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "mask",
+      "protective",
+      "accessory",
+      "costume",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -136,8 +294,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gas%20mask_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "mask",
+      "protective",
+      "accessory",
+      "costume",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -146,8 +311,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gat_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -156,8 +328,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/glasses_thumb.webp",
     "tags": [
       "clothes",
-      "eyewear",
-      "accessory"
+      "vision",
+      "protective",
+      "lens",
+      "accessory",
+      "optical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -166,8 +345,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/gloves_thumb.webp",
     "tags": [
       "clothes",
-      "handwear",
-      "protective"
+      "accessory",
+      "warm",
+      "winter",
+      "outdoor",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -176,9 +362,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/goggles_thumb.webp",
     "tags": [
       "clothes",
-      "eyewear",
+      "vision",
+      "protective",
+      "lens",
       "accessory",
-      "protective"
+      "optical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -187,8 +379,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/handbag_thumb.webp",
     "tags": [
       "clothes",
+      "bag",
+      "carry",
       "accessory",
-      "carry"
+      "travel",
+      "practical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -197,8 +396,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/headlamp_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -208,7 +414,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -217,10 +430,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/hiking%20backpack_thumb.webp",
     "tags": [
       "clothes",
-      "accessory",
+      "bag",
       "carry",
-      "sports",
-      "performance"
+      "accessory",
+      "travel",
+      "practical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -230,9 +448,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion",
-      "sports",
-      "performance"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -241,8 +464,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/jeans_thumb.webp",
     "tags": [
       "clothes",
-      "bottom",
-      "fashion"
+      "bottomwear",
+      "fashion",
+      "daily",
+      "streetwear",
+      "outfit",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -252,7 +482,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -261,10 +498,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/kimono_thumb.webp",
     "tags": [
       "clothes",
-      "fullbody",
+      "outfit",
       "fashion",
       "traditional",
-      "cultural"
+      "formal",
+      "cultural",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -273,8 +515,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/labcoat_thumb.webp",
     "tags": [
       "clothes",
+      "topwear",
+      "casual",
       "outerwear",
-      "warmth"
+      "style",
+      "streetwear",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -284,7 +533,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -294,17 +550,31 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
-    "name": "military helmet",
+    "name": "military helmet ",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/military%20helmet%20.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/military%20helmet_thumb.webp",
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -314,7 +584,31 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
+    ]
+  },
+  {
+    "name": "mongolian fur hat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/mongolian%20fur%20hat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/mongolian%20fur%20hat_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -323,8 +617,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/necktie_thumb.webp",
     "tags": [
       "clothes",
-      "formal",
-      "fashion"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -333,8 +634,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/night%20vision%20device_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "non",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/non.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/non_thumb.webp",
+    "tags": [
+      "clothes",
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -343,9 +668,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/one%20piece%20swimsuit_thumb.webp",
     "tags": [
       "clothes",
-      "fullbody",
+      "outfit",
       "fashion",
-      "formal"
+      "traditional",
+      "formal",
+      "cultural",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -354,8 +685,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/padded%20jacket_thumb.webp",
     "tags": [
       "clothes",
+      "topwear",
+      "casual",
       "outerwear",
-      "warmth"
+      "style",
+      "streetwear",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -364,8 +702,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/paracord%20bracelet_thumb.webp",
     "tags": [
       "clothes",
+      "jewelry",
+      "accessory",
+      "ornament",
       "fashion",
-      "wear"
+      "wearable",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -375,7 +720,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -385,7 +737,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -394,8 +753,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/prayer%20beads_thumb.webp",
     "tags": [
       "clothes",
+      "jewelry",
+      "accessory",
+      "ornament",
       "fashion",
-      "wear"
+      "wearable",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -404,8 +770,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/purse_thumb.webp",
     "tags": [
       "clothes",
-      "fashion",
-      "wear"
+      "bag",
+      "carry",
+      "accessory",
+      "travel",
+      "practical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -415,7 +788,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -424,8 +804,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/respirator_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -434,8 +821,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/ring_thumb.webp",
     "tags": [
       "clothes",
+      "jewelry",
+      "accessory",
+      "ornament",
       "fashion",
-      "wear"
+      "wearable",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -445,9 +839,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion",
-      "sports",
-      "performance"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -456,9 +855,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/safety%20goggles_thumb.webp",
     "tags": [
       "clothes",
-      "eyewear",
+      "vision",
+      "protective",
+      "lens",
       "accessory",
-      "protective"
+      "optical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -467,9 +872,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/safety%20vest_thumb.webp",
     "tags": [
       "clothes",
-      "top",
-      "casual",
-      "protective"
+      "tag1",
+      "tag2",
+      "tag3",
+      "tag4",
+      "tag5",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -479,7 +890,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -488,8 +906,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sari_thumb.webp",
     "tags": [
       "clothes",
+      "outfit",
+      "fashion",
       "traditional",
-      "cultural"
+      "formal",
+      "cultural",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -498,8 +923,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/school%20bag_thumb.webp",
     "tags": [
       "clothes",
+      "bag",
+      "carry",
       "accessory",
-      "carry"
+      "travel",
+      "practical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "seashell necklace",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/seashell%20necklace.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/seashell%20necklace_thumb.webp",
+    "tags": [
+      "clothes",
+      "jewelry",
+      "accessory",
+      "ornament",
+      "fashion",
+      "wearable",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -508,8 +957,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/shorts_thumb.webp",
     "tags": [
       "clothes",
-      "bottom",
-      "fashion"
+      "bottomwear",
+      "fashion",
+      "daily",
+      "streetwear",
+      "outfit",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -519,17 +975,65 @@
     "tags": [
       "clothes",
       "footwear",
-      "casual"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
-    "name": "soman’s boot",
+    "name": "soman’s boot ",
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/soman’s%20boot%20.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/soman’s%20boot_thumb.webp",
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "sombrero",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sombrero.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sombrero_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "songkok",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/songkok.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/songkok_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -538,8 +1042,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/space%20gloves_thumb.webp",
     "tags": [
       "clothes",
-      "handwear",
-      "protective"
+      "accessory",
+      "warm",
+      "winter",
+      "outdoor",
+      "protective",
+      "sci-fi",
+      "protective",
+      "outer space",
+      "gear"
     ]
   },
   {
@@ -549,7 +1060,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -558,9 +1076,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/stillsuit_thumb.webp",
     "tags": [
       "clothes",
-      "fullbody",
-      "fashion",
-      "formal"
+      "sci-fi",
+      "protective",
+      "outer space",
+      "gear",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "stussy hoodie",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/stussy%20hoodie.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/stussy%20hoodie_thumb.webp",
+    "tags": [
+      "clothes",
+      "topwear",
+      "casual",
+      "outerwear",
+      "style",
+      "streetwear",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -569,8 +1110,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/sunglasses_thumb.webp",
     "tags": [
       "clothes",
-      "eyewear",
-      "accessory"
+      "vision",
+      "protective",
+      "lens",
+      "accessory",
+      "optical",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -579,8 +1127,32 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/swim%20fins_thumb.webp",
     "tags": [
       "clothes",
+      "footwear",
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "tangzhuang",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tangzhuang.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tangzhuang_thumb.webp",
+    "tags": [
+      "clothes",
+      "outfit",
       "fashion",
-      "wear"
+      "traditional",
+      "formal",
+      "cultural",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -590,7 +1162,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -600,7 +1179,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "casual"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -609,8 +1195,49 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tshirts_thumb.webp",
     "tags": [
       "clothes",
-      "top",
-      "casual"
+      "topwear",
+      "casual",
+      "outerwear",
+      "style",
+      "streetwear",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "turban",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/turban.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/turban_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
+    ]
+  },
+  {
+    "name": "tyrolean hat",
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tyrolean%20hat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/tyrolean%20hat_thumb.webp",
+    "tags": [
+      "clothes",
+      "headwear",
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -620,7 +1247,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "protective"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "armor",
+      "fantasy",
+      "military",
+      "cosplay"
     ]
   },
   {
@@ -629,8 +1263,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/welding%20mask_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "mask",
+      "protective",
+      "accessory",
+      "costume",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -640,7 +1281,14 @@
     "tags": [
       "clothes",
       "headwear",
-      "casual"
+      "fashion",
+      "style",
+      "accessory",
+      "protective",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -650,7 +1298,14 @@
     "tags": [
       "clothes",
       "footwear",
-      "fashion"
+      "performance",
+      "casual",
+      "streetwear",
+      "comfort",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   },
   {
@@ -659,8 +1314,15 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/clothes/yangban%20mask_thumb.webp",
     "tags": [
       "clothes",
-      "face",
-      "protective"
+      "mask",
+      "protective",
+      "accessory",
+      "costume",
+      "cosplay",
+      "tag6",
+      "tag7",
+      "tag8",
+      "tag9"
     ]
   }
 ]
