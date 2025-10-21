@@ -1,31 +1,5 @@
 [
   {
-    "name": "airplane window during the day",
-    "tags": [
-      "accessory",
-      "airplane",
-      "fashion",
-      "jewelry",
-      "travel",
-      "window"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/airplane%20window%20during%20the%20day.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/airplane%20window%20during%20the%20day_thumb.webp"
-  },
-  {
-    "name": "airplane window during the night",
-    "tags": [
-      "accessory",
-      "airplane",
-      "fashion",
-      "jewelry",
-      "travel",
-      "window"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/airplane%20window%20during%20the%20night.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/airplane%20window%20during%20the%20night_thumb.webp"
-  },
-  {
     "name": "aqua shoes",
     "tags": [
       "fashion",
@@ -112,6 +86,17 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/dress_thumb.webp"
   },
   {
+    "name": "fez",
+    "tags": [
+      "fashion",
+      "hat",
+      "headwear",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/fez.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/fez_thumb.webp"
+  },
+  {
     "name": "flamenco dance shoes",
     "tags": [
       "fashion",
@@ -178,16 +163,6 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/hair%20pick.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/hair%20pick_thumb.webp"
-  },
-  {
-    "name": "handbag",
-    "tags": [
-      "accessory",
-      "bag",
-      "fashion"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/handbag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/handbag_thumb.webp"
   },
   {
     "name": "hawaiian shirt",
@@ -279,6 +254,16 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/japanese%20clogs_thumb.webp"
   },
   {
+    "name": "jeans",
+    "tags": [
+      "casual",
+      "clothing",
+      "fashion"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/jeans.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/jeans_thumb.webp"
+  },
+  {
     "name": "kimono",
     "tags": [
       "clothing",
@@ -334,7 +319,8 @@
     "tags": [
       "fashion",
       "hat",
-      "headwear"
+      "headwear",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/mongolian%20fur%20hat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/mongolian%20fur%20hat_thumb.webp"
@@ -349,6 +335,18 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/necktie.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/necktie_thumb.webp"
+  },
+  {
+    "name": "one piece swimsuit",
+    "tags": [
+      "beach",
+      "clothing",
+      "fashion",
+      "swimwear",
+      "water"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/one%20piece%20swimsuit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/one%20piece%20swimsuit_thumb.webp"
   },
   {
     "name": "padded jacket",
@@ -388,6 +386,7 @@
   {
     "name": "pilot hat",
     "tags": [
+      "aviation",
       "fashion",
       "hat",
       "headwear"
@@ -416,21 +415,13 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/reading%20glasses_thumb.webp"
   },
   {
-    "name": "red phone booth",
-    "tags": [
-      "fashion",
-      "landmark",
-      "uk"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/red%20phone%20booth.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/red%20phone%20booth_thumb.webp"
-  },
-  {
     "name": "ring buoy",
     "tags": [
       "accessory",
       "fashion",
-      "jewelry"
+      "jewelry",
+      "safety",
+      "water"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/ring%20buoy.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/ring%20buoy_thumb.webp"
@@ -490,16 +481,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/sari_thumb.webp"
   },
   {
-    "name": "school bag",
-    "tags": [
-      "accessory",
-      "bag",
-      "fashion"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/school%20bag.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/school%20bag_thumb.webp"
-  },
-  {
     "name": "seashell necklace",
     "tags": [
       "accessory",
@@ -509,6 +490,16 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/seashell%20necklace.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/seashell%20necklace_thumb.webp"
+  },
+  {
+    "name": "shorts",
+    "tags": [
+      "casual",
+      "clothing",
+      "fashion"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/shorts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/shorts_thumb.webp"
   },
   {
     "name": "ski shoes",
@@ -522,20 +513,21 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/ski%20shoes_thumb.webp"
   },
   {
-    "name": "soman’s boot ",
+    "name": "soman’s boot",
     "tags": [
-      "boot",
-      "fashion"
+      "fashion",
+      "footwear"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/soman%E2%80%99s%20boot%20.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/soman%E2%80%99s%20boot%20_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/soman%E2%80%99s%20boot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/soman%E2%80%99s%20boot_thumb.webp"
   },
   {
     "name": "sombrero",
     "tags": [
       "fashion",
       "hat",
-      "headwear"
+      "headwear",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/sombrero.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/sombrero_thumb.webp"
@@ -545,7 +537,8 @@
     "tags": [
       "fashion",
       "hat",
-      "headwear"
+      "headwear",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/songkok.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/songkok_thumb.webp"
@@ -571,19 +564,9 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/sunglasses_thumb.webp"
   },
   {
-    "name": "syringe",
-    "tags": [
-      "accessory",
-      "fashion",
-      "jewelry",
-      "medical"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/syringe.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/syringe_thumb.webp"
-  },
-  {
     "name": "tangzhuang",
     "tags": [
+      "clothing",
       "fashion",
       "traditional"
     ],
@@ -623,7 +606,8 @@
     "tags": [
       "fashion",
       "hat",
-      "headwear"
+      "headwear",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/turban.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/turban_thumb.webp"
@@ -649,19 +633,6 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/uncle%20sam%27s%20hat.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/uncle%20sam%27s%20hat_thumb.webp"
-  },
-  {
-    "name": "wechat pay",
-    "tags": [
-      "fashion",
-      "finance",
-      "hat",
-      "headwear",
-      "payment",
-      "qr"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/wechat%20pay.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/fashion/wechat%20pay_thumb.webp"
   },
   {
     "name": "witch's hat ornament",
