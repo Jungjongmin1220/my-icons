@@ -16,7 +16,8 @@
       "document",
       "office",
       "reading",
-      "stationery"
+      "stationery",
+      "writing"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark_thumb.webp"
@@ -30,18 +31,6 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books_thumb.webp"
-  },
-  {
-    "name": "bottle opener",
-    "tags": [
-      "kitchen",
-      "office",
-      "stationery",
-      "tool",
-      "writing"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bottle%20opener.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bottle%20opener_thumb.webp"
   },
   {
     "name": "calculator",
@@ -66,7 +55,6 @@
   {
     "name": "clipboard",
     "tags": [
-      "document",
       "office",
       "stationery",
       "storage",
@@ -90,6 +78,7 @@
     "tags": [
       "office",
       "stationery",
+      "storage",
       "writing"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip.png",
@@ -108,7 +97,9 @@
   {
     "name": "envelope",
     "tags": [
+      "communication",
       "document",
+      "mail",
       "office",
       "storage"
     ],
@@ -124,16 +115,6 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser_thumb.webp"
-  },
-  {
-    "name": "fax machine",
-    "tags": [
-      "equipment",
-      "office",
-      "printing"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fax%20machine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fax%20machine_thumb.webp"
   },
   {
     "name": "file cabinet",
@@ -277,7 +258,7 @@
     "tags": [
       "communication",
       "office",
-      "sign"
+      "paper"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane_thumb.webp"
@@ -298,6 +279,7 @@
     "tags": [
       "office",
       "stationery",
+      "storage",
       "writing"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip.png",
@@ -357,7 +339,6 @@
     "name": "receipt",
     "tags": [
       "document",
-      "finance",
       "office",
       "storage"
     ],
@@ -377,7 +358,9 @@
   {
     "name": "red envelope",
     "tags": [
+      "communication",
       "document",
+      "mail",
       "office",
       "storage"
     ],
@@ -405,17 +388,6 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser_thumb.webp"
-  },
-  {
-    "name": "travel guidebook",
-    "tags": [
-      "document",
-      "office",
-      "reading",
-      "travel"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/travel%20guidebook.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/travel%20guidebook_thumb.webp"
   },
   {
     "name": "videocassette",
