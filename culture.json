@@ -1,0 +1,458 @@
+[
+  {
+    "name": "azulejo",
+    "tags": [
+      "ceramic",
+      "craft",
+      "culture",
+      "tile",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/azulejo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/azulejo_thumb.webp"
+  },
+  {
+    "name": "bandage doll",
+    "tags": [
+      "charm",
+      "culture",
+      "doll",
+      "folk"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/bandage%20doll.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/bandage%20doll_thumb.webp"
+  },
+  {
+    "name": "broomstick ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "fantasy",
+      "holiday",
+      "magic"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/broomstick%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/broomstick%20ornament_thumb.webp"
+  },
+  {
+    "name": "carousel horse",
+    "tags": [
+      "classic",
+      "culture",
+      "decoration",
+      "toy"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/carousel%20horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/carousel%20horse_thumb.webp"
+  },
+  {
+    "name": "chinese amulet",
+    "tags": [
+      "amulet",
+      "culture",
+      "spiritual",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/chinese%20amulet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/chinese%20amulet_thumb.webp"
+  },
+  {
+    "name": "christmas card",
+    "tags": [
+      "christmas",
+      "culture",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/christmas%20card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/christmas%20card_thumb.webp"
+  },
+  {
+    "name": "christmas tree ornaments",
+    "tags": [
+      "christmas",
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/christmas%20tree%20ornaments.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/christmas%20tree%20ornaments_thumb.webp"
+  },
+  {
+    "name": "coffin",
+    "tags": [
+      "culture",
+      "decoration",
+      "halloween"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/coffin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/coffin_thumb.webp"
+  },
+  {
+    "name": "daruma",
+    "tags": [
+      "culture",
+      "good luck",
+      "japanese",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/daruma.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/daruma_thumb.webp"
+  },
+  {
+    "name": "dolhareubang",
+    "tags": [
+      "culture",
+      "guardian",
+      "korean",
+      "stone",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/dolhareubang.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/dolhareubang_thumb.webp"
+  },
+  {
+    "name": "dollar gold coin",
+    "tags": [
+      "culture",
+      "currency",
+      "souvenir"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/dollar%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/dollar%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "elephant wooden statue",
+    "tags": [
+      "culture",
+      "spiritual",
+      "statue",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/elephant%20wooden%20statue.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/elephant%20wooden%20statue_thumb.webp"
+  },
+  {
+    "name": "garuda wooden statue",
+    "tags": [
+      "culture",
+      "spiritual",
+      "statue",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/garuda%20wooden%20statue.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/garuda%20wooden%20statue_thumb.webp"
+  },
+  {
+    "name": "golden bell ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/golden%20bell%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/golden%20bell%20ornament_thumb.webp"
+  },
+  {
+    "name": "golden star ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/golden%20star%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/golden%20star%20ornament_thumb.webp"
+  },
+  {
+    "name": "greek temple column",
+    "tags": [
+      "ancient",
+      "architecture",
+      "culture",
+      "greek"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/greek%20temple%20column.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/greek%20temple%20column_thumb.webp"
+  },
+  {
+    "name": "halloween garland",
+    "tags": [
+      "culture",
+      "decoration",
+      "halloween",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/halloween%20garland.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/halloween%20garland_thumb.webp"
+  },
+  {
+    "name": "headstone ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "grave",
+      "holiday",
+      "memorial"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/headstone%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/headstone%20ornament_thumb.webp"
+  },
+  {
+    "name": "headstone",
+    "tags": [
+      "culture",
+      "grave",
+      "memorial"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/headstone.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/headstone_thumb.webp"
+  },
+  {
+    "name": "koinobori",
+    "tags": [
+      "culture",
+      "good luck",
+      "japanese",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/koinobori.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/koinobori_thumb.webp"
+  },
+  {
+    "name": "lucky bag",
+    "tags": [
+      "culture",
+      "gift",
+      "good luck"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/lucky%20bag.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/lucky%20bag_thumb.webp"
+  },
+  {
+    "name": "nazar amulet",
+    "tags": [
+      "amulet",
+      "culture",
+      "spiritual",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/nazar%20amulet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/nazar%20amulet_thumb.webp"
+  },
+  {
+    "name": "new york souvenirs",
+    "tags": [
+      "culture",
+      "souvenir",
+      "usa"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/new%20york%20souvenirs.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/new%20york%20souvenirs_thumb.webp"
+  },
+  {
+    "name": "norigae",
+    "tags": [
+      "culture",
+      "good luck",
+      "japanese",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/norigae.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/norigae_thumb.webp"
+  },
+  {
+    "name": "omamori",
+    "tags": [
+      "culture",
+      "good luck",
+      "japanese",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/omamori.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/omamori_thumb.webp"
+  },
+  {
+    "name": "persian carpet",
+    "tags": [
+      "carpet",
+      "craft",
+      "culture",
+      "persian",
+      "textile"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/persian%20carpet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/persian%20carpet_thumb.webp"
+  },
+  {
+    "name": "pine decoration",
+    "tags": [
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/pine%20decoration.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/pine%20decoration_thumb.webp"
+  },
+  {
+    "name": "pumpkin ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "halloween",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/pumpkin%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/pumpkin%20ornament_thumb.webp"
+  },
+  {
+    "name": "quran",
+    "tags": [
+      "culture",
+      "islam",
+      "religion",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/quran.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/quran_thumb.webp"
+  },
+  {
+    "name": "ribbon ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/ribbon%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/ribbon%20ornament_thumb.webp"
+  },
+  {
+    "name": "santa claus ornament",
+    "tags": [
+      "christmas",
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/santa%20claus%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/santa%20claus%20ornament_thumb.webp"
+  },
+  {
+    "name": "scroll",
+    "tags": [
+      "ancient",
+      "culture",
+      "document"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/scroll.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/scroll_thumb.webp"
+  },
+  {
+    "name": "skull ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "halloween",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/skull%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/skull%20ornament_thumb.webp"
+  },
+  {
+    "name": "snowflake ornament",
+    "tags": [
+      "christmas",
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/snowflake%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/snowflake%20ornament_thumb.webp"
+  },
+  {
+    "name": "socks ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/socks%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/socks%20ornament_thumb.webp"
+  },
+  {
+    "name": "statue of liberty miniature",
+    "tags": [
+      "culture",
+      "souvenir",
+      "usa"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/statue%20of%20liberty%20miniature.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/statue%20of%20liberty%20miniature_thumb.webp"
+  },
+  {
+    "name": "talavera ceramic",
+    "tags": [
+      "ceramic",
+      "craft",
+      "culture",
+      "tile",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/talavera%20ceramic.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/talavera%20ceramic_thumb.webp"
+  },
+  {
+    "name": "tiki statue",
+    "tags": [
+      "culture",
+      "spiritual",
+      "statue",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/tiki%20statue.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/tiki%20statue_thumb.webp"
+  },
+  {
+    "name": "wand ornament",
+    "tags": [
+      "culture",
+      "decoration",
+      "fantasy",
+      "holiday",
+      "magic"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wand%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wand%20ornament_thumb.webp"
+  },
+  {
+    "name": "wind bell",
+    "tags": [
+      "culture",
+      "decoration",
+      "sound",
+      "summer"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wind%20bell.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wind%20bell_thumb.webp"
+  },
+  {
+    "name": "wooden seated buddha statue",
+    "tags": [
+      "culture",
+      "spiritual",
+      "statue",
+      "tradition"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wooden%20seated%20buddha%20statue.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wooden%20seated%20buddha%20statue_thumb.webp"
+  },
+  {
+    "name": "wreath ornament",
+    "tags": [
+      "christmas",
+      "culture",
+      "decoration",
+      "holiday"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wreath%20ornament.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/culture/wreath%20ornament_thumb.webp"
+  }
+]
