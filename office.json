@@ -1,0 +1,442 @@
+[
+  {
+    "name": "bar chart",
+    "tags": [
+      "analytics",
+      "chart",
+      "data",
+      "office"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bar%20chart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bar%20chart_thumb.webp"
+  },
+  {
+    "name": "bookmark",
+    "tags": [
+      "document",
+      "office",
+      "reading",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark_thumb.webp"
+  },
+  {
+    "name": "books",
+    "tags": [
+      "document",
+      "office",
+      "reading"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books_thumb.webp"
+  },
+  {
+    "name": "bottle opener",
+    "tags": [
+      "kitchen",
+      "office",
+      "stationery",
+      "tool",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bottle%20opener.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bottle%20opener_thumb.webp"
+  },
+  {
+    "name": "calculator",
+    "tags": [
+      "math",
+      "office",
+      "tool"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/calculator.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/calculator_thumb.webp"
+  },
+  {
+    "name": "card file box",
+    "tags": [
+      "document",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/card%20file%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/card%20file%20box_thumb.webp"
+  },
+  {
+    "name": "clipboard",
+    "tags": [
+      "document",
+      "office",
+      "stationery",
+      "storage",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/clipboard.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/clipboard_thumb.webp"
+  },
+  {
+    "name": "crayon",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/crayon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/crayon_thumb.webp"
+  },
+  {
+    "name": "double clip",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip_thumb.webp"
+  },
+  {
+    "name": "dvd",
+    "tags": [
+      "media",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/dvd.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/dvd_thumb.webp"
+  },
+  {
+    "name": "envelope",
+    "tags": [
+      "document",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/envelope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/envelope_thumb.webp"
+  },
+  {
+    "name": "eraser",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser_thumb.webp"
+  },
+  {
+    "name": "fax machine",
+    "tags": [
+      "equipment",
+      "office",
+      "printing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fax%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fax%20machine_thumb.webp"
+  },
+  {
+    "name": "file cabinet",
+    "tags": [
+      "document",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20cabinet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20cabinet_thumb.webp"
+  },
+  {
+    "name": "file folder",
+    "tags": [
+      "document",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20folder.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20folder_thumb.webp"
+  },
+  {
+    "name": "film projector",
+    "tags": [
+      "media",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/film%20projector.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/film%20projector_thumb.webp"
+  },
+  {
+    "name": "floppy disk",
+    "tags": [
+      "media",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/floppy%20disk.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/floppy%20disk_thumb.webp"
+  },
+  {
+    "name": "fountain pen",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fountain%20pen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fountain%20pen_thumb.webp"
+  },
+  {
+    "name": "highlighter pen",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/highlighter%20pen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/highlighter%20pen_thumb.webp"
+  },
+  {
+    "name": "ledger",
+    "tags": [
+      "document",
+      "office",
+      "reading"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/ledger.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/ledger_thumb.webp"
+  },
+  {
+    "name": "macbook",
+    "tags": [
+      "computer",
+      "device",
+      "document",
+      "electronics",
+      "office",
+      "reading"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/macbook.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/macbook_thumb.webp"
+  },
+  {
+    "name": "marker pen",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/marker%20pen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/marker%20pen_thumb.webp"
+  },
+  {
+    "name": "newspaper box",
+    "tags": [
+      "document",
+      "media",
+      "news",
+      "office"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper%20box_thumb.webp"
+  },
+  {
+    "name": "newspaper",
+    "tags": [
+      "document",
+      "media",
+      "news",
+      "office"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper_thumb.webp"
+  },
+  {
+    "name": "notebook with decorative cover",
+    "tags": [
+      "document",
+      "office",
+      "reading"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/notebook%20with%20decorative%20cover.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/notebook%20with%20decorative%20cover_thumb.webp"
+  },
+  {
+    "name": "open book",
+    "tags": [
+      "document",
+      "office",
+      "reading",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/open%20book.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/open%20book_thumb.webp"
+  },
+  {
+    "name": "paper airplane",
+    "tags": [
+      "communication",
+      "office",
+      "sign"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane_thumb.webp"
+  },
+  {
+    "name": "paper crane",
+    "tags": [
+      "craft",
+      "office",
+      "origami",
+      "paper"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20crane.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20crane_thumb.webp"
+  },
+  {
+    "name": "paperclip",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip_thumb.webp"
+  },
+  {
+    "name": "pen",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pen_thumb.webp"
+  },
+  {
+    "name": "pencil",
+    "tags": [
+      "office",
+      "stationery",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pencil.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pencil_thumb.webp"
+  },
+  {
+    "name": "placard",
+    "tags": [
+      "communication",
+      "office",
+      "sign"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/placard.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/placard_thumb.webp"
+  },
+  {
+    "name": "postbox",
+    "tags": [
+      "communication",
+      "mail",
+      "office"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/postbox.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/postbox_thumb.webp"
+  },
+  {
+    "name": "printer",
+    "tags": [
+      "equipment",
+      "office",
+      "printing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/printer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/printer_thumb.webp"
+  },
+  {
+    "name": "receipt",
+    "tags": [
+      "document",
+      "finance",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/receipt.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/receipt_thumb.webp"
+  },
+  {
+    "name": "red book",
+    "tags": [
+      "document",
+      "office",
+      "reading"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20book.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20book_thumb.webp"
+  },
+  {
+    "name": "red envelope",
+    "tags": [
+      "document",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20envelope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20envelope_thumb.webp"
+  },
+  {
+    "name": "rolled up newspaper",
+    "tags": [
+      "document",
+      "media",
+      "news",
+      "office"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/rolled%20up%20newspaper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/rolled%20up%20newspaper_thumb.webp"
+  },
+  {
+    "name": "tape dispenser",
+    "tags": [
+      "office",
+      "stationery",
+      "tool",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser_thumb.webp"
+  },
+  {
+    "name": "travel guidebook",
+    "tags": [
+      "document",
+      "office",
+      "reading",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/travel%20guidebook.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/travel%20guidebook_thumb.webp"
+  },
+  {
+    "name": "videocassette",
+    "tags": [
+      "media",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/videocassette.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/videocassette_thumb.webp"
+  },
+  {
+    "name": "wine opener",
+    "tags": [
+      "kitchen",
+      "office",
+      "stationery",
+      "tool",
+      "writing"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/wine%20opener.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/wine%20opener_thumb.webp"
+  }
+]
