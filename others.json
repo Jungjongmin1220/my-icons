@@ -1,0 +1,1843 @@
+[
+  {
+    "name": "? box",
+    "tags": [
+      "container",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/%3F%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/%3F%20box_thumb.webp"
+  },
+  {
+    "name": "abacus",
+    "tags": [
+      "education",
+      "school"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/abacus.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/abacus_thumb.webp"
+  },
+  {
+    "name": "adhesive bandage",
+    "tags": [
+      "healthcare",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/adhesive%20bandage.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/adhesive%20bandage_thumb.webp"
+  },
+  {
+    "name": "air conditioner",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20conditioner.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20conditioner_thumb.webp"
+  },
+  {
+    "name": "air mat",
+    "tags": [
+      "air",
+      "bedding",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20mat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20mat_thumb.webp"
+  },
+  {
+    "name": "air purifier",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20purifier.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20purifier_thumb.webp"
+  },
+  {
+    "name": "air sofa",
+    "tags": [
+      "furniture",
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20sofa.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/air%20sofa_thumb.webp"
+  },
+  {
+    "name": "airport trolley",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/airport%20trolley.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/airport%20trolley_thumb.webp"
+  },
+  {
+    "name": "arabian lamp",
+    "tags": [
+      "culture",
+      "home",
+      "household",
+      "lighting",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/arabian%20lamp.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/arabian%20lamp_thumb.webp"
+  },
+  {
+    "name": "atm",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/atm.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/atm_thumb.webp"
+  },
+  {
+    "name": "baht gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/baht%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/baht%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "balance scale",
+    "tags": [
+      "measurement"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/balance%20scale.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/balance%20scale_thumb.webp"
+  },
+  {
+    "name": "baording pass",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/baording%20pass.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/baording%20pass_thumb.webp"
+  },
+  {
+    "name": "barbecue grill",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/barbecue%20grill.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/barbecue%20grill_thumb.webp"
+  },
+  {
+    "name": "basket",
+    "tags": [
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/basket.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/basket_thumb.webp"
+  },
+  {
+    "name": "bath",
+    "tags": [
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bath.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bath_thumb.webp"
+  },
+  {
+    "name": "bathroom supplies",
+    "tags": [
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bathroom%20supplies.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bathroom%20supplies_thumb.webp"
+  },
+  {
+    "name": "battery",
+    "tags": [
+      "electronics",
+      "power"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/battery.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/battery_thumb.webp"
+  },
+  {
+    "name": "beach mat",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beach%20mat.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beach%20mat_thumb.webp"
+  },
+  {
+    "name": "beach parasol",
+    "tags": [
+      "leisure",
+      "outdoor",
+      "sunshade",
+      "weather"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beach%20parasol.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beach%20parasol_thumb.webp"
+  },
+  {
+    "name": "beam projector",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beam%20projector.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/beam%20projector_thumb.webp"
+  },
+  {
+    "name": "bear spray",
+    "tags": [
+      "protective",
+      "safety",
+      "spray"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bear%20spray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bear%20spray_thumb.webp"
+  },
+  {
+    "name": "bed",
+    "tags": [
+      "furniture",
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bed.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bed_thumb.webp"
+  },
+  {
+    "name": "bellhop bell",
+    "tags": [
+      "bell",
+      "hotel",
+      "service"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bellhop%20bell.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bellhop%20bell_thumb.webp"
+  },
+  {
+    "name": "bench",
+    "tags": [
+      "furniture",
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bench.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bench_thumb.webp"
+  },
+  {
+    "name": "binder",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/binder.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/binder_thumb.webp"
+  },
+  {
+    "name": "binoculars",
+    "tags": [
+      "optics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/binoculars.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/binoculars_thumb.webp"
+  },
+  {
+    "name": "black nib",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/black%20nib.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/black%20nib_thumb.webp"
+  },
+  {
+    "name": "blue push pin",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/blue%20push%20pin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/blue%20push%20pin_thumb.webp"
+  },
+  {
+    "name": "bluetooth speaker",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bluetooth%20speaker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bluetooth%20speaker_thumb.webp"
+  },
+  {
+    "name": "boarding pass",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/boarding%20pass.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/boarding%20pass_thumb.webp"
+  },
+  {
+    "name": "bomb",
+    "tags": [
+      "protective",
+      "safety"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bomb.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bomb_thumb.webp"
+  },
+  {
+    "name": "boomerang",
+    "tags": [
+      "outdoor",
+      "sport"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/boomerang.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/boomerang_thumb.webp"
+  },
+  {
+    "name": "bow and arrow",
+    "tags": [
+      "archery",
+      "sport",
+      "weapon"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bow%20and%20arrow.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bow%20and%20arrow_thumb.webp"
+  },
+  {
+    "name": "bowl with spoon",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bowl%20with%20spoon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bowl%20with%20spoon_thumb.webp"
+  },
+  {
+    "name": "brief",
+    "tags": [
+      "apparel",
+      "fashion"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/brief.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/brief_thumb.webp"
+  },
+  {
+    "name": "briefcase",
+    "tags": [
+      "container",
+      "office",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/briefcase.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/briefcase_thumb.webp"
+  },
+  {
+    "name": "broom",
+    "tags": [
+      "cleaning",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/broom.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/broom_thumb.webp"
+  },
+  {
+    "name": "bus stop",
+    "tags": [
+      "transport"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bus%20stop.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/bus%20stop_thumb.webp"
+  },
+  {
+    "name": "cable tie",
+    "tags": [
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cable%20tie.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cable%20tie_thumb.webp"
+  },
+  {
+    "name": "candle",
+    "tags": [
+      "decoration",
+      "lighting"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/candle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/candle_thumb.webp"
+  },
+  {
+    "name": "card payment",
+    "tags": [
+      "card",
+      "finance",
+      "money",
+      "payment"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/card%20payment.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/card%20payment_thumb.webp"
+  },
+  {
+    "name": "cash payment",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cash%20payment.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cash%20payment_thumb.webp"
+  },
+  {
+    "name": "charcoal package",
+    "tags": [
+      "container",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/charcoal%20package.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/charcoal%20package_thumb.webp"
+  },
+  {
+    "name": "chemical light",
+    "tags": [
+      "lighting",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chemical%20light.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chemical%20light_thumb.webp"
+  },
+  {
+    "name": "chess piece king",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chess%20piece%20king.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chess%20piece%20king_thumb.webp"
+  },
+  {
+    "name": "chess piece queen",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chess%20piece%20queen.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chess%20piece%20queen_thumb.webp"
+  },
+  {
+    "name": "children's pool",
+    "tags": [
+      "outdoor",
+      "recreation",
+      "water"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/children%27s%20pool.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/children%27s%20pool_thumb.webp"
+  },
+  {
+    "name": "chinese coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chinese%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chinese%20coin_thumb.webp"
+  },
+  {
+    "name": "chinese seal",
+    "tags": [
+      "stamp"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chinese%20seal.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chinese%20seal_thumb.webp"
+  },
+  {
+    "name": "chopsticks",
+    "tags": [
+      "kitchen",
+      "tableware"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chopsticks.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chopsticks_thumb.webp"
+  },
+  {
+    "name": "chuck taylor all star high top",
+    "tags": [
+      "fashion",
+      "footwear",
+      "shoes"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chuck%20taylor%20all%20star%20high%20top.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chuck%20taylor%20all%20star%20high%20top_thumb.webp"
+  },
+  {
+    "name": "chullo",
+    "tags": [
+      "apparel",
+      "culture",
+      "fashion",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chullo.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/chullo_thumb.webp"
+  },
+  {
+    "name": "cigarette",
+    "tags": [
+      "smoking",
+      "tobacco"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cigarette.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cigarette_thumb.webp"
+  },
+  {
+    "name": "coffee grinder",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/coffee%20grinder.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/coffee%20grinder_thumb.webp"
+  },
+  {
+    "name": "cookware set",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cookware%20set.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/cookware%20set_thumb.webp"
+  },
+  {
+    "name": "couch and lamp",
+    "tags": [
+      "furniture",
+      "home",
+      "household",
+      "lighting"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/couch%20and%20lamp.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/couch%20and%20lamp_thumb.webp"
+  },
+  {
+    "name": "coupon",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/coupon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/coupon_thumb.webp"
+  },
+  {
+    "name": "credit card",
+    "tags": [
+      "card",
+      "finance",
+      "money",
+      "payment"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/credit%20card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/credit%20card_thumb.webp"
+  },
+  {
+    "name": "crown",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/crown.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/crown_thumb.webp"
+  },
+  {
+    "name": "crutch",
+    "tags": [
+      "medical",
+      "mobility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/crutch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/crutch_thumb.webp"
+  },
+  {
+    "name": "dagger",
+    "tags": [
+      "sharp",
+      "tools",
+      "utility",
+      "weapon"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dagger.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dagger_thumb.webp"
+  },
+  {
+    "name": "departure stamp",
+    "tags": [
+      "airport",
+      "stamp",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/departure%20stamp.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/departure%20stamp_thumb.webp"
+  },
+  {
+    "name": "diaper",
+    "tags": [
+      "healthcare",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/diaper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/diaper_thumb.webp"
+  },
+  {
+    "name": "digital timer",
+    "tags": [
+      "device",
+      "electronics",
+      "measurement"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/digital%20timer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/digital%20timer_thumb.webp"
+  },
+  {
+    "name": "dollar gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dollar%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dollar%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "door",
+    "tags": [
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/door.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/door_thumb.webp"
+  },
+  {
+    "name": "down arrow",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/down%20arrow.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/down%20arrow_thumb.webp"
+  },
+  {
+    "name": "dumbbell",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dumbbell.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/dumbbell_thumb.webp"
+  },
+  {
+    "name": "entry stamp",
+    "tags": [
+      "airport",
+      "stamp",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/entry%20stamp.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/entry%20stamp_thumb.webp"
+  },
+  {
+    "name": "espresso machine",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/espresso%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/espresso%20machine_thumb.webp"
+  },
+  {
+    "name": "euro gold coins",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/euro%20gold%20coins.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/euro%20gold%20coins_thumb.webp"
+  },
+  {
+    "name": "eyewash",
+    "tags": [
+      "device",
+      "electronics",
+      "healthcare",
+      "hygiene",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/eyewash.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/eyewash_thumb.webp"
+  },
+  {
+    "name": "ferris wheel",
+    "tags": [
+      "transport"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ferris%20wheel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ferris%20wheel_thumb.webp"
+  },
+  {
+    "name": "firework launcher",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/firework%20launcher.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/firework%20launcher_thumb.webp"
+  },
+  {
+    "name": "first aid kit",
+    "tags": [
+      "healthcare",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/first%20aid%20kit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/first%20aid%20kit_thumb.webp"
+  },
+  {
+    "name": "flame sword",
+    "tags": [
+      "sharp",
+      "weapon"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/flame%20sword.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/flame%20sword_thumb.webp"
+  },
+  {
+    "name": "folded document",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folded%20document.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folded%20document_thumb.webp"
+  },
+  {
+    "name": "folded map",
+    "tags": [
+      "map",
+      "navigation",
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folded%20map.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folded%20map_thumb.webp"
+  },
+  {
+    "name": "folding chair",
+    "tags": [
+      "furniture",
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folding%20chair.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folding%20chair_thumb.webp"
+  },
+  {
+    "name": "folding hand fan",
+    "tags": [
+      "cooling",
+      "fan"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folding%20hand%20fan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/folding%20hand%20fan_thumb.webp"
+  },
+  {
+    "name": "footprint on the moon",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/footprint%20on%20the%20moon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/footprint%20on%20the%20moon_thumb.webp"
+  },
+  {
+    "name": "funeral  urn",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/funeral%20%20urn.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/funeral%20%20urn_thumb.webp"
+  },
+  {
+    "name": "gear",
+    "tags": [
+      "mechanical",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gear.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gear_thumb.webp"
+  },
+  {
+    "name": "gem stone",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gem%20stone.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gem%20stone_thumb.webp"
+  },
+  {
+    "name": "glacier ice chunk",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/glacier%20ice%20chunk.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/glacier%20ice%20chunk_thumb.webp"
+  },
+  {
+    "name": "globe",
+    "tags": [
+      "earth",
+      "map"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/globe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/globe_thumb.webp"
+  },
+  {
+    "name": "gold bar",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gold%20bar.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gold%20bar_thumb.webp"
+  },
+  {
+    "name": "gourd",
+    "tags": [
+      "food"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gourd.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/gourd_thumb.webp"
+  },
+  {
+    "name": "hammock",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hammock.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hammock_thumb.webp"
+  },
+  {
+    "name": "hand fan",
+    "tags": [
+      "cooling",
+      "fan"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hand%20fan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hand%20fan_thumb.webp"
+  },
+  {
+    "name": "handkerchief",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/handkerchief.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/handkerchief_thumb.webp"
+  },
+  {
+    "name": "heart",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/heart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/heart_thumb.webp"
+  },
+  {
+    "name": "hinoki bath",
+    "tags": [
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hinoki%20bath.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hinoki%20bath_thumb.webp"
+  },
+  {
+    "name": "hotel card key",
+    "tags": [
+      "airport",
+      "card",
+      "finance",
+      "money",
+      "payment",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hotel%20card%20key.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hotel%20card%20key_thumb.webp"
+  },
+  {
+    "name": "hotel signboard",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hotel%20signboard.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/hotel%20signboard_thumb.webp"
+  },
+  {
+    "name": "imac",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/imac.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/imac_thumb.webp"
+  },
+  {
+    "name": "international driver's license",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/international%20driver%27s%20license.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/international%20driver%27s%20license_thumb.webp"
+  },
+  {
+    "name": "iso gas",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/iso%20gas.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/iso%20gas_thumb.webp"
+  },
+  {
+    "name": "japanese traditional fan",
+    "tags": [
+      "cooling",
+      "culture",
+      "fan",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/japanese%20traditional%20fan.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/japanese%20traditional%20fan_thumb.webp"
+  },
+  {
+    "name": "jar",
+    "tags": [
+      "container"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/jar.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/jar_thumb.webp"
+  },
+  {
+    "name": "kangaroo alert",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/kangaroo%20alert.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/kangaroo%20alert_thumb.webp"
+  },
+  {
+    "name": "knot",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/knot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/knot_thumb.webp"
+  },
+  {
+    "name": "koi",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/koi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/koi_thumb.webp"
+  },
+  {
+    "name": "leather porch",
+    "tags": [
+      "accessory",
+      "bag"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/leather%20porch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/leather%20porch_thumb.webp"
+  },
+  {
+    "name": "light bulb",
+    "tags": [
+      "home",
+      "household",
+      "lighting"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/light%20bulb.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/light%20bulb_thumb.webp"
+  },
+  {
+    "name": "long drum",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/long%20drum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/long%20drum_thumb.webp"
+  },
+  {
+    "name": "loudspeaker",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/loudspeaker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/loudspeaker_thumb.webp"
+  },
+  {
+    "name": "magnet",
+    "tags": [
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/magnet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/magnet_thumb.webp"
+  },
+  {
+    "name": "match box",
+    "tags": [
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/match%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/match%20box_thumb.webp"
+  },
+  {
+    "name": "microscope",
+    "tags": [
+      "device",
+      "electronics",
+      "optics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/microscope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/microscope_thumb.webp"
+  },
+  {
+    "name": "microwave oven",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/microwave%20oven.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/microwave%20oven_thumb.webp"
+  },
+  {
+    "name": "mini bar",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mini%20bar.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mini%20bar_thumb.webp"
+  },
+  {
+    "name": "mirror",
+    "tags": [
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mirror.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mirror_thumb.webp"
+  },
+  {
+    "name": "money with wings",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/money%20with%20wings.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/money%20with%20wings_thumb.webp"
+  },
+  {
+    "name": "mosquito repellent spray",
+    "tags": [
+      "spray"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mosquito%20repellent%20spray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mosquito%20repellent%20spray_thumb.webp"
+  },
+  {
+    "name": "mouse trap",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mouse%20trap.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mouse%20trap_thumb.webp"
+  },
+  {
+    "name": "mouthwash",
+    "tags": [
+      "healthcare",
+      "hygiene",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mouthwash.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/mouthwash_thumb.webp"
+  },
+  {
+    "name": "non",
+    "tags": [
+      "food"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/non.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/non_thumb.webp"
+  },
+  {
+    "name": "noren",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/noren.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/noren_thumb.webp"
+  },
+  {
+    "name": "oil drum",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/oil%20drum.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/oil%20drum_thumb.webp"
+  },
+  {
+    "name": "old key",
+    "tags": [
+      "security"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/old%20key.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/old%20key_thumb.webp"
+  },
+  {
+    "name": "omok board",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/omok%20board.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/omok%20board_thumb.webp"
+  },
+  {
+    "name": "ott",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ott.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ott_thumb.webp"
+  },
+  {
+    "name": "outback highway",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/outback%20highway.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/outback%20highway_thumb.webp"
+  },
+  {
+    "name": "oyster card",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/oyster%20card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/oyster%20card_thumb.webp"
+  },
+  {
+    "name": "pager",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pager.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pager_thumb.webp"
+  },
+  {
+    "name": "pail",
+    "tags": [
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pail.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pail_thumb.webp"
+  },
+  {
+    "name": "paint brush",
+    "tags": [
+      "office",
+      "stationery",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/paint%20brush.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/paint%20brush_thumb.webp"
+  },
+  {
+    "name": "pakage",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pakage.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pakage_thumb.webp"
+  },
+  {
+    "name": "palette",
+    "tags": [
+      "cooking",
+      "kitchen",
+      "office",
+      "stationery",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/palette.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/palette_thumb.webp"
+  },
+  {
+    "name": "parachute",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/parachute.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/parachute_thumb.webp"
+  },
+  {
+    "name": "pick",
+    "tags": [
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pick.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pick_thumb.webp"
+  },
+  {
+    "name": "pill box",
+    "tags": [
+      "container",
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pill%20box.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pill%20box_thumb.webp"
+  },
+  {
+    "name": "pilot epaulets",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pilot%20epaulets.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pilot%20epaulets_thumb.webp"
+  },
+  {
+    "name": "pinyatta",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pinyatta.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pinyatta_thumb.webp"
+  },
+  {
+    "name": "pizza oven",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pizza%20oven.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pizza%20oven_thumb.webp"
+  },
+  {
+    "name": "point gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/point%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/point%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "police warning lights",
+    "tags": [
+      "protective",
+      "safety"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/police%20warning%20lights.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/police%20warning%20lights_thumb.webp"
+  },
+  {
+    "name": "portable coffee maker",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/portable%20coffee%20maker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/portable%20coffee%20maker_thumb.webp"
+  },
+  {
+    "name": "pot",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pot_thumb.webp"
+  },
+  {
+    "name": "pound gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pound%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/pound%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "prayer beads",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/prayer%20beads.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/prayer%20beads_thumb.webp"
+  },
+  {
+    "name": "rattan basket",
+    "tags": [
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/rattan%20basket.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/rattan%20basket_thumb.webp"
+  },
+  {
+    "name": "razor",
+    "tags": [
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/razor.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/razor_thumb.webp"
+  },
+  {
+    "name": "red push pin",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/red%20push%20pin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/red%20push%20pin_thumb.webp"
+  },
+  {
+    "name": "refrigerator",
+    "tags": [
+      "device",
+      "electronics",
+      "home",
+      "household"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/refrigerator.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/refrigerator_thumb.webp"
+  },
+  {
+    "name": "reminder ribbon",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/reminder%20ribbon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/reminder%20ribbon_thumb.webp"
+  },
+  {
+    "name": "ribbon",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ribbon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/ribbon_thumb.webp"
+  },
+  {
+    "name": "rice cooker",
+    "tags": [
+      "cooking",
+      "home",
+      "household",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/rice%20cooker.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/rice%20cooker_thumb.webp"
+  },
+  {
+    "name": "round pushpin",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/round%20pushpin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/round%20pushpin_thumb.webp"
+  },
+  {
+    "name": "safe",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/safe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/safe_thumb.webp"
+  },
+  {
+    "name": "sake",
+    "tags": [
+      "alcohol",
+      "beverage",
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sake.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sake_thumb.webp"
+  },
+  {
+    "name": "sand castle",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sand%20castle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sand%20castle_thumb.webp"
+  },
+  {
+    "name": "satellite antenna",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/satellite%20antenna.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/satellite%20antenna_thumb.webp"
+  },
+  {
+    "name": "satellite phone",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/satellite%20phone.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/satellite%20phone_thumb.webp"
+  },
+  {
+    "name": "scissors",
+    "tags": [
+      "office",
+      "stationery",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/scissors.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/scissors_thumb.webp"
+  },
+  {
+    "name": "security checkpoint tray",
+    "tags": [
+      "airport",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/security%20checkpoint%20tray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/security%20checkpoint%20tray_thumb.webp"
+  },
+  {
+    "name": "shield",
+    "tags": [
+      "protective",
+      "safety"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shield.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shield_thumb.webp"
+  },
+  {
+    "name": "shopping cart",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shopping%20cart.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shopping%20cart_thumb.webp"
+  },
+  {
+    "name": "shower filter",
+    "tags": [
+      "hygiene",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shower%20filter.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shower%20filter_thumb.webp"
+  },
+  {
+    "name": "shower head",
+    "tags": [
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shower%20head.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shower%20head_thumb.webp"
+  },
+  {
+    "name": "shweshwe",
+    "tags": [
+      "culture",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shweshwe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/shweshwe_thumb.webp"
+  },
+  {
+    "name": "sim card",
+    "tags": [
+      "card",
+      "finance",
+      "money",
+      "payment"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sim%20card.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sim%20card_thumb.webp"
+  },
+  {
+    "name": "sleep eye patch",
+    "tags": [
+      "apparel",
+      "fashion"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sleep%20eye%20patch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sleep%20eye%20patch_thumb.webp"
+  },
+  {
+    "name": "sleigh",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sleigh.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sleigh_thumb.webp"
+  },
+  {
+    "name": "snowman",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/snowman.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/snowman_thumb.webp"
+  },
+  {
+    "name": "socks",
+    "tags": [
+      "apparel",
+      "fashion"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/socks.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/socks_thumb.webp"
+  },
+  {
+    "name": "space suit",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/space%20suit.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/space%20suit_thumb.webp"
+  },
+  {
+    "name": "sponge",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sponge.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/sponge_thumb.webp"
+  },
+  {
+    "name": "spoon",
+    "tags": [
+      "cooking",
+      "kitchen"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/spoon.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/spoon_thumb.webp"
+  },
+  {
+    "name": "stethoscope",
+    "tags": [
+      "healthcare",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/stethoscope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/stethoscope_thumb.webp"
+  },
+  {
+    "name": "syringe",
+    "tags": [
+      "healthcare",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/syringe.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/syringe_thumb.webp"
+  },
+  {
+    "name": "taddy bear",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/taddy%20bear.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/taddy%20bear_thumb.webp"
+  },
+  {
+    "name": "teapot",
+    "tags": [
+      "cooking",
+      "culture",
+      "kitchen",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/teapot.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/teapot_thumb.webp"
+  },
+  {
+    "name": "telescope",
+    "tags": [
+      "device",
+      "electronics",
+      "optics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/telescope.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/telescope_thumb.webp"
+  },
+  {
+    "name": "thermometer",
+    "tags": [
+      "healthcare",
+      "measurement",
+      "medical"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/thermometer.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/thermometer_thumb.webp"
+  },
+  {
+    "name": "toilet",
+    "tags": [
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/toilet.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/toilet_thumb.webp"
+  },
+  {
+    "name": "torch",
+    "tags": [
+      "protective",
+      "safety",
+      "tools",
+      "utility"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/torch.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/torch_thumb.webp"
+  },
+  {
+    "name": "treasure chest",
+    "tags": [
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/treasure%20chest.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/treasure%20chest_thumb.webp"
+  },
+  {
+    "name": "tumbler",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/tumbler.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/tumbler_thumb.webp"
+  },
+  {
+    "name": "tv remote control",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/tv%20remote%20control.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/tv%20remote%20control_thumb.webp"
+  },
+  {
+    "name": "vip ticket",
+    "tags": [
+      "airport",
+      "ticket",
+      "travel"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/vip%20ticket.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/vip%20ticket_thumb.webp"
+  },
+  {
+    "name": "vuvuzela",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/vuvuzela.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/vuvuzela_thumb.webp"
+  },
+  {
+    "name": "washing machine",
+    "tags": [
+      "device",
+      "electronics",
+      "home",
+      "household",
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/washing%20machine.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/washing%20machine_thumb.webp"
+  },
+  {
+    "name": "wastebasket",
+    "tags": [
+      "storage"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wastebasket.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wastebasket_thumb.webp"
+  },
+  {
+    "name": "water pistal",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/water%20pistal.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/water%20pistal_thumb.webp"
+  },
+  {
+    "name": "waterproof phone case",
+    "tags": [
+      "leisure",
+      "outdoor"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/waterproof%20phone%20case.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/waterproof%20phone%20case_thumb.webp"
+  },
+  {
+    "name": "wechat pay",
+    "tags": [
+      "object"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wechat%20pay.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wechat%20pay_thumb.webp"
+  },
+  {
+    "name": "wet wipes",
+    "tags": [
+      "hygiene"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wet%20wipes.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wet%20wipes_thumb.webp"
+  },
+  {
+    "name": "wheel",
+    "tags": [
+      "transport"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wheel.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wheel_thumb.webp"
+  },
+  {
+    "name": "whistle",
+    "tags": [
+      "leisure",
+      "outdoor",
+      "protective",
+      "safety"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/whistle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/whistle_thumb.webp"
+  },
+  {
+    "name": "wireless charger",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wireless%20charger.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wireless%20charger_thumb.webp"
+  },
+  {
+    "name": "won gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/won%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/won%20gold%20coin_thumb.webp"
+  },
+  {
+    "name": "wooden horse",
+    "tags": [
+      "wooden"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wooden%20horse.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/wooden%20horse_thumb.webp"
+  },
+  {
+    "name": "x ray",
+    "tags": [
+      "device",
+      "electronics"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/x%20ray.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/x%20ray_thumb.webp"
+  },
+  {
+    "name": "yarn",
+    "tags": [
+      "craft",
+      "culture",
+      "textile",
+      "traditional"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yarn.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yarn_thumb.webp"
+  },
+  {
+    "name": "yellow push pin",
+    "tags": [
+      "office",
+      "stationery"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yellow%20push%20pin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yellow%20push%20pin_thumb.webp"
+  },
+  {
+    "name": "yen gold coin",
+    "tags": [
+      "coin",
+      "currency",
+      "finance",
+      "money"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yen%20gold%20coin.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/others/yen%20gold%20coin_thumb.webp"
+  }
+]
