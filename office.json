@@ -2,413 +2,355 @@
   {
     "name": "bar chart",
     "tags": [
-      "analytics",
-      "chart",
-      "data",
-      "office"
+      "office",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bar%20chart.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bar%20chart_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bar%20chart.png"
   },
   {
     "name": "bookmark",
     "tags": [
-      "document",
       "office",
-      "reading",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/bookmark.png"
   },
   {
     "name": "books",
     "tags": [
-      "document",
       "office",
-      "reading"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/books.png"
   },
   {
     "name": "calculator",
     "tags": [
-      "math",
       "office",
-      "tool"
+      "device",
+      "math",
+      "계산기",
+      "사무기기"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/calculator.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/calculator_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/calculator.png"
   },
   {
     "name": "card file box",
     "tags": [
-      "document",
       "office",
-      "storage"
+      "storage",
+      "card",
+      "문서보관",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/card%20file%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/card%20file%20box_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/card%20file%20box.png"
   },
   {
     "name": "clipboard",
     "tags": [
       "office",
-      "stationery",
-      "storage",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/clipboard.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/clipboard_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/clipboard.png"
   },
   {
     "name": "crayon",
     "tags": [
       "office",
       "stationery",
-      "writing"
+      "drawing",
+      "사무용품",
+      "문구류",
+      "그리기"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/crayon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/crayon_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/crayon.png"
   },
   {
     "name": "double clip",
     "tags": [
       "office",
-      "stationery",
-      "storage",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/double%20clip.png"
   },
   {
     "name": "dvd",
     "tags": [
-      "media",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/dvd.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/dvd_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/dvd.png"
   },
   {
     "name": "envelope",
     "tags": [
-      "communication",
-      "document",
-      "mail",
       "office",
-      "storage"
+      "mail",
+      "communication",
+      "우편",
+      "통신"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/envelope.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/envelope_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/envelope.png"
   },
   {
     "name": "eraser",
     "tags": [
       "office",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/eraser.png"
   },
   {
     "name": "file cabinet",
     "tags": [
-      "document",
       "office",
-      "storage"
+      "storage",
+      "furniture",
+      "문서보관",
+      "가구",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20cabinet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20cabinet_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20cabinet.png"
   },
   {
     "name": "file folder",
     "tags": [
-      "document",
       "office",
-      "storage"
+      "storage",
+      "document",
+      "문서보관",
+      "서류",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20folder.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20folder_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/file%20folder.png"
   },
   {
     "name": "film projector",
     "tags": [
-      "media",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/film%20projector.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/film%20projector_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/film%20projector.png"
   },
   {
     "name": "floppy disk",
     "tags": [
-      "media",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/floppy%20disk.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/floppy%20disk_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/floppy%20disk.png"
   },
   {
     "name": "fountain pen",
     "tags": [
       "office",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fountain%20pen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fountain%20pen_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/fountain%20pen.png"
   },
   {
     "name": "highlighter pen",
     "tags": [
       "office",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/highlighter%20pen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/highlighter%20pen_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/highlighter%20pen.png"
   },
   {
     "name": "ledger",
     "tags": [
-      "document",
       "office",
-      "reading"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/ledger.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/ledger_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/ledger.png"
   },
   {
     "name": "macbook",
     "tags": [
-      "computer",
-      "device",
-      "document",
-      "electronics",
       "office",
-      "reading"
+      "device",
+      "computer",
+      "노트북",
+      "전자기기",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/macbook.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/macbook_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/macbook.png"
   },
   {
     "name": "marker pen",
     "tags": [
       "office",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/marker%20pen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/marker%20pen_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/marker%20pen.png"
   },
   {
     "name": "newspaper box",
     "tags": [
-      "document",
-      "media",
-      "news",
-      "office"
+      "office",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper%20box_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper%20box.png"
   },
   {
     "name": "newspaper",
     "tags": [
-      "document",
-      "media",
-      "news",
-      "office"
+      "office",
+      "paper",
+      "reading",
+      "신문",
+      "인쇄물"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/newspaper.png"
   },
   {
     "name": "notebook with decorative cover",
     "tags": [
-      "document",
       "office",
-      "reading"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/notebook%20with%20decorative%20cover.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/notebook%20with%20decorative%20cover_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/notebook%20with%20decorative%20cover.png"
   },
   {
     "name": "open book",
     "tags": [
-      "document",
       "office",
-      "reading",
-      "stationery",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/open%20book.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/open%20book_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/open%20book.png"
   },
   {
     "name": "paper airplane",
     "tags": [
-      "communication",
       "office",
-      "paper"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20airplane.png"
   },
   {
     "name": "paper crane",
     "tags": [
-      "craft",
       "office",
-      "origami",
-      "paper"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20crane.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20crane_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paper%20crane.png"
   },
   {
     "name": "paperclip",
     "tags": [
       "office",
-      "stationery",
-      "storage",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/paperclip.png"
   },
   {
     "name": "pen",
     "tags": [
       "office",
       "stationery",
-      "writing"
+      "writing",
+      "사무용품",
+      "문구류",
+      "필기구"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pen_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pen.png"
   },
   {
     "name": "pencil",
     "tags": [
       "office",
       "stationery",
-      "writing"
+      "writing",
+      "사무용품",
+      "문구류",
+      "필기구"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pencil.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pencil_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/pencil.png"
   },
   {
     "name": "placard",
     "tags": [
-      "communication",
       "office",
-      "sign"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/placard.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/placard_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/placard.png"
   },
   {
     "name": "postbox",
     "tags": [
-      "communication",
+      "office",
       "mail",
-      "office"
+      "communication",
+      "우체통",
+      "통신"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/postbox.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/postbox_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/postbox.png"
   },
   {
     "name": "printer",
     "tags": [
-      "equipment",
       "office",
-      "printing"
+      "device",
+      "printing",
+      "사무기기",
+      "프린터"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/printer.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/printer_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/printer.png"
   },
   {
     "name": "receipt",
     "tags": [
-      "document",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/receipt.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/receipt_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/receipt.png"
   },
   {
     "name": "red book",
     "tags": [
-      "document",
       "office",
-      "reading"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20book.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20book_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20book.png"
   },
   {
     "name": "red envelope",
     "tags": [
-      "communication",
-      "document",
-      "mail",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20envelope.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20envelope_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/red%20envelope.png"
   },
   {
     "name": "rolled up newspaper",
     "tags": [
-      "document",
-      "media",
-      "news",
-      "office"
+      "office",
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/rolled%20up%20newspaper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/rolled%20up%20newspaper_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/rolled%20up%20newspaper.png"
   },
   {
     "name": "tape dispenser",
     "tags": [
       "office",
-      "stationery",
-      "tool",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/tape%20dispenser.png"
   },
   {
     "name": "videocassette",
     "tags": [
-      "media",
       "office",
-      "storage"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/videocassette.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/videocassette_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/videocassette.png"
   },
   {
     "name": "wine opener",
     "tags": [
-      "kitchen",
       "office",
-      "stationery",
-      "tool",
-      "writing"
+      "사무용품"
     ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/wine%20opener.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/wine%20opener_thumb.webp"
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/office/wine%20opener.png"
   }
 ]
