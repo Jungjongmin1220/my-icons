@@ -9,26 +9,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/10%20won%20bread_thumb.webp"
   },
   {
-    "name": "Sea urchin sushi",
-    "tags": [
-      "food",
-      "japanese",
-      "rice",
-      "seafood"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/Sea%20urchin%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/Sea%20urchin%20sushi_thumb.webp"
-  },
-  {
-    "name": "Sotteoksoetteok",
-    "tags": [
-      "food",
-      "korean"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/Sotteoksoetteok.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/Sotteoksoetteok_thumb.webp"
-  },
-  {
     "name": "abiu",
     "tags": [
       "food",
@@ -811,15 +791,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/crown%20daisy_thumb.webp"
   },
   {
-    "name": "crème brûlée",
-    "tags": [
-      "food",
-      "french"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cr%C3%A8me%20br%C3%BBl%C3%A9e.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cr%C3%A8me%20br%C3%BBl%C3%A9e_thumb.webp"
-  },
-  {
     "name": "cucumber",
     "tags": [
       "food",
@@ -1572,8 +1543,7 @@
     "name": "horhog",
     "tags": [
       "food",
-      "meat",
-      "soup"
+      "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/horhog.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/horhog_thumb.webp"
@@ -2751,7 +2721,6 @@
     "name": "rice cracker",
     "tags": [
       "food",
-      "rice",
       "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20cracker.png",
@@ -2760,8 +2729,8 @@
   {
     "name": "rice",
     "tags": [
-      "food",
-      "rice"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice_thumb.webp"
@@ -2924,6 +2893,17 @@
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schweinshaxe_thumb.webp"
   },
   {
+    "name": "sea urchin sushi",
+    "tags": [
+      "food",
+      "japanese",
+      "rice",
+      "seafood"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sea%20urchin%20sushi.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sea%20urchin%20sushi_thumb.webp"
+  },
+  {
     "name": "seaweed soup",
     "tags": [
       "food",
@@ -3039,6 +3019,15 @@
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20tofu.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20tofu_thumb.webp"
+  },
+  {
+    "name": "sotteoksoetteok",
+    "tags": [
+      "food",
+      "korean"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sotteoksoetteok.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sotteoksoetteok_thumb.webp"
   },
   {
     "name": "space food pakage",
@@ -3168,6 +3157,7 @@
   {
     "name": "subway sandwich",
     "tags": [
+      "brand",
       "food",
       "sandwich"
     ],
@@ -3187,8 +3177,7 @@
     "name": "sundae",
     "tags": [
       "food",
-      "korean",
-      "soup"
+      "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundae.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundae_thumb.webp"
@@ -3327,7 +3316,6 @@
     "name": "tom yum goong",
     "tags": [
       "food",
-      "noodle",
       "soup",
       "thai"
     ],
@@ -3346,8 +3334,8 @@
   {
     "name": "tonkatsu",
     "tags": [
-      "food",
-      "japanese"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tonkatsu.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tonkatsu_thumb.webp"
@@ -3365,9 +3353,7 @@
     "name": "tortilla",
     "tags": [
       "bread",
-      "food",
-      "mexican",
-      "noodle"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tortilla.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tortilla_thumb.webp"
@@ -3577,8 +3563,7 @@
     "name": "yang rou chuan",
     "tags": [
       "chinese",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yang%20rou%20chuan.png",
     "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yang%20rou%20chuan_thumb.webp"
