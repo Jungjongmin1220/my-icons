@@ -6,7 +6,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/10%20won%20bread.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/10%20won%20bread_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/10%20won%20bread_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "abiu",
@@ -15,7 +19,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/abiu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/abiu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/abiu_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "ackee apple",
@@ -24,16 +32,26 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ackee%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ackee%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ackee%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "acorn",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "nut",
+      "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/acorn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/acorn_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/acorn_thumb.webp",
+    "tags_ko": [
+      "nut",
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "akebia quinata",
@@ -42,18 +60,26 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/akebia%20quinata.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/akebia%20quinata_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/akebia%20quinata_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "amphora",
     "tags": [
       "food",
       "noodle",
-      "soup",
       "vietnamese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/amphora.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/amphora_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/amphora_thumb.webp",
+    "tags_ko": [
+      "면",
+      "베트남",
+      "음식"
+    ]
   },
   {
     "name": "apple mango",
@@ -62,7 +88,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/apple%20mango.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/apple%20mango_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/apple%20mango_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "asparagus",
@@ -71,16 +101,24 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/asparagus.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/asparagus_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/asparagus_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "avocado",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/avocado.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/avocado_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/avocado_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "baby bottle",
@@ -90,7 +128,12 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baby%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baby%20bottle_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baby%20bottle_thumb.webp",
+    "tags_ko": [
+      "병",
+      "음식",
+      "음용기"
+    ]
   },
   {
     "name": "bacon",
@@ -99,7 +142,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bacon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bacon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bacon_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "bael",
@@ -108,7 +155,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bael.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bael_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bael_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "bag ramen",
@@ -118,7 +169,12 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bag%20ramen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bag%20ramen_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bag%20ramen_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "bagel",
@@ -127,7 +183,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bagel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bagel_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bagel_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "baguette",
@@ -137,18 +197,12 @@
       "french"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baguette.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baguette_thumb.webp"
-  },
-  {
-    "name": "banana flavored milk",
-    "tags": [
-      "beverage",
-      "drink",
-      "food",
-      "fruit"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20flavored%20milk.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20flavored%20milk_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/baguette_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식",
+      "프랑스"
+    ]
   },
   {
     "name": "banana passionfruit",
@@ -157,17 +211,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20passionfruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20passionfruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20passionfruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "banana pudding",
     "tags": [
       "dessert",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20pudding.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20pudding_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana%20pudding_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "banana",
@@ -176,16 +237,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banana_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "banh xeo",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "vietnamese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banh%20xeo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banh%20xeo_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/banh%20xeo_thumb.webp",
+    "tags_ko": [
+      "베트남",
+      "음식"
+    ]
   },
   {
     "name": "bean sprouts",
@@ -194,7 +263,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bean%20sprouts.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bean%20sprouts_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bean%20sprouts_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "beans",
@@ -203,19 +276,28 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beans.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beans_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beans_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "beer",
     "tags": [
       "alcohol",
       "bar",
-      "beverage",
       "drink",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beer.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beer_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beer_thumb.webp",
+    "tags_ko": [
+      "bar",
+      "음료",
+      "음식",
+      "주류"
+    ]
   },
   {
     "name": "beet",
@@ -224,7 +306,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beet.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beet_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beet_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "bento",
@@ -233,7 +319,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bento.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bento_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bento_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "beverage box",
@@ -242,7 +332,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beverage%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beverage%20box_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/beverage%20box_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "bibim naengmyeon",
@@ -251,7 +345,11 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bibim%20naengmyeon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bibim%20naengmyeon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bibim%20naengmyeon_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식"
+    ]
   },
   {
     "name": "bilimbi",
@@ -260,7 +358,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bilimbi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bilimbi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bilimbi_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "birthday cake",
@@ -269,16 +371,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/birthday%20cake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/birthday%20cake_thumb.webp"
-  },
-  {
-    "name": "black pepper crab",
-    "tags": [
-      "food",
-      "seafood"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/black%20pepper%20crab.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/black%20pepper%20crab_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/birthday%20cake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "blueberries",
@@ -287,7 +384,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/blueberries.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/blueberries_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/blueberries_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "bluebottle coffee",
@@ -299,16 +400,26 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bluebottle%20coffee.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bluebottle%20coffee_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bluebottle%20coffee_thumb.webp",
+    "tags_ko": [
+      "병",
+      "브랜드",
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "borscht",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/borscht.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/borscht_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/borscht_thumb.webp",
+    "tags_ko": [
+      "수프",
+      "음식"
+    ]
   },
   {
     "name": "bossam",
@@ -317,7 +428,11 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bossam.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bossam_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bossam_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "bottle with popping cork",
@@ -326,17 +441,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bottle%20with%20popping%20cork.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bottle%20with%20popping%20cork_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bottle%20with%20popping%20cork_thumb.webp",
+    "tags_ko": [
+      "병",
+      "음식"
+    ]
   },
   {
     "name": "bread fruit",
     "tags": [
       "bread",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bread%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bread%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bread%20fruit_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "broccoli",
@@ -345,7 +467,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/broccoli.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/broccoli_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/broccoli_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "brown mushroom",
@@ -354,7 +480,11 @@
       "mushroom"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/brown%20mushroom.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/brown%20mushroom_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/brown%20mushroom_thumb.webp",
+    "tags_ko": [
+      "버섯",
+      "음식"
+    ]
   },
   {
     "name": "bubble tea",
@@ -364,16 +494,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bubble%20tea.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bubble%20tea_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bubble%20tea_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "buddha’s fruit",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/buddha%E2%80%99s%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/buddha%E2%80%99s%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/buddha%E2%80%99s%20fruit_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "bungeoppang",
@@ -381,10 +519,18 @@
       "dessert",
       "food",
       "korean",
+      "streetfood",
       "sweet"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bungeoppang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bungeoppang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/bungeoppang_thumb.webp",
+    "tags_ko": [
+      "streetfood",
+      "sweet",
+      "디저트",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "burdock",
@@ -393,7 +539,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burdock.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burdock_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burdock_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "burrito",
@@ -402,16 +552,24 @@
       "mexican"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burrito.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burrito_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/burrito_thumb.webp",
+    "tags_ko": [
+      "멕시코",
+      "음식"
+    ]
   },
   {
     "name": "butter",
     "tags": [
-      "dish",
+      "dairy",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/butter.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/butter_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/butter_thumb.webp",
+    "tags_ko": [
+      "유제품",
+      "음식"
+    ]
   },
   {
     "name": "cabbage",
@@ -420,7 +578,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cabbage.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cabbage_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cabbage_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "caipirinha",
@@ -429,16 +591,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/caipirinha.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/caipirinha_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/caipirinha_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "calamares",
     "tags": [
-      "dish",
+      "chinese",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/calamares.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/calamares_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/calamares_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "cambuca",
@@ -447,16 +617,26 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cambuca.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cambuca_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cambuca_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "camembert",
     "tags": [
-      "dish",
-      "food"
+      "dairy",
+      "food",
+      "french"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/camembert.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/camembert_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/camembert_thumb.webp",
+    "tags_ko": [
+      "유제품",
+      "음식",
+      "프랑스"
+    ]
   },
   {
     "name": "candy",
@@ -465,7 +645,11 @@
       "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/candy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/candy_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/candy_thumb.webp",
+    "tags_ko": [
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "canistel",
@@ -474,7 +658,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canistel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canistel_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canistel_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "canned food",
@@ -483,7 +671,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canned%20food.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canned%20food_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/canned%20food_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "carissa carandas",
@@ -492,17 +684,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carissa%20carandas.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carissa%20carandas_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carissa%20carandas_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "carrot cake",
     "tags": [
       "dessert",
-      "food",
-      "vegetable"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot%20cake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot%20cake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot%20cake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "carrot",
@@ -511,7 +710,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/carrot_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "cereal shrimp",
@@ -520,7 +723,11 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereal%20shrimp.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereal%20shrimp_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereal%20shrimp_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "해산물"
+    ]
   },
   {
     "name": "cereals",
@@ -529,25 +736,37 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereals.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereals_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cereals_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "chayote",
     "tags": [
-      "food",
-      "vegetable"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chayote.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chayote_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chayote_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "cheese wedge",
     "tags": [
-      "dish",
+      "dairy",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cheese%20wedge.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cheese%20wedge_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cheese%20wedge_thumb.webp",
+    "tags_ko": [
+      "유제품",
+      "음식"
+    ]
   },
   {
     "name": "cherries",
@@ -556,16 +775,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherries.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherries_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherries_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "cherry tomatoes",
     "tags": [
-      "food",
-      "vegetable"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherry%20tomatoes.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherry%20tomatoes_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cherry%20tomatoes_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "chicken rice",
@@ -575,27 +802,42 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chicken%20rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chicken%20rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chicken%20rice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "chili crab",
     "tags": [
-      "food",
-      "seafood"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chili%20crab.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chili%20crab_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chili%20crab_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "chimichurri herb bottle",
     "tags": [
       "bottle",
-      "condiment",
       "food",
-      "herb"
+      "herb",
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chimichurri%20herb%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chimichurri%20herb%20bottle_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chimichurri%20herb%20bottle_thumb.webp",
+    "tags_ko": [
+      "병",
+      "소스",
+      "음식",
+      "허브"
+    ]
   },
   {
     "name": "choco pie",
@@ -604,41 +846,52 @@
       "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/choco%20pie.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/choco%20pie_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/choco%20pie_thumb.webp",
+    "tags_ko": [
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "chocolate bar Ice cream",
     "tags": [
-      "chocolate",
       "cold",
       "dessert",
-      "food",
-      "ice cream",
-      "sweet"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20bar%20Ice%20cream.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20bar%20Ice%20cream_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20bar%20Ice%20cream_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "chocolate cake",
     "tags": [
-      "chocolate",
       "dessert",
-      "food",
-      "sweet"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20cake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20cake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate%20cake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "chocolate",
     "tags": [
-      "chocolate",
-      "food",
-      "sweet"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/chocolate_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "churrasco",
@@ -647,7 +900,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churrasco.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churrasco_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churrasco_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "churros",
@@ -656,19 +913,27 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churros.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churros_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/churros_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "clinking beer mugs",
     "tags": [
       "alcohol",
-      "bar",
       "beverage",
       "drink",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20beer%20mugs.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20beer%20mugs_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20beer%20mugs_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "주류"
+    ]
   },
   {
     "name": "clinking glasses",
@@ -677,31 +942,43 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20glasses.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20glasses_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/clinking%20glasses_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "음용기"
+    ]
   },
   {
     "name": "cocktail glass",
     "tags": [
       "alcohol",
       "beverage",
-      "cocktail",
       "drink",
       "drinkware",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cocktail%20glass.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cocktail%20glass_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cocktail%20glass_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "음용기",
+      "주류"
+    ]
   },
   {
     "name": "coconut drink",
     "tags": [
       "beverage",
       "drink",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut%20drink.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut%20drink_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut%20drink_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "coconut",
@@ -710,7 +987,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/coconut_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "cola",
@@ -719,7 +1000,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cola.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cola_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cola_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "convenience store lunch box",
@@ -728,7 +1013,11 @@
       "to-go"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20lunch%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20lunch%20box_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20lunch%20box_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "포장"
+    ]
   },
   {
     "name": "convenience store pudding",
@@ -738,29 +1027,42 @@
       "to-go"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20pudding.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20pudding_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20pudding_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "포장"
+    ]
   },
   {
     "name": "convenience store sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood",
       "to-go"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/convenience%20store%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "포장",
+      "해산물"
+    ]
   },
   {
     "name": "cookie",
     "tags": [
       "dessert",
-      "food",
-      "snack"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cookie.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cookie_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cookie_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "cooking",
@@ -769,7 +1071,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cooking.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cooking_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cooking_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "croissant",
@@ -779,7 +1085,12 @@
       "french"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/croissant.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/croissant_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/croissant_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식",
+      "프랑스"
+    ]
   },
   {
     "name": "crown daisy",
@@ -788,7 +1099,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/crown%20daisy.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/crown%20daisy_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/crown%20daisy_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "cucumber",
@@ -797,7 +1112,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cucumber.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cucumber_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cucumber_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "cup ramen",
@@ -808,7 +1127,13 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cup%20ramen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cup%20ramen_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cup%20ramen_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식",
+      "음용기",
+      "일식"
+    ]
   },
   {
     "name": "cupcake",
@@ -818,17 +1143,25 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupcake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupcake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupcake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "음용기"
+    ]
   },
   {
     "name": "cupuassu",
     "tags": [
       "drinkware",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupuassu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupuassu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cupuassu_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "음용기"
+    ]
   },
   {
     "name": "curry rice",
@@ -837,16 +1170,24 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/curry%20rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/curry%20rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/curry%20rice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "custard",
     "tags": [
-      "dish",
+      "dessert",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/custard.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/custard_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/custard_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "cut of meat",
@@ -855,44 +1196,67 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cut%20of%20meat.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cut%20of%20meat_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/cut%20of%20meat_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "dango",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dango.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dango_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dango_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "date fruit",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/date%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/date%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/date%20fruit_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "dimsum",
     "tags": [
-      "dish",
+      "chinese",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dimsum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dimsum_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dimsum_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "dongpo pork",
     "tags": [
+      "chinese",
       "food",
       "meat",
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dongpo%20pork.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dongpo%20pork_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dongpo%20pork_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "육류",
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "doughnut",
@@ -901,7 +1265,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/doughnut.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/doughnut_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/doughnut_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "dragon fruit",
@@ -910,7 +1278,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dragon%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dragon%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dragon%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "duhat",
@@ -919,16 +1291,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/duhat.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/duhat_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/duhat_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "dumpling",
     "tags": [
-      "dish",
+      "chinese",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dumpling.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dumpling_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/dumpling_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "durian",
@@ -937,7 +1317,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/durian.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/durian_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/durian_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "ear of corn",
@@ -946,28 +1330,43 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ear%20of%20corn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ear%20of%20corn_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ear%20of%20corn_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "eel rice bowl",
-    "tags": [
-      "food",
-      "rice",
-      "seafood"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20rice%20bowl.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20rice%20bowl_thumb.webp"
-  },
-  {
-    "name": "eel sushi",
     "tags": [
       "food",
       "japanese",
       "rice",
       "seafood"
     ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20rice%20bowl.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20rice%20bowl_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "일식",
+      "해산물"
+    ]
+  },
+  {
+    "name": "eel sushi",
+    "tags": [
+      "food",
+      "japanese",
+      "seafood"
+    ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eel%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "egg sushi",
@@ -975,11 +1374,16 @@
       "egg",
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg%20sushi_thumb.webp",
+    "tags_ko": [
+      "달걀",
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "egg",
@@ -988,7 +1392,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/egg_thumb.webp",
+    "tags_ko": [
+      "달걀",
+      "음식"
+    ]
   },
   {
     "name": "eggplant",
@@ -998,7 +1406,12 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eggplant.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eggplant_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/eggplant_thumb.webp",
+    "tags_ko": [
+      "달걀",
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "empanadas",
@@ -1007,7 +1420,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/empanadas.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/empanadas_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/empanadas_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "energy drink bottle",
@@ -1018,7 +1435,12 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20bottle_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20bottle_thumb.webp",
+    "tags_ko": [
+      "병",
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "energy drink can",
@@ -1028,7 +1450,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20can.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20can_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/energy%20drink%20can_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "escargot",
@@ -1037,7 +1463,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/escargot.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/escargot_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/escargot_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "feng lisu",
@@ -1046,7 +1476,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/feng%20lisu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/feng%20lisu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/feng%20lisu_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "fig",
@@ -1055,7 +1489,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fig.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fig_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fig_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "fish cake with swirl",
@@ -1065,7 +1503,12 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fish%20cake%20with%20swirl.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fish%20cake%20with%20swirl_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fish%20cake%20with%20swirl_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "해산물"
+    ]
   },
   {
     "name": "five guys",
@@ -1074,16 +1517,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/five%20guys.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/five%20guys_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/five%20guys_thumb.webp",
+    "tags_ko": [
+      "브랜드",
+      "음식"
+    ]
   },
   {
     "name": "flat peach",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flat%20peach.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flat%20peach_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flat%20peach_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "flatbread",
@@ -1092,7 +1543,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatbread.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatbread_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatbread_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "flatfish sashimi",
@@ -1103,7 +1558,13 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatfish%20sashimi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatfish%20sashimi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/flatfish%20sashimi_thumb.webp",
+    "tags_ko": [
+      "생식",
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "fondue",
@@ -1112,17 +1573,24 @@
       "french"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fondue.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fondue_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fondue_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "프랑스"
+    ]
   },
   {
     "name": "fortune cookie",
     "tags": [
       "dessert",
-      "food",
-      "snack"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fortune%20cookie.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fortune%20cookie_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fortune%20cookie_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "french fries",
@@ -1131,7 +1599,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/french%20fries.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/french%20fries_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/french%20fries_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "fried chicken",
@@ -1141,7 +1613,12 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20chicken.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20chicken_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20chicken_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식",
+      "조리"
+    ]
   },
   {
     "name": "fried shrimp",
@@ -1151,16 +1628,27 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20shrimp.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20shrimp_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20shrimp_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "조리",
+      "해산물"
+    ]
   },
   {
     "name": "fried spring rolls",
     "tags": [
+      "chinese",
       "cooking",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20spring%20rolls.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20spring%20rolls_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/fried%20spring%20rolls_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "조리",
+      "중식"
+    ]
   },
   {
     "name": "gac fruit",
@@ -1169,7 +1657,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gac%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gac%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gac%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "galbitang",
@@ -1179,7 +1671,12 @@
       "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/galbitang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/galbitang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/galbitang_thumb.webp",
+    "tags_ko": [
+      "수프",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "garcinia madruno",
@@ -1188,7 +1685,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garcinia%20madruno.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garcinia%20madruno_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garcinia%20madruno_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "garlic",
@@ -1197,7 +1698,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garlic.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garlic_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/garlic_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "gimbab",
@@ -1207,7 +1712,12 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gimbab.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gimbab_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gimbab_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "ginger",
@@ -1216,7 +1726,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginger.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginger_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginger_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "ginseng",
@@ -1225,29 +1739,44 @@
       "herb"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginseng.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginseng_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ginseng_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "허브"
+    ]
   },
   {
     "name": "gizzard shad sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gizzard%20shad%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gizzard%20shad%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gizzard%20shad%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "glass of milk",
     "tags": [
       "beverage",
+      "dairy",
       "drink",
       "drinkware",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glass%20of%20milk.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glass%20of%20milk_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glass%20of%20milk_thumb.webp",
+    "tags_ko": [
+      "유제품",
+      "음료",
+      "음식",
+      "음용기"
+    ]
   },
   {
     "name": "glazed donuts",
@@ -1257,28 +1786,39 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glazed%20donuts.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glazed%20donuts_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/glazed%20donuts_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "gochujang",
     "tags": [
-      "condiment",
       "food",
-      "korean"
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gochujang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gochujang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gochujang_thumb.webp",
+    "tags_ko": [
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "grape soda",
     "tags": [
       "beverage",
       "drink",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grape%20soda.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grape%20soda_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grape%20soda_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "grapefruit",
@@ -1287,7 +1827,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapefruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapefruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapefruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "grapes",
@@ -1296,7 +1840,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapes.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapes_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grapes_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "green apple",
@@ -1305,7 +1853,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "green onion",
@@ -1314,7 +1866,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20onion.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20onion_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20onion_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "green salad",
@@ -1324,7 +1880,12 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20salad.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20salad_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20salad_thumb.webp",
+    "tags_ko": [
+      "샐러드",
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "green tea in plastic bottle",
@@ -1335,7 +1896,12 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea%20in%20plastic%20bottle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea%20in%20plastic%20bottle_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea%20in%20plastic%20bottle_thumb.webp",
+    "tags_ko": [
+      "병",
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "green tea",
@@ -1345,7 +1911,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/green%20tea_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "grilled salted mackerel",
@@ -1355,26 +1925,12 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20salted%20mackerel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20salted%20mackerel_thumb.webp"
-  },
-  {
-    "name": "grilled shad",
-    "tags": [
-      "cooking",
-      "food",
-      "seafood"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20shad.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20shad_thumb.webp"
-  },
-  {
-    "name": "grilled yellow croaker",
-    "tags": [
-      "cooking",
-      "food"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20yellow%20croaker.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20yellow%20croaker_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/grilled%20salted%20mackerel_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "조리",
+      "해산물"
+    ]
   },
   {
     "name": "guava",
@@ -1383,7 +1939,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guava.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guava_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guava_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "gukhwappang",
@@ -1391,10 +1951,18 @@
       "dessert",
       "food",
       "korean",
+      "streetfood",
       "sweet"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gukhwappang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gukhwappang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gukhwappang_thumb.webp",
+    "tags_ko": [
+      "streetfood",
+      "sweet",
+      "디저트",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "gulab jamun",
@@ -1403,7 +1971,11 @@
       "indian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gulab%20jamun.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gulab%20jamun_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gulab%20jamun_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "인도"
+    ]
   },
   {
     "name": "guobaorou",
@@ -1412,7 +1984,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guobaorou.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guobaorou_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guobaorou_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "guyabano",
@@ -1421,16 +1997,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guyabano.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guyabano_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/guyabano_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "gyoza",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyoza.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyoza_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyoza_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "gyudon",
@@ -1440,7 +2024,12 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyudon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyudon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/gyudon_thumb.webp",
+    "tags_ko": [
+      "면",
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "hala tree fruit",
@@ -1449,7 +2038,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hala%20tree%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hala%20tree%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hala%20tree%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "halal guys",
@@ -1458,7 +2051,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/halal%20guys.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/halal%20guys_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/halal%20guys_thumb.webp",
+    "tags_ko": [
+      "브랜드",
+      "음식"
+    ]
   },
   {
     "name": "hallabong",
@@ -1468,7 +2065,12 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hallabong.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hallabong_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hallabong_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "ham",
@@ -1477,7 +2079,11 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ham.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ham_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ham_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "hamburger",
@@ -1487,7 +2093,12 @@
       "sandwich"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hamburger.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hamburger_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hamburger_thumb.webp",
+    "tags_ko": [
+      "샌드위치",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "herb",
@@ -1496,18 +2107,26 @@
       "herb"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herb.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herb_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herb_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "허브"
+    ]
   },
   {
     "name": "herring Sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herring%20Sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herring%20Sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/herring%20Sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "hetbahn",
@@ -1517,18 +2136,12 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hetbahn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hetbahn_thumb.webp"
-  },
-  {
-    "name": "hodugwaja",
-    "tags": [
-      "dessert",
-      "food",
-      "korean",
-      "sweet"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hodugwaja.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hodugwaja_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hetbahn_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "honey pot",
@@ -1537,16 +2150,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/honey%20pot.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/honey%20pot_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/honey%20pot_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "horhog",
     "tags": [
-      "food",
-      "meat"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/horhog.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/horhog_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/horhog_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "hot and sour noodles",
@@ -1557,36 +2178,56 @@
       "spicy"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20and%20sour%20noodles.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20and%20sour%20noodles_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20and%20sour%20noodles_thumb.webp",
+    "tags_ko": [
+      "매운맛",
+      "면",
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "hot dog",
     "tags": [
-      "fast food",
-      "food",
-      "sandwich"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20dog.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20dog_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20dog_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "hot pepper",
     "tags": [
       "food",
-      "spicy"
+      "spicy",
+      "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pepper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pepper_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pepper_thumb.webp",
+    "tags_ko": [
+      "매운맛",
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "hot pot sauce",
     "tags": [
-      "condiment",
       "food",
+      "sauce",
       "spicy"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pot%20sauce.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pot%20sauce_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hot%20pot%20sauce_thumb.webp",
+    "tags_ko": [
+      "매운맛",
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "hummus",
@@ -1595,30 +2236,41 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hummus.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hummus_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/hummus_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "ice cream bean",
     "tags": [
       "cold",
       "dessert",
-      "food",
-      "fruit",
-      "ice cream"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream%20bean.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream%20bean_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream%20bean_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "ice cream",
     "tags": [
       "cold",
       "dessert",
-      "food",
-      "ice cream"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ice%20cream_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "iced americano",
@@ -1628,7 +2280,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/iced%20americano.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/iced%20americano_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/iced%20americano_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "indian gooseberry",
@@ -1638,17 +2294,25 @@
       "indian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/indian%20gooseberry.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/indian%20gooseberry_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/indian%20gooseberry_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식",
+      "인도"
+    ]
   },
   {
     "name": "irish stew",
     "tags": [
       "food",
-      "soup",
-      "stew"
+      "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/irish%20stew.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/irish%20stew_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/irish%20stew_thumb.webp",
+    "tags_ko": [
+      "수프",
+      "음식"
+    ]
   },
   {
     "name": "jabuticaba",
@@ -1657,7 +2321,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jabuticaba.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jabuticaba_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jabuticaba_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "jackfruit",
@@ -1666,7 +2334,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jackfruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jackfruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jackfruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "jamon iberico",
@@ -1675,7 +2347,11 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jamon%20iberico.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jamon%20iberico_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jamon%20iberico_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "japanese tea ceremony set",
@@ -1686,7 +2362,12 @@
       "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japanese%20tea%20ceremony%20set.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japanese%20tea%20ceremony%20set_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japanese%20tea%20ceremony%20set_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "japchae",
@@ -1695,7 +2376,11 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japchae.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japchae_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/japchae_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "jinro soju",
@@ -1704,7 +2389,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jinro%20soju.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jinro%20soju_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jinro%20soju_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "jjajangmyeon",
@@ -1714,7 +2403,12 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjajangmyeon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjajangmyeon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjajangmyeon_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "jjambbong",
@@ -1724,7 +2418,12 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjambbong.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjambbong_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jjambbong_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "jogbal",
@@ -1733,7 +2432,11 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jogbal.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jogbal_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/jogbal_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "kaisendon",
@@ -1743,16 +2446,25 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaisendon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaisendon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaisendon_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "kale",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kale.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kale_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kale_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "karonda fruit",
@@ -1761,25 +2473,37 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/karonda%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/karonda%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/karonda%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "kaya jam",
     "tags": [
-      "condiment",
-      "food"
+      "food",
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20jam.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20jam_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20jam_thumb.webp",
+    "tags_ko": [
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "kaya toast",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20toast.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20toast_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kaya%20toast_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "kebab",
@@ -1788,7 +2512,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kebab.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kebab_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kebab_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "kerala cashew",
@@ -1797,7 +2525,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kerala%20cashew.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kerala%20cashew_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kerala%20cashew_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "kimchi",
@@ -1807,7 +2539,12 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kimchi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kimchi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kimchi_thumb.webp",
+    "tags_ko": [
+      "발효",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "kiwano melon",
@@ -1816,7 +2553,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwano%20melon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwano%20melon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwano%20melon_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "kiwi",
@@ -1825,34 +2566,50 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kiwi_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "koean pear",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/koean%20pear.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/koean%20pear_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/koean%20pear_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "korean melon",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20melon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20melon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20melon_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "korean pear",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20pear.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20pear_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/korean%20pear_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "kwabegi",
@@ -1861,7 +2618,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kwabegi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kwabegi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/kwabegi_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "lakoocha",
@@ -1870,7 +2631,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lakoocha.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lakoocha_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lakoocha_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "lamb ribs",
@@ -1879,7 +2644,11 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lamb%20ribs.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lamb%20ribs_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lamb%20ribs_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "lanzones",
@@ -1888,16 +2657,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lanzones.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lanzones_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lanzones_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "lasagna",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "italian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lasagna.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lasagna_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lasagna_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "이탈리아"
+    ]
   },
   {
     "name": "leafy green",
@@ -1906,7 +2683,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/leafy%20green.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/leafy%20green_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/leafy%20green_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "lemon",
@@ -1915,7 +2696,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lemon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lemon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lemon_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "lime",
@@ -1924,7 +2709,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lime.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lime_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lime_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "lollipop",
@@ -1933,7 +2722,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lollipop.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lollipop_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lollipop_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "longan",
@@ -1942,7 +2735,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/longan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/longan_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/longan_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "lotus root",
@@ -1951,7 +2748,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lotus%20root.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lotus%20root_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lotus%20root_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "lychee",
@@ -1960,7 +2761,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lychee.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lychee_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/lychee_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "macaroon",
@@ -1969,7 +2774,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/macaroon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/macaroon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/macaroon_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "mackerel sashimi",
@@ -1980,18 +2789,28 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sashimi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sashimi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sashimi_thumb.webp",
+    "tags_ko": [
+      "생식",
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "mackerel sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mackerel%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "madan fruit",
@@ -2000,27 +2819,41 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/madan%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/madan%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/madan%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "makgeolli",
     "tags": [
       "alcohol",
+      "drink",
       "food",
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/makgeolli.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/makgeolli_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/makgeolli_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "주류",
+      "한식"
+    ]
   },
   {
     "name": "mango sticky rice",
     "tags": [
       "food",
-      "fruit",
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango%20sticky%20rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango%20sticky%20rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango%20sticky%20rice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "mango",
@@ -2029,25 +2862,37 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mango_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "mangosteen",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mangosteen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mangosteen_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mangosteen_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "maple syrup",
     "tags": [
-      "condiment",
-      "food"
+      "food",
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maple%20syrup.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maple%20syrup_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maple%20syrup_thumb.webp",
+    "tags_ko": [
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "mapo tofu",
@@ -2056,7 +2901,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mapo%20tofu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mapo%20tofu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mapo%20tofu_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "maprang",
@@ -2065,7 +2914,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maprang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maprang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/maprang_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "marang",
@@ -2074,16 +2927,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/marang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/marang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/marang_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "martini",
     "tags": [
-      "cocktail",
+      "alcohol",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/martini.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/martini_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/martini_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "주류"
+    ]
   },
   {
     "name": "matcha latte",
@@ -2094,7 +2955,12 @@
       "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/matcha%20latte.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/matcha%20latte_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/matcha%20latte_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "mate",
@@ -2104,7 +2970,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mate_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mate_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "mayom",
@@ -2113,7 +2983,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mayom.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mayom_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mayom_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "mcdonalds pakage",
@@ -2123,7 +2997,12 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mcdonalds%20pakage.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mcdonalds%20pakage_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mcdonalds%20pakage_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "브랜드",
+      "음식"
+    ]
   },
   {
     "name": "meat on bone",
@@ -2132,7 +3011,11 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/meat%20on%20bone.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/meat%20on%20bone_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/meat%20on%20bone_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "melon",
@@ -2141,16 +3024,26 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/melon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/melon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/melon_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "moon cake",
     "tags": [
       "dessert",
-      "food"
+      "food",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/moon%20cake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/moon%20cake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/moon%20cake_thumb.webp",
+    "tags_ko": [
+      "traditional",
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "mulnaengmyeon",
@@ -2160,17 +3053,29 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mulnaengmyeon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mulnaengmyeon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/mulnaengmyeon_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "myeongdong gyoza",
     "tags": [
       "food",
+      "japanese",
       "korean",
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/myeongdong%20gyoza.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/myeongdong%20gyoza_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/myeongdong%20gyoza_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "일식",
+      "한식"
+    ]
   },
   {
     "name": "naan",
@@ -2180,7 +3085,12 @@
       "indian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naan_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naan_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식",
+      "인도"
+    ]
   },
   {
     "name": "nachos",
@@ -2189,7 +3099,11 @@
       "mexican"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nachos.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nachos_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nachos_thumb.webp",
+    "tags_ko": [
+      "멕시코",
+      "음식"
+    ]
   },
   {
     "name": "naranjilla",
@@ -2198,16 +3112,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naranjilla.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naranjilla_thumb.webp"
-  },
-  {
-    "name": "nasi goreng",
-    "tags": [
-      "food",
-      "rice"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nasi%20goreng.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nasi%20goreng_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/naranjilla_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "natto",
@@ -2216,7 +3125,11 @@
       "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/natto.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/natto_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/natto_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "nipa palm",
@@ -2225,18 +3138,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nipa%20palm.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nipa%20palm_thumb.webp"
-  },
-  {
-    "name": "nissin cup ramen",
-    "tags": [
-      "drinkware",
-      "food",
-      "japanese",
-      "noodle"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nissin%20cup%20ramen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nissin%20cup%20ramen_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nipa%20palm_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "nuremberg gingerbread",
@@ -2244,31 +3150,31 @@
       "bread",
       "dessert",
       "food",
-      "german",
-      "vegetable"
+      "german"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nuremberg%20gingerbread.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nuremberg%20gingerbread_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/nuremberg%20gingerbread_thumb.webp",
+    "tags_ko": [
+      "독일",
+      "디저트",
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "octopus sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/octopus%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/octopus%20sushi_thumb.webp"
-  },
-  {
-    "name": "octopus tangtang",
-    "tags": [
-      "food",
-      "seafood"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/octopus%20tangtang.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/octopus%20tangtang_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/octopus%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "oden",
@@ -2277,7 +3183,11 @@
       "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oden.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oden_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oden_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "oenanthe javanica",
@@ -2286,7 +3196,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oenanthe%20javanica.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oenanthe%20javanica_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oenanthe%20javanica_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "olive",
@@ -2295,7 +3209,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/olive.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/olive_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/olive_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "omurice",
@@ -2305,7 +3223,12 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/omurice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/omurice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/omurice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "onion",
@@ -2314,29 +3237,39 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/onion.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/onion_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/onion_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "orange juice",
     "tags": [
       "beverage",
       "drink",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20juice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20juice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20juice_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "orange soda",
     "tags": [
       "beverage",
       "drink",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20soda.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20soda_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange%20soda_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "orange",
@@ -2345,7 +3278,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/orange_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "oyster",
@@ -2354,7 +3291,11 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oyster.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oyster_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/oyster_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "해산물"
+    ]
   },
   {
     "name": "palm tree leaf",
@@ -2363,7 +3304,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/palm%20tree%20leaf.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/palm%20tree%20leaf_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/palm%20tree%20leaf_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pancakes",
@@ -2373,7 +3318,12 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pancakes.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pancakes_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pancakes_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "아침식사",
+      "음식"
+    ]
   },
   {
     "name": "panini",
@@ -2383,7 +3333,12 @@
       "sandwich"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/panini.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/panini_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/panini_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "샌드위치",
+      "음식"
+    ]
   },
   {
     "name": "papaya",
@@ -2392,7 +3347,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/papaya.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/papaya_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/papaya_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "passion fruit",
@@ -2401,17 +3360,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/passion%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/passion%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/passion%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pavlova",
     "tags": [
       "dessert",
-      "food",
-      "french"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pavlova.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pavlova_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pavlova_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "pea pod",
@@ -2420,7 +3386,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pea%20pod.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pea%20pod_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pea%20pod_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "peach",
@@ -2429,7 +3399,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peach.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peach_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peach_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "peanuts",
@@ -2438,7 +3412,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peanuts.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peanuts_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/peanuts_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pear",
@@ -2447,7 +3425,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pear.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pear_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pear_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pepino",
@@ -2456,7 +3438,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pepino.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pepino_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pepino_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "perilla leaves",
@@ -2465,7 +3451,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/perilla%20leaves.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/perilla%20leaves_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/perilla%20leaves_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "persimmon",
@@ -2474,7 +3464,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/persimmon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/persimmon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/persimmon_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pho",
@@ -2485,7 +3479,13 @@
       "vietnamese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pho.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pho_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pho_thumb.webp",
+    "tags_ko": [
+      "면",
+      "베트남",
+      "수프",
+      "음식"
+    ]
   },
   {
     "name": "pie",
@@ -2494,7 +3494,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pie.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pie_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pie_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pierogi",
@@ -2503,7 +3507,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pierogi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pierogi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pierogi_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pineapple",
@@ -2512,7 +3520,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pineapple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pineapple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pineapple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pistachio",
@@ -2521,16 +3533,28 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pistachio.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pistachio_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pistachio_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "pizza",
     "tags": [
-      "fast food",
-      "food"
+      "baked",
+      "bread",
+      "food",
+      "italian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pizza.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pizza_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pizza_thumb.webp",
+    "tags_ko": [
+      "baked",
+      "빵",
+      "음식",
+      "이탈리아"
+    ]
   },
   {
     "name": "plum",
@@ -2539,7 +3563,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/plum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/plum_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/plum_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pomegranate",
@@ -2548,7 +3576,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomegranate.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomegranate_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomegranate_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pomelo",
@@ -2557,7 +3589,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomelo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomelo_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pomelo_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "popcorn",
@@ -2566,7 +3602,11 @@
       "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/popcorn.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/popcorn_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/popcorn_thumb.webp",
+    "tags_ko": [
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "pork soup and rice",
@@ -2577,7 +3617,13 @@
       "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pork%20soup%20and%20rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pork%20soup%20and%20rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pork%20soup%20and%20rice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "수프",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "pot of food",
@@ -2586,7 +3632,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pot%20of%20food.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pot%20of%20food_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pot%20of%20food_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "potato",
@@ -2595,7 +3645,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/potato.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/potato_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/potato_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "poultry leg",
@@ -2604,7 +3658,11 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/poultry%20leg.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/poultry%20leg_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/poultry%20leg_thumb.webp",
+    "tags_ko": [
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "pretzel",
@@ -2613,7 +3671,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pretzel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pretzel_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pretzel_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "pulasan",
@@ -2622,16 +3684,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pulasan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pulasan_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pulasan_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "pumpkin porridge",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin%20porridge.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin%20porridge_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin%20porridge_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "pumpkin",
@@ -2640,7 +3710,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/pumpkin_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "radish",
@@ -2649,7 +3723,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/radish.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/radish_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/radish_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "rambutan",
@@ -2658,17 +3736,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rambutan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rambutan_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rambutan_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "raspberry cake",
     "tags": [
       "dessert",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/raspberry%20cake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/raspberry%20cake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/raspberry%20cake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "ratatouille",
@@ -2677,7 +3762,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ratatouille.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ratatouille_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/ratatouille_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "red apple",
@@ -2686,27 +3775,39 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "red bean shaved ice",
     "tags": [
       "cold",
       "dessert",
-      "food",
-      "ice"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bean%20shaved%20ice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bean%20shaved%20ice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bean%20shaved%20ice_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "red bell pepper",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bell%20pepper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bell%20pepper_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/red%20bell%20pepper_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "rice ball",
@@ -2715,7 +3816,11 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20ball.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20ball_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20ball_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "rice cracker",
@@ -2724,7 +3829,11 @@
       "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20cracker.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20cracker_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice%20cracker_thumb.webp",
+    "tags_ko": [
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "rice",
@@ -2733,27 +3842,24 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rice_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "roasted sweet potato",
     "tags": [
       "cooking",
-      "food",
-      "vegetable"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/roasted%20sweet%20potato.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/roasted%20sweet%20potato_thumb.webp"
-  },
-  {
-    "name": "roll toilet paper",
-    "tags": [
-      "food",
-      "household",
-      "paper"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/roll%20toilet%20paper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/roll%20toilet%20paper_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/roasted%20sweet%20potato_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "조리"
+    ]
   },
   {
     "name": "romanesco broccoli",
@@ -2762,7 +3868,11 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/romanesco%20broccoli.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/romanesco%20broccoli_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/romanesco%20broccoli_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "rose apple",
@@ -2771,7 +3881,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rose%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rose%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rose%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "rosemary",
@@ -2780,30 +3894,43 @@
       "herb"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rosemary.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rosemary_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/rosemary_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "허브"
+    ]
   },
   {
     "name": "sake",
     "tags": [
       "alcohol",
-      "beverage",
       "drink",
       "food",
       "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sake_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "일식",
+      "주류"
+    ]
   },
   {
     "name": "salmon sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salmon%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salmon%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salmon%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "salt",
@@ -2812,7 +3939,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salt.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salt_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/salt_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "samgyeobsal",
@@ -2821,7 +3952,11 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samgyeobsal.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samgyeobsal_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samgyeobsal_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "samosa",
@@ -2830,7 +3965,11 @@
       "indian"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samosa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samosa_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/samosa_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "인도"
+    ]
   },
   {
     "name": "sandwich",
@@ -2839,7 +3978,11 @@
       "sandwich"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sandwich.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sandwich_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sandwich_thumb.webp",
+    "tags_ko": [
+      "샌드위치",
+      "음식"
+    ]
   },
   {
     "name": "santol",
@@ -2848,7 +3991,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/santol.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/santol_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/santol_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "sashimi",
@@ -2859,18 +4006,28 @@
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sashimi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sashimi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sashimi_thumb.webp",
+    "tags_ko": [
+      "생식",
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "scallop sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/scallop%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/scallop%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/scallop%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "schnitzel",
@@ -2880,7 +4037,12 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schnitzel.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schnitzel_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schnitzel_thumb.webp",
+    "tags_ko": [
+      "독일",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "schweinshaxe",
@@ -2890,27 +4052,42 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schweinshaxe.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schweinshaxe_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/schweinshaxe_thumb.webp",
+    "tags_ko": [
+      "독일",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "sea urchin sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sea%20urchin%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sea%20urchin%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sea%20urchin%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "seaweed soup",
     "tags": [
       "food",
+      "korean",
       "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed%20soup.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed%20soup_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed%20soup_thumb.webp",
+    "tags_ko": [
+      "수프",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "seaweed",
@@ -2919,26 +4096,39 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/seaweed_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "sesame oil buckwheat noodles",
     "tags": [
-      "condiment",
       "food",
-      "noodle"
+      "noodle",
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil%20buckwheat%20noodles.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil%20buckwheat%20noodles_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil%20buckwheat%20noodles_thumb.webp",
+    "tags_ko": [
+      "면",
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "sesame oil",
     "tags": [
-      "condiment",
-      "food"
+      "food",
+      "sauce"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sesame%20oil_thumb.webp",
+    "tags_ko": [
+      "소스",
+      "음식"
+    ]
   },
   {
     "name": "shallow pan of food",
@@ -2947,18 +4137,26 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shallow%20pan%20of%20food.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shallow%20pan%20of%20food_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shallow%20pan%20of%20food_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "shaved ice",
     "tags": [
       "cold",
       "dessert",
-      "food",
-      "ice"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shaved%20ice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shaved%20ice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shaved%20ice_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "sheaf of rice",
@@ -2967,49 +4165,67 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sheaf%20of%20rice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sheaf%20of%20rice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sheaf%20of%20rice_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "shrimp sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shrimp%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shrimp%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/shrimp%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "snake fruit",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snake%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snake%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snake%20fruit_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "snickers chocolate bar",
     "tags": [
-      "chocolate",
       "food",
-      "snack",
-      "sweet"
+      "snack"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snickers%20chocolate%20bar.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snickers%20chocolate%20bar_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/snickers%20chocolate%20bar_thumb.webp",
+    "tags_ko": [
+      "스낵",
+      "음식"
+    ]
   },
   {
     "name": "soft ice cream",
     "tags": [
       "cold",
       "dessert",
-      "food",
-      "ice cream"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20ice%20cream.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20ice%20cream_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20ice%20cream_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식",
+      "차가움"
+    ]
   },
   {
     "name": "soft tofu",
@@ -3018,7 +4234,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20tofu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20tofu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/soft%20tofu_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "sotteoksoetteok",
@@ -3027,7 +4247,11 @@
       "korean"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sotteoksoetteok.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sotteoksoetteok_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sotteoksoetteok_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "space food pakage",
@@ -3036,7 +4260,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/space%20food%20pakage.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/space%20food%20pakage_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/space%20food%20pakage_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "spaghetti",
@@ -3045,7 +4273,11 @@
       "noodle"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spaghetti.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spaghetti_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spaghetti_thumb.webp",
+    "tags_ko": [
+      "면",
+      "음식"
+    ]
   },
   {
     "name": "spicy seasoned chicken",
@@ -3055,7 +4287,12 @@
       "spicy"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spicy%20seasoned%20chicken.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spicy%20seasoned%20chicken_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/spicy%20seasoned%20chicken_thumb.webp",
+    "tags_ko": [
+      "매운맛",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "star apple",
@@ -3064,7 +4301,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "star fruit",
@@ -3073,7 +4314,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/star%20fruit_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "steamed whole squid",
@@ -3084,7 +4329,12 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steamed%20whole%20squid.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steamed%20whole%20squid_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steamed%20whole%20squid_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "조리"
+    ]
   },
   {
     "name": "steaming bowl",
@@ -3094,37 +4344,39 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steaming%20bowl.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steaming%20bowl_thumb.webp"
-  },
-  {
-    "name": "stir fried morning glory",
-    "tags": [
-      "cooking",
-      "food"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stir%20fried%20morning%20glory.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stir%20fried%20morning%20glory_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/steaming%20bowl_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "stir fried tomato egg",
     "tags": [
       "cooking",
       "egg",
-      "food",
-      "vegetable"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stir%20fried%20tomato%20egg.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stir%20fried%20tomato%20egg_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stir%20fried%20tomato%20egg_thumb.webp",
+    "tags_ko": [
+      "달걀",
+      "음식",
+      "조리"
+    ]
   },
   {
     "name": "strawberry banana crepe",
     "tags": [
       "dessert",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry%20banana%20crepe.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry%20banana%20crepe_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry%20banana%20crepe_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "strawberry",
@@ -3133,17 +4385,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberry_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "strawberrycake",
     "tags": [
       "dessert",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberrycake.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberrycake_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/strawberrycake_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "stuffed flatbread",
@@ -3152,7 +4411,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stuffed%20flatbread.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stuffed%20flatbread_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/stuffed%20flatbread_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "subway sandwich",
@@ -3162,7 +4425,12 @@
       "sandwich"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/subway%20sandwich.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/subway%20sandwich_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/subway%20sandwich_thumb.webp",
+    "tags_ko": [
+      "브랜드",
+      "샌드위치",
+      "음식"
+    ]
   },
   {
     "name": "sugar apple",
@@ -3171,27 +4439,39 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sugar%20apple.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sugar%20apple_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sugar%20apple_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "sundae",
     "tags": [
-      "food",
-      "korean"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundae.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundae_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundae_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "sundubu jjigae",
     "tags": [
       "food",
       "korean",
-      "soup",
-      "stew"
+      "soup"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundubu%20jjigae.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundubu%20jjigae_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sundubu%20jjigae_thumb.webp",
+    "tags_ko": [
+      "수프",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "sunflower seeds",
@@ -3200,7 +4480,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sunflower%20seeds.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sunflower%20seeds_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/sunflower%20seeds_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "surinam cherry",
@@ -3209,7 +4493,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/surinam%20cherry.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/surinam%20cherry_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/surinam%20cherry_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "taco",
@@ -3218,7 +4506,11 @@
       "mexican"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/taco.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/taco_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/taco_thumb.webp",
+    "tags_ko": [
+      "멕시코",
+      "음식"
+    ]
   },
   {
     "name": "takeout box",
@@ -3227,7 +4519,11 @@
       "to-go"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/takeout%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/takeout%20box_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/takeout%20box_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "포장"
+    ]
   },
   {
     "name": "tamale",
@@ -3236,7 +4532,11 @@
       "mexican"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamale.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamale_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamale_thumb.webp",
+    "tags_ko": [
+      "멕시코",
+      "음식"
+    ]
   },
   {
     "name": "tamarillo",
@@ -3245,16 +4545,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamarillo.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamarillo_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamarillo_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "tamirind",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamirind.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamirind_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tamirind_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "tangerine",
@@ -3263,16 +4571,24 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tangerine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tangerine_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tangerine_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "tanghulu",
     "tags": [
-      "chinese",
+      "dish",
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tanghulu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tanghulu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tanghulu_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "tendon",
@@ -3281,7 +4597,11 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tendon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tendon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tendon_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식"
+    ]
   },
   {
     "name": "thermal lunch box",
@@ -3290,37 +4610,52 @@
       "to-go"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/thermal%20lunch%20box.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/thermal%20lunch%20box_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/thermal%20lunch%20box_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "포장"
+    ]
   },
   {
     "name": "toddy palm fruit",
     "tags": [
-      "food",
-      "fruit"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/toddy%20palm%20fruit.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/toddy%20palm%20fruit_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/toddy%20palm%20fruit_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "tofu sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tofu%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tofu%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tofu%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "tom yum goong",
     "tags": [
       "food",
-      "soup",
       "thai"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tom%20yum%20goong.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tom%20yum%20goong_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tom%20yum%20goong_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "태국"
+    ]
   },
   {
     "name": "tomato",
@@ -3329,25 +4664,37 @@
       "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tomato.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tomato_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tomato_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "tonkatsu",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "japanese"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tonkatsu.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tonkatsu_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tonkatsu_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식"
+    ]
   },
   {
     "name": "tornado potato",
     "tags": [
-      "food",
-      "vegetable"
+      "dish",
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tornado%20potato.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tornado%20potato_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tornado%20potato_thumb.webp",
+    "tags_ko": [
+      "dish",
+      "음식"
+    ]
   },
   {
     "name": "tortilla",
@@ -3356,7 +4703,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tortilla.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tortilla_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tortilla_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
   },
   {
     "name": "traditional drum",
@@ -3366,7 +4717,12 @@
       "instrument"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/traditional%20drum.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/traditional%20drum_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/traditional%20drum_thumb.webp",
+    "tags_ko": [
+      "culture",
+      "instrument",
+      "음식"
+    ]
   },
   {
     "name": "tropical drink",
@@ -3376,16 +4732,32 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tropical%20drink.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tropical%20drink_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tropical%20drink_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "tteokbokki",
     "tags": [
       "food",
-      "korean"
+      "korean",
+      "rice",
+      "sauce",
+      "spicy",
+      "streetfood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tteokbokki.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tteokbokki_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tteokbokki_thumb.webp",
+    "tags_ko": [
+      "streetfood",
+      "매운맛",
+      "밥",
+      "소스",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "tuna gimbab",
@@ -3395,18 +4767,27 @@
       "rice"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20gimbab.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20gimbab_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20gimbab_thumb.webp",
+    "tags_ko": [
+      "밥",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "tuna sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/tuna%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   },
   {
     "name": "uvaria rufa",
@@ -3415,7 +4796,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/uvaria%20rufa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/uvaria%20rufa_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/uvaria%20rufa_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "vin chaud",
@@ -3424,12 +4809,16 @@
       "beverage",
       "drink",
       "food",
-      "french",
-      "mulled wine",
-      "winter"
+      "french"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/vin%20chaud.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/vin%20chaud_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/vin%20chaud_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "주류",
+      "프랑스"
+    ]
   },
   {
     "name": "waffle",
@@ -3439,17 +4828,25 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waffle.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waffle_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waffle_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "아침식사",
+      "음식"
+    ]
   },
   {
     "name": "walnut cookies",
     "tags": [
       "dessert",
-      "food",
-      "snack"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/walnut%20cookies.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/walnut%20cookies_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/walnut%20cookies_thumb.webp",
+    "tags_ko": [
+      "디저트",
+      "음식"
+    ]
   },
   {
     "name": "wampee",
@@ -3458,7 +4855,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wampee.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wampee_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wampee_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "water chestnut",
@@ -3467,18 +4868,25 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/water%20chestnut.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/water%20chestnut_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/water%20chestnut_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "watermelon juice",
     "tags": [
       "beverage",
       "drink",
-      "food",
-      "fruit"
+      "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon%20juice.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon%20juice_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon%20juice_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식"
+    ]
   },
   {
     "name": "watermelon",
@@ -3487,7 +4895,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/watermelon_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "waxberry",
@@ -3496,17 +4908,11 @@
       "fruit"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waxberry.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waxberry_thumb.webp"
-  },
-  {
-    "name": "welcome drink",
-    "tags": [
-      "beverage",
-      "drink",
-      "food"
-    ],
-    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/welcome%20drink.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/welcome%20drink_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/waxberry_thumb.webp",
+    "tags_ko": [
+      "과일",
+      "음식"
+    ]
   },
   {
     "name": "white bread",
@@ -3515,7 +4921,29 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/white%20bread.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/white%20bread_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/white%20bread_thumb.webp",
+    "tags_ko": [
+      "빵",
+      "음식"
+    ]
+  },
+  {
+    "name": "wine bottle",
+    "tags": [
+      "alcohol",
+      "beverage",
+      "bottle",
+      "drink",
+      "food"
+    ],
+    "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wine%20bottle.png",
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wine%20bottle_thumb.webp",
+    "tags_ko": [
+      "병",
+      "음료",
+      "음식",
+      "주류"
+    ]
   },
   {
     "name": "wine glass",
@@ -3527,7 +4955,13 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wine%20glass.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wine%20glass_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wine%20glass_thumb.webp",
+    "tags_ko": [
+      "음료",
+      "음식",
+      "음용기",
+      "주류"
+    ]
   },
   {
     "name": "wurst",
@@ -3537,7 +4971,12 @@
       "meat"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wurst.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wurst_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/wurst_thumb.webp",
+    "tags_ko": [
+      "독일",
+      "육류",
+      "음식"
+    ]
   },
   {
     "name": "xiaolongbao",
@@ -3546,7 +4985,11 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/xiaolongbao.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/xiaolongbao_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/xiaolongbao_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "yakgwa",
@@ -3554,10 +4997,18 @@
       "dessert",
       "food",
       "korean",
-      "sweet"
+      "sweet",
+      "traditional"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yakgwa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yakgwa_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yakgwa_thumb.webp",
+    "tags_ko": [
+      "sweet",
+      "traditional",
+      "디저트",
+      "음식",
+      "한식"
+    ]
   },
   {
     "name": "yang rou chuan",
@@ -3566,26 +5017,38 @@
       "food"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yang%20rou%20chuan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yang%20rou%20chuan_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yang%20rou%20chuan_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "중식"
+    ]
   },
   {
     "name": "yellow bell pepper",
     "tags": [
-      "dish",
-      "food"
+      "food",
+      "vegetable"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellow%20bell%20pepper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellow%20bell%20pepper_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellow%20bell%20pepper_thumb.webp",
+    "tags_ko": [
+      "야채",
+      "음식"
+    ]
   },
   {
     "name": "yellowtail sushi",
     "tags": [
       "food",
       "japanese",
-      "rice",
       "seafood"
     ],
     "url": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellowtail%20sushi.png",
-    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellowtail%20sushi_thumb.webp"
+    "thumbUrl": "https://raw.githubusercontent.com/Jungjongmin1220/my-icons/main/food/yellowtail%20sushi_thumb.webp",
+    "tags_ko": [
+      "음식",
+      "일식",
+      "해산물"
+    ]
   }
 ]
